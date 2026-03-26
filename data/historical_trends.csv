@@ -1,0 +1,3601 @@
+date,area_name,category_name,demand_index
+2024-02-27,Velachery,Cafe,909
+2024-03-28,Velachery,Cafe,918
+2024-04-27,Velachery,Cafe,937
+2024-05-27,Velachery,Cafe,946
+2024-06-26,Velachery,Cafe,941
+2024-07-26,Velachery,Cafe,886
+2024-08-25,Velachery,Cafe,859
+2024-09-24,Velachery,Cafe,857
+2024-10-24,Velachery,Cafe,821
+2024-11-23,Velachery,Cafe,810
+2024-12-23,Velachery,Cafe,822
+2025-01-22,Velachery,Cafe,834
+2025-02-21,Velachery,Cafe,835
+2025-03-23,Velachery,Cafe,881
+2025-04-22,Velachery,Cafe,870
+2025-05-22,Velachery,Cafe,870
+2025-06-21,Velachery,Cafe,865
+2025-07-21,Velachery,Cafe,857
+2025-08-20,Velachery,Cafe,829
+2025-09-19,Velachery,Cafe,800
+2025-10-19,Velachery,Cafe,769
+2025-11-18,Velachery,Cafe,746
+2025-12-18,Velachery,Cafe,738
+2026-01-17,Velachery,Cafe,751
+2024-02-27,Velachery,Gym,193
+2024-03-28,Velachery,Gym,197
+2024-04-27,Velachery,Gym,229
+2024-05-27,Velachery,Gym,248
+2024-06-26,Velachery,Gym,236
+2024-07-26,Velachery,Gym,237
+2024-08-25,Velachery,Gym,202
+2024-09-24,Velachery,Gym,163
+2024-10-24,Velachery,Gym,157
+2024-11-23,Velachery,Gym,162
+2024-12-23,Velachery,Gym,149
+2025-01-22,Velachery,Gym,201
+2025-02-21,Velachery,Gym,219
+2025-03-23,Velachery,Gym,216
+2025-04-22,Velachery,Gym,264
+2025-05-22,Velachery,Gym,254
+2025-06-21,Velachery,Gym,249
+2025-07-21,Velachery,Gym,225
+2025-08-20,Velachery,Gym,225
+2025-09-19,Velachery,Gym,195
+2025-10-19,Velachery,Gym,177
+2025-11-18,Velachery,Gym,177
+2025-12-18,Velachery,Gym,183
+2026-01-17,Velachery,Gym,199
+2024-02-27,Velachery,Restaurant,629
+2024-03-28,Velachery,Restaurant,650
+2024-04-27,Velachery,Restaurant,696
+2024-05-27,Velachery,Restaurant,690
+2024-06-26,Velachery,Restaurant,684
+2024-07-26,Velachery,Restaurant,664
+2024-08-25,Velachery,Restaurant,656
+2024-09-24,Velachery,Restaurant,646
+2024-10-24,Velachery,Restaurant,633
+2024-11-23,Velachery,Restaurant,632
+2024-12-23,Velachery,Restaurant,620
+2025-01-22,Velachery,Restaurant,647
+2025-02-21,Velachery,Restaurant,688
+2025-03-23,Velachery,Restaurant,722
+2025-04-22,Velachery,Restaurant,758
+2025-05-22,Velachery,Restaurant,760
+2025-06-21,Velachery,Restaurant,771
+2025-07-21,Velachery,Restaurant,737
+2025-08-20,Velachery,Restaurant,722
+2025-09-19,Velachery,Restaurant,700
+2025-10-19,Velachery,Restaurant,680
+2025-11-18,Velachery,Restaurant,695
+2025-12-18,Velachery,Restaurant,690
+2026-01-17,Velachery,Restaurant,738
+2024-02-27,Velachery,Medical Shop,724
+2024-03-28,Velachery,Medical Shop,776
+2024-04-27,Velachery,Medical Shop,806
+2024-05-27,Velachery,Medical Shop,831
+2024-06-26,Velachery,Medical Shop,822
+2024-07-26,Velachery,Medical Shop,787
+2024-08-25,Velachery,Medical Shop,779
+2024-09-24,Velachery,Medical Shop,791
+2024-10-24,Velachery,Medical Shop,752
+2024-11-23,Velachery,Medical Shop,789
+2024-12-23,Velachery,Medical Shop,772
+2025-01-22,Velachery,Medical Shop,825
+2025-02-21,Velachery,Medical Shop,839
+2025-03-23,Velachery,Medical Shop,894
+2025-04-22,Velachery,Medical Shop,921
+2025-05-22,Velachery,Medical Shop,926
+2025-06-21,Velachery,Medical Shop,924
+2025-07-21,Velachery,Medical Shop,932
+2025-08-20,Velachery,Medical Shop,918
+2025-09-19,Velachery,Medical Shop,915
+2025-10-19,Velachery,Medical Shop,885
+2025-11-18,Velachery,Medical Shop,884
+2025-12-18,Velachery,Medical Shop,902
+2026-01-17,Velachery,Medical Shop,962
+2024-02-27,Velachery,Supermarket,144
+2024-03-28,Velachery,Supermarket,153
+2024-04-27,Velachery,Supermarket,172
+2024-05-27,Velachery,Supermarket,205
+2024-06-26,Velachery,Supermarket,192
+2024-07-26,Velachery,Supermarket,156
+2024-08-25,Velachery,Supermarket,159
+2024-09-24,Velachery,Supermarket,138
+2024-10-24,Velachery,Supermarket,87
+2024-11-23,Velachery,Supermarket,86
+2024-12-23,Velachery,Supermarket,115
+2025-01-22,Velachery,Supermarket,132
+2025-02-21,Velachery,Supermarket,141
+2025-03-23,Velachery,Supermarket,192
+2025-04-22,Velachery,Supermarket,221
+2025-05-22,Velachery,Supermarket,212
+2025-06-21,Velachery,Supermarket,216
+2025-07-21,Velachery,Supermarket,190
+2025-08-20,Velachery,Supermarket,179
+2025-09-19,Velachery,Supermarket,148
+2025-10-19,Velachery,Supermarket,123
+2025-11-18,Velachery,Supermarket,109
+2025-12-18,Velachery,Supermarket,124
+2026-01-17,Velachery,Supermarket,165
+2024-02-27,Velachery,Clothing Store,660
+2024-03-28,Velachery,Clothing Store,686
+2024-04-27,Velachery,Clothing Store,706
+2024-05-27,Velachery,Clothing Store,673
+2024-06-26,Velachery,Clothing Store,654
+2024-07-26,Velachery,Clothing Store,621
+2024-08-25,Velachery,Clothing Store,608
+2024-09-24,Velachery,Clothing Store,586
+2024-10-24,Velachery,Clothing Store,529
+2024-11-23,Velachery,Clothing Store,509
+2024-12-23,Velachery,Clothing Store,504
+2025-01-22,Velachery,Clothing Store,552
+2025-02-21,Velachery,Clothing Store,556
+2025-03-23,Velachery,Clothing Store,554
+2025-04-22,Velachery,Clothing Store,562
+2025-05-22,Velachery,Clothing Store,571
+2025-06-21,Velachery,Clothing Store,573
+2025-07-21,Velachery,Clothing Store,546
+2025-08-20,Velachery,Clothing Store,487
+2025-09-19,Velachery,Clothing Store,446
+2025-10-19,Velachery,Clothing Store,444
+2025-11-18,Velachery,Clothing Store,405
+2025-12-18,Velachery,Clothing Store,426
+2026-01-17,Velachery,Clothing Store,422
+2024-02-27,Velachery,Salon,342
+2024-03-28,Velachery,Salon,350
+2024-04-27,Velachery,Salon,394
+2024-05-27,Velachery,Salon,423
+2024-06-26,Velachery,Salon,447
+2024-07-26,Velachery,Salon,408
+2024-08-25,Velachery,Salon,414
+2024-09-24,Velachery,Salon,410
+2024-10-24,Velachery,Salon,417
+2024-11-23,Velachery,Salon,422
+2024-12-23,Velachery,Salon,432
+2025-01-22,Velachery,Salon,490
+2025-02-21,Velachery,Salon,550
+2025-03-23,Velachery,Salon,570
+2025-04-22,Velachery,Salon,638
+2025-05-22,Velachery,Salon,646
+2025-06-21,Velachery,Salon,675
+2025-07-21,Velachery,Salon,682
+2025-08-20,Velachery,Salon,670
+2025-09-19,Velachery,Salon,685
+2025-10-19,Velachery,Salon,705
+2025-11-18,Velachery,Salon,736
+2025-12-18,Velachery,Salon,763
+2026-01-17,Velachery,Salon,807
+2024-02-27,Velachery,Bakery,673
+2024-03-28,Velachery,Bakery,732
+2024-04-27,Velachery,Bakery,762
+2024-05-27,Velachery,Bakery,791
+2024-06-26,Velachery,Bakery,793
+2024-07-26,Velachery,Bakery,811
+2024-08-25,Velachery,Bakery,831
+2024-09-24,Velachery,Bakery,835
+2024-10-24,Velachery,Bakery,839
+2024-11-23,Velachery,Bakery,859
+2024-12-23,Velachery,Bakery,896
+2025-01-22,Velachery,Bakery,946
+2025-02-21,Velachery,Bakery,999
+2025-03-23,Velachery,Bakery,1058
+2025-04-22,Velachery,Bakery,1140
+2025-05-22,Velachery,Bakery,1160
+2025-06-21,Velachery,Bakery,1195
+2025-07-21,Velachery,Bakery,1203
+2025-08-20,Velachery,Bakery,1223
+2025-09-19,Velachery,Bakery,1239
+2025-10-19,Velachery,Bakery,1270
+2025-11-18,Velachery,Bakery,1324
+2025-12-18,Velachery,Bakery,1372
+2026-01-17,Velachery,Bakery,1447
+2024-02-27,Velachery,Electronics,502
+2024-03-28,Velachery,Electronics,518
+2024-04-27,Velachery,Electronics,543
+2024-05-27,Velachery,Electronics,586
+2024-06-26,Velachery,Electronics,578
+2024-07-26,Velachery,Electronics,575
+2024-08-25,Velachery,Electronics,556
+2024-09-24,Velachery,Electronics,550
+2024-10-24,Velachery,Electronics,525
+2024-11-23,Velachery,Electronics,555
+2024-12-23,Velachery,Electronics,569
+2025-01-22,Velachery,Electronics,601
+2025-02-21,Velachery,Electronics,634
+2025-03-23,Velachery,Electronics,685
+2025-04-22,Velachery,Electronics,703
+2025-05-22,Velachery,Electronics,740
+2025-06-21,Velachery,Electronics,717
+2025-07-21,Velachery,Electronics,736
+2025-08-20,Velachery,Electronics,713
+2025-09-19,Velachery,Electronics,696
+2025-10-19,Velachery,Electronics,708
+2025-11-18,Velachery,Electronics,714
+2025-12-18,Velachery,Electronics,755
+2026-01-17,Velachery,Electronics,783
+2024-02-27,Velachery,Bookstore,507
+2024-03-28,Velachery,Bookstore,548
+2024-04-27,Velachery,Bookstore,555
+2024-05-27,Velachery,Bookstore,564
+2024-06-26,Velachery,Bookstore,564
+2024-07-26,Velachery,Bookstore,512
+2024-08-25,Velachery,Bookstore,514
+2024-09-24,Velachery,Bookstore,469
+2024-10-24,Velachery,Bookstore,442
+2024-11-23,Velachery,Bookstore,440
+2024-12-23,Velachery,Bookstore,455
+2025-01-22,Velachery,Bookstore,453
+2025-02-21,Velachery,Bookstore,489
+2025-03-23,Velachery,Bookstore,483
+2025-04-22,Velachery,Bookstore,494
+2025-05-22,Velachery,Bookstore,499
+2025-06-21,Velachery,Bookstore,499
+2025-07-21,Velachery,Bookstore,459
+2025-08-20,Velachery,Bookstore,429
+2025-09-19,Velachery,Bookstore,416
+2025-10-19,Velachery,Bookstore,413
+2025-11-18,Velachery,Bookstore,366
+2025-12-18,Velachery,Bookstore,376
+2026-01-17,Velachery,Bookstore,387
+2024-02-27,Velachery,Co-working Space,991
+2024-03-28,Velachery,Co-working Space,1001
+2024-04-27,Velachery,Co-working Space,1025
+2024-05-27,Velachery,Co-working Space,1018
+2024-06-26,Velachery,Co-working Space,1023
+2024-07-26,Velachery,Co-working Space,986
+2024-08-25,Velachery,Co-working Space,968
+2024-09-24,Velachery,Co-working Space,907
+2024-10-24,Velachery,Co-working Space,886
+2024-11-23,Velachery,Co-working Space,904
+2024-12-23,Velachery,Co-working Space,883
+2025-01-22,Velachery,Co-working Space,906
+2025-02-21,Velachery,Co-working Space,919
+2025-03-23,Velachery,Co-working Space,936
+2025-04-22,Velachery,Co-working Space,959
+2025-05-22,Velachery,Co-working Space,963
+2025-06-21,Velachery,Co-working Space,954
+2025-07-21,Velachery,Co-working Space,941
+2025-08-20,Velachery,Co-working Space,926
+2025-09-19,Velachery,Co-working Space,898
+2025-10-19,Velachery,Co-working Space,877
+2025-11-18,Velachery,Co-working Space,844
+2025-12-18,Velachery,Co-working Space,866
+2026-01-17,Velachery,Co-working Space,877
+2024-02-27,Velachery,Hardware Store,332
+2024-03-28,Velachery,Hardware Store,331
+2024-04-27,Velachery,Hardware Store,371
+2024-05-27,Velachery,Hardware Store,383
+2024-06-26,Velachery,Hardware Store,369
+2024-07-26,Velachery,Hardware Store,352
+2024-08-25,Velachery,Hardware Store,323
+2024-09-24,Velachery,Hardware Store,323
+2024-10-24,Velachery,Hardware Store,294
+2024-11-23,Velachery,Hardware Store,276
+2024-12-23,Velachery,Hardware Store,287
+2025-01-22,Velachery,Hardware Store,327
+2025-02-21,Velachery,Hardware Store,351
+2025-03-23,Velachery,Hardware Store,393
+2025-04-22,Velachery,Hardware Store,395
+2025-05-22,Velachery,Hardware Store,426
+2025-06-21,Velachery,Hardware Store,415
+2025-07-21,Velachery,Hardware Store,390
+2025-08-20,Velachery,Hardware Store,369
+2025-09-19,Velachery,Hardware Store,334
+2025-10-19,Velachery,Hardware Store,344
+2025-11-18,Velachery,Hardware Store,311
+2025-12-18,Velachery,Hardware Store,317
+2026-01-17,Velachery,Hardware Store,369
+2024-02-27,Velachery,Pet Shop,777
+2024-03-28,Velachery,Pet Shop,777
+2024-04-27,Velachery,Pet Shop,794
+2024-05-27,Velachery,Pet Shop,803
+2024-06-26,Velachery,Pet Shop,784
+2024-07-26,Velachery,Pet Shop,792
+2024-08-25,Velachery,Pet Shop,751
+2024-09-24,Velachery,Pet Shop,729
+2024-10-24,Velachery,Pet Shop,698
+2024-11-23,Velachery,Pet Shop,672
+2024-12-23,Velachery,Pet Shop,675
+2025-01-22,Velachery,Pet Shop,702
+2025-02-21,Velachery,Pet Shop,722
+2025-03-23,Velachery,Pet Shop,725
+2025-04-22,Velachery,Pet Shop,763
+2025-05-22,Velachery,Pet Shop,734
+2025-06-21,Velachery,Pet Shop,749
+2025-07-21,Velachery,Pet Shop,719
+2025-08-20,Velachery,Pet Shop,696
+2025-09-19,Velachery,Pet Shop,644
+2025-10-19,Velachery,Pet Shop,622
+2025-11-18,Velachery,Pet Shop,604
+2025-12-18,Velachery,Pet Shop,620
+2026-01-17,Velachery,Pet Shop,656
+2024-02-27,Velachery,Laundromat,740
+2024-03-28,Velachery,Laundromat,785
+2024-04-27,Velachery,Laundromat,819
+2024-05-27,Velachery,Laundromat,845
+2024-06-26,Velachery,Laundromat,865
+2024-07-26,Velachery,Laundromat,891
+2024-08-25,Velachery,Laundromat,890
+2024-09-24,Velachery,Laundromat,884
+2024-10-24,Velachery,Laundromat,905
+2024-11-23,Velachery,Laundromat,946
+2024-12-23,Velachery,Laundromat,980
+2025-01-22,Velachery,Laundromat,1047
+2025-02-21,Velachery,Laundromat,1096
+2025-03-23,Velachery,Laundromat,1131
+2025-04-22,Velachery,Laundromat,1214
+2025-05-22,Velachery,Laundromat,1244
+2025-06-21,Velachery,Laundromat,1263
+2025-07-21,Velachery,Laundromat,1293
+2025-08-20,Velachery,Laundromat,1330
+2025-09-19,Velachery,Laundromat,1327
+2025-10-19,Velachery,Laundromat,1380
+2025-11-18,Velachery,Laundromat,1398
+2025-12-18,Velachery,Laundromat,1470
+2026-01-17,Velachery,Laundromat,1542
+2024-02-27,Velachery,Clinic,262
+2024-03-28,Velachery,Clinic,282
+2024-04-27,Velachery,Clinic,337
+2024-05-27,Velachery,Clinic,325
+2024-06-26,Velachery,Clinic,322
+2024-07-26,Velachery,Clinic,297
+2024-08-25,Velachery,Clinic,255
+2024-09-24,Velachery,Clinic,224
+2024-10-24,Velachery,Clinic,210
+2024-11-23,Velachery,Clinic,196
+2024-12-23,Velachery,Clinic,198
+2025-01-22,Velachery,Clinic,229
+2025-02-21,Velachery,Clinic,243
+2025-03-23,Velachery,Clinic,257
+2025-04-22,Velachery,Clinic,285
+2025-05-22,Velachery,Clinic,301
+2025-06-21,Velachery,Clinic,280
+2025-07-21,Velachery,Clinic,247
+2025-08-20,Velachery,Clinic,252
+2025-09-19,Velachery,Clinic,216
+2025-10-19,Velachery,Clinic,183
+2025-11-18,Velachery,Clinic,193
+2025-12-18,Velachery,Clinic,166
+2026-01-17,Velachery,Clinic,198
+2024-02-27,T Nagar,Cafe,673
+2024-03-28,T Nagar,Cafe,701
+2024-04-27,T Nagar,Cafe,706
+2024-05-27,T Nagar,Cafe,689
+2024-06-26,T Nagar,Cafe,670
+2024-07-26,T Nagar,Cafe,633
+2024-08-25,T Nagar,Cafe,607
+2024-09-24,T Nagar,Cafe,573
+2024-10-24,T Nagar,Cafe,540
+2024-11-23,T Nagar,Cafe,552
+2024-12-23,T Nagar,Cafe,542
+2025-01-22,T Nagar,Cafe,559
+2025-02-21,T Nagar,Cafe,582
+2025-03-23,T Nagar,Cafe,598
+2025-04-22,T Nagar,Cafe,577
+2025-05-22,T Nagar,Cafe,587
+2025-06-21,T Nagar,Cafe,562
+2025-07-21,T Nagar,Cafe,560
+2025-08-20,T Nagar,Cafe,512
+2025-09-19,T Nagar,Cafe,490
+2025-10-19,T Nagar,Cafe,450
+2025-11-18,T Nagar,Cafe,450
+2025-12-18,T Nagar,Cafe,463
+2026-01-17,T Nagar,Cafe,460
+2024-02-27,T Nagar,Gym,937
+2024-03-28,T Nagar,Gym,961
+2024-04-27,T Nagar,Gym,970
+2024-05-27,T Nagar,Gym,953
+2024-06-26,T Nagar,Gym,940
+2024-07-26,T Nagar,Gym,953
+2024-08-25,T Nagar,Gym,915
+2024-09-24,T Nagar,Gym,876
+2024-10-24,T Nagar,Gym,877
+2024-11-23,T Nagar,Gym,850
+2024-12-23,T Nagar,Gym,875
+2025-01-22,T Nagar,Gym,889
+2025-02-21,T Nagar,Gym,900
+2025-03-23,T Nagar,Gym,924
+2025-04-22,T Nagar,Gym,949
+2025-05-22,T Nagar,Gym,924
+2025-06-21,T Nagar,Gym,927
+2025-07-21,T Nagar,Gym,922
+2025-08-20,T Nagar,Gym,873
+2025-09-19,T Nagar,Gym,855
+2025-10-19,T Nagar,Gym,855
+2025-11-18,T Nagar,Gym,814
+2025-12-18,T Nagar,Gym,823
+2026-01-17,T Nagar,Gym,866
+2024-02-27,T Nagar,Restaurant,157
+2024-03-28,T Nagar,Restaurant,159
+2024-04-27,T Nagar,Restaurant,171
+2024-05-27,T Nagar,Restaurant,180
+2024-06-26,T Nagar,Restaurant,172
+2024-07-26,T Nagar,Restaurant,149
+2024-08-25,T Nagar,Restaurant,113
+2024-09-24,T Nagar,Restaurant,85
+2024-10-24,T Nagar,Restaurant,78
+2024-11-23,T Nagar,Restaurant,91
+2024-12-23,T Nagar,Restaurant,63
+2025-01-22,T Nagar,Restaurant,106
+2025-02-21,T Nagar,Restaurant,129
+2025-03-23,T Nagar,Restaurant,124
+2025-04-22,T Nagar,Restaurant,157
+2025-05-22,T Nagar,Restaurant,160
+2025-06-21,T Nagar,Restaurant,140
+2025-07-21,T Nagar,Restaurant,133
+2025-08-20,T Nagar,Restaurant,85
+2025-09-19,T Nagar,Restaurant,94
+2025-10-19,T Nagar,Restaurant,53
+2025-11-18,T Nagar,Restaurant,61
+2025-12-18,T Nagar,Restaurant,47
+2026-01-17,T Nagar,Restaurant,79
+2024-02-27,T Nagar,Medical Shop,749
+2024-03-28,T Nagar,Medical Shop,779
+2024-04-27,T Nagar,Medical Shop,800
+2024-05-27,T Nagar,Medical Shop,837
+2024-06-26,T Nagar,Medical Shop,817
+2024-07-26,T Nagar,Medical Shop,799
+2024-08-25,T Nagar,Medical Shop,785
+2024-09-24,T Nagar,Medical Shop,793
+2024-10-24,T Nagar,Medical Shop,797
+2024-11-23,T Nagar,Medical Shop,774
+2024-12-23,T Nagar,Medical Shop,793
+2025-01-22,T Nagar,Medical Shop,818
+2025-02-21,T Nagar,Medical Shop,856
+2025-03-23,T Nagar,Medical Shop,906
+2025-04-22,T Nagar,Medical Shop,919
+2025-05-22,T Nagar,Medical Shop,963
+2025-06-21,T Nagar,Medical Shop,951
+2025-07-21,T Nagar,Medical Shop,966
+2025-08-20,T Nagar,Medical Shop,940
+2025-09-19,T Nagar,Medical Shop,917
+2025-10-19,T Nagar,Medical Shop,930
+2025-11-18,T Nagar,Medical Shop,935
+2025-12-18,T Nagar,Medical Shop,954
+2026-01-17,T Nagar,Medical Shop,960
+2024-02-27,T Nagar,Supermarket,560
+2024-03-28,T Nagar,Supermarket,579
+2024-04-27,T Nagar,Supermarket,620
+2024-05-27,T Nagar,Supermarket,598
+2024-06-26,T Nagar,Supermarket,583
+2024-07-26,T Nagar,Supermarket,544
+2024-08-25,T Nagar,Supermarket,529
+2024-09-24,T Nagar,Supermarket,508
+2024-10-24,T Nagar,Supermarket,483
+2024-11-23,T Nagar,Supermarket,441
+2024-12-23,T Nagar,Supermarket,446
+2025-01-22,T Nagar,Supermarket,466
+2025-02-21,T Nagar,Supermarket,504
+2025-03-23,T Nagar,Supermarket,516
+2025-04-22,T Nagar,Supermarket,512
+2025-05-22,T Nagar,Supermarket,511
+2025-06-21,T Nagar,Supermarket,497
+2025-07-21,T Nagar,Supermarket,464
+2025-08-20,T Nagar,Supermarket,440
+2025-09-19,T Nagar,Supermarket,403
+2025-10-19,T Nagar,Supermarket,401
+2025-11-18,T Nagar,Supermarket,364
+2025-12-18,T Nagar,Supermarket,396
+2026-01-17,T Nagar,Supermarket,381
+2024-02-27,T Nagar,Clothing Store,348
+2024-03-28,T Nagar,Clothing Store,358
+2024-04-27,T Nagar,Clothing Store,391
+2024-05-27,T Nagar,Clothing Store,401
+2024-06-26,T Nagar,Clothing Store,380
+2024-07-26,T Nagar,Clothing Store,357
+2024-08-25,T Nagar,Clothing Store,350
+2024-09-24,T Nagar,Clothing Store,300
+2024-10-24,T Nagar,Clothing Store,292
+2024-11-23,T Nagar,Clothing Store,281
+2024-12-23,T Nagar,Clothing Store,282
+2025-01-22,T Nagar,Clothing Store,301
+2025-02-21,T Nagar,Clothing Store,323
+2025-03-23,T Nagar,Clothing Store,339
+2025-04-22,T Nagar,Clothing Store,355
+2025-05-22,T Nagar,Clothing Store,386
+2025-06-21,T Nagar,Clothing Store,383
+2025-07-21,T Nagar,Clothing Store,365
+2025-08-20,T Nagar,Clothing Store,333
+2025-09-19,T Nagar,Clothing Store,306
+2025-10-19,T Nagar,Clothing Store,280
+2025-11-18,T Nagar,Clothing Store,275
+2025-12-18,T Nagar,Clothing Store,287
+2026-01-17,T Nagar,Clothing Store,299
+2024-02-27,T Nagar,Salon,333
+2024-03-28,T Nagar,Salon,352
+2024-04-27,T Nagar,Salon,377
+2024-05-27,T Nagar,Salon,391
+2024-06-26,T Nagar,Salon,408
+2024-07-26,T Nagar,Salon,383
+2024-08-25,T Nagar,Salon,358
+2024-09-24,T Nagar,Salon,320
+2024-10-24,T Nagar,Salon,322
+2024-11-23,T Nagar,Salon,322
+2024-12-23,T Nagar,Salon,316
+2025-01-22,T Nagar,Salon,369
+2025-02-21,T Nagar,Salon,377
+2025-03-23,T Nagar,Salon,413
+2025-04-22,T Nagar,Salon,440
+2025-05-22,T Nagar,Salon,476
+2025-06-21,T Nagar,Salon,474
+2025-07-21,T Nagar,Salon,442
+2025-08-20,T Nagar,Salon,435
+2025-09-19,T Nagar,Salon,389
+2025-10-19,T Nagar,Salon,381
+2025-11-18,T Nagar,Salon,401
+2025-12-18,T Nagar,Salon,396
+2026-01-17,T Nagar,Salon,432
+2024-02-27,T Nagar,Bakery,698
+2024-03-28,T Nagar,Bakery,726
+2024-04-27,T Nagar,Bakery,749
+2024-05-27,T Nagar,Bakery,737
+2024-06-26,T Nagar,Bakery,730
+2024-07-26,T Nagar,Bakery,737
+2024-08-25,T Nagar,Bakery,692
+2024-09-24,T Nagar,Bakery,686
+2024-10-24,T Nagar,Bakery,649
+2024-11-23,T Nagar,Bakery,666
+2024-12-23,T Nagar,Bakery,650
+2025-01-22,T Nagar,Bakery,667
+2025-02-21,T Nagar,Bakery,692
+2025-03-23,T Nagar,Bakery,719
+2025-04-22,T Nagar,Bakery,763
+2025-05-22,T Nagar,Bakery,751
+2025-06-21,T Nagar,Bakery,738
+2025-07-21,T Nagar,Bakery,730
+2025-08-20,T Nagar,Bakery,704
+2025-09-19,T Nagar,Bakery,691
+2025-10-19,T Nagar,Bakery,679
+2025-11-18,T Nagar,Bakery,672
+2025-12-18,T Nagar,Bakery,675
+2026-01-17,T Nagar,Bakery,699
+2024-02-27,T Nagar,Electronics,236
+2024-03-28,T Nagar,Electronics,259
+2024-04-27,T Nagar,Electronics,307
+2024-05-27,T Nagar,Electronics,304
+2024-06-26,T Nagar,Electronics,313
+2024-07-26,T Nagar,Electronics,262
+2024-08-25,T Nagar,Electronics,272
+2024-09-24,T Nagar,Electronics,240
+2024-10-24,T Nagar,Electronics,213
+2024-11-23,T Nagar,Electronics,211
+2024-12-23,T Nagar,Electronics,216
+2025-01-22,T Nagar,Electronics,234
+2025-02-21,T Nagar,Electronics,270
+2025-03-23,T Nagar,Electronics,317
+2025-04-22,T Nagar,Electronics,324
+2025-05-22,T Nagar,Electronics,316
+2025-06-21,T Nagar,Electronics,313
+2025-07-21,T Nagar,Electronics,292
+2025-08-20,T Nagar,Electronics,285
+2025-09-19,T Nagar,Electronics,259
+2025-10-19,T Nagar,Electronics,239
+2025-11-18,T Nagar,Electronics,247
+2025-12-18,T Nagar,Electronics,269
+2026-01-17,T Nagar,Electronics,268
+2024-02-27,T Nagar,Bookstore,153
+2024-03-28,T Nagar,Bookstore,164
+2024-04-27,T Nagar,Bookstore,179
+2024-05-27,T Nagar,Bookstore,187
+2024-06-26,T Nagar,Bookstore,195
+2024-07-26,T Nagar,Bookstore,173
+2024-08-25,T Nagar,Bookstore,130
+2024-09-24,T Nagar,Bookstore,114
+2024-10-24,T Nagar,Bookstore,102
+2024-11-23,T Nagar,Bookstore,71
+2024-12-23,T Nagar,Bookstore,83
+2025-01-22,T Nagar,Bookstore,95
+2025-02-21,T Nagar,Bookstore,131
+2025-03-23,T Nagar,Bookstore,140
+2025-04-22,T Nagar,Bookstore,178
+2025-05-22,T Nagar,Bookstore,177
+2025-06-21,T Nagar,Bookstore,187
+2025-07-21,T Nagar,Bookstore,139
+2025-08-20,T Nagar,Bookstore,118
+2025-09-19,T Nagar,Bookstore,100
+2025-10-19,T Nagar,Bookstore,59
+2025-11-18,T Nagar,Bookstore,73
+2025-12-18,T Nagar,Bookstore,66
+2026-01-17,T Nagar,Bookstore,80
+2024-02-27,T Nagar,Co-working Space,347
+2024-03-28,T Nagar,Co-working Space,395
+2024-04-27,T Nagar,Co-working Space,414
+2024-05-27,T Nagar,Co-working Space,408
+2024-06-26,T Nagar,Co-working Space,389
+2024-07-26,T Nagar,Co-working Space,398
+2024-08-25,T Nagar,Co-working Space,378
+2024-09-24,T Nagar,Co-working Space,358
+2024-10-24,T Nagar,Co-working Space,332
+2024-11-23,T Nagar,Co-working Space,321
+2024-12-23,T Nagar,Co-working Space,340
+2025-01-22,T Nagar,Co-working Space,329
+2025-02-21,T Nagar,Co-working Space,391
+2025-03-23,T Nagar,Co-working Space,386
+2025-04-22,T Nagar,Co-working Space,416
+2025-05-22,T Nagar,Co-working Space,440
+2025-06-21,T Nagar,Co-working Space,411
+2025-07-21,T Nagar,Co-working Space,403
+2025-08-20,T Nagar,Co-working Space,396
+2025-09-19,T Nagar,Co-working Space,345
+2025-10-19,T Nagar,Co-working Space,355
+2025-11-18,T Nagar,Co-working Space,352
+2025-12-18,T Nagar,Co-working Space,354
+2026-01-17,T Nagar,Co-working Space,359
+2024-02-27,T Nagar,Hardware Store,975
+2024-03-28,T Nagar,Hardware Store,1017
+2024-04-27,T Nagar,Hardware Store,1092
+2024-05-27,T Nagar,Hardware Store,1144
+2024-06-26,T Nagar,Hardware Store,1162
+2024-07-26,T Nagar,Hardware Store,1173
+2024-08-25,T Nagar,Hardware Store,1221
+2024-09-24,T Nagar,Hardware Store,1237
+2024-10-24,T Nagar,Hardware Store,1246
+2024-11-23,T Nagar,Hardware Store,1310
+2024-12-23,T Nagar,Hardware Store,1333
+2025-01-22,T Nagar,Hardware Store,1422
+2025-02-21,T Nagar,Hardware Store,1479
+2025-03-23,T Nagar,Hardware Store,1564
+2025-04-22,T Nagar,Hardware Store,1661
+2025-05-22,T Nagar,Hardware Store,1736
+2025-06-21,T Nagar,Hardware Store,1757
+2025-07-21,T Nagar,Hardware Store,1822
+2025-08-20,T Nagar,Hardware Store,1852
+2025-09-19,T Nagar,Hardware Store,1890
+2025-10-19,T Nagar,Hardware Store,1962
+2025-11-18,T Nagar,Hardware Store,2020
+2025-12-18,T Nagar,Hardware Store,2119
+2026-01-17,T Nagar,Hardware Store,2193
+2024-02-27,T Nagar,Pet Shop,134
+2024-03-28,T Nagar,Pet Shop,180
+2024-04-27,T Nagar,Pet Shop,194
+2024-05-27,T Nagar,Pet Shop,189
+2024-06-26,T Nagar,Pet Shop,208
+2024-07-26,T Nagar,Pet Shop,191
+2024-08-25,T Nagar,Pet Shop,148
+2024-09-24,T Nagar,Pet Shop,147
+2024-10-24,T Nagar,Pet Shop,114
+2024-11-23,T Nagar,Pet Shop,126
+2024-12-23,T Nagar,Pet Shop,131
+2025-01-22,T Nagar,Pet Shop,143
+2025-02-21,T Nagar,Pet Shop,175
+2025-03-23,T Nagar,Pet Shop,225
+2025-04-22,T Nagar,Pet Shop,217
+2025-05-22,T Nagar,Pet Shop,229
+2025-06-21,T Nagar,Pet Shop,235
+2025-07-21,T Nagar,Pet Shop,217
+2025-08-20,T Nagar,Pet Shop,191
+2025-09-19,T Nagar,Pet Shop,164
+2025-10-19,T Nagar,Pet Shop,153
+2025-11-18,T Nagar,Pet Shop,154
+2025-12-18,T Nagar,Pet Shop,175
+2026-01-17,T Nagar,Pet Shop,215
+2024-02-27,T Nagar,Laundromat,864
+2024-03-28,T Nagar,Laundromat,871
+2024-04-27,T Nagar,Laundromat,916
+2024-05-27,T Nagar,Laundromat,928
+2024-06-26,T Nagar,Laundromat,910
+2024-07-26,T Nagar,Laundromat,876
+2024-08-25,T Nagar,Laundromat,875
+2024-09-24,T Nagar,Laundromat,845
+2024-10-24,T Nagar,Laundromat,819
+2024-11-23,T Nagar,Laundromat,816
+2024-12-23,T Nagar,Laundromat,820
+2025-01-22,T Nagar,Laundromat,842
+2025-02-21,T Nagar,Laundromat,855
+2025-03-23,T Nagar,Laundromat,894
+2025-04-22,T Nagar,Laundromat,917
+2025-05-22,T Nagar,Laundromat,911
+2025-06-21,T Nagar,Laundromat,911
+2025-07-21,T Nagar,Laundromat,890
+2025-08-20,T Nagar,Laundromat,860
+2025-09-19,T Nagar,Laundromat,843
+2025-10-19,T Nagar,Laundromat,843
+2025-11-18,T Nagar,Laundromat,808
+2025-12-18,T Nagar,Laundromat,846
+2026-01-17,T Nagar,Laundromat,851
+2024-02-27,T Nagar,Clinic,314
+2024-03-28,T Nagar,Clinic,311
+2024-04-27,T Nagar,Clinic,356
+2024-05-27,T Nagar,Clinic,363
+2024-06-26,T Nagar,Clinic,328
+2024-07-26,T Nagar,Clinic,331
+2024-08-25,T Nagar,Clinic,304
+2024-09-24,T Nagar,Clinic,266
+2024-10-24,T Nagar,Clinic,272
+2024-11-23,T Nagar,Clinic,263
+2024-12-23,T Nagar,Clinic,245
+2025-01-22,T Nagar,Clinic,268
+2025-02-21,T Nagar,Clinic,318
+2025-03-23,T Nagar,Clinic,320
+2025-04-22,T Nagar,Clinic,347
+2025-05-22,T Nagar,Clinic,371
+2025-06-21,T Nagar,Clinic,334
+2025-07-21,T Nagar,Clinic,333
+2025-08-20,T Nagar,Clinic,307
+2025-09-19,T Nagar,Clinic,298
+2025-10-19,T Nagar,Clinic,254
+2025-11-18,T Nagar,Clinic,272
+2025-12-18,T Nagar,Clinic,257
+2026-01-17,T Nagar,Clinic,302
+2024-02-27,Adyar,Cafe,828
+2024-03-28,Adyar,Cafe,852
+2024-04-27,Adyar,Cafe,862
+2024-05-27,Adyar,Cafe,889
+2024-06-26,Adyar,Cafe,890
+2024-07-26,Adyar,Cafe,847
+2024-08-25,Adyar,Cafe,850
+2024-09-24,Adyar,Cafe,835
+2024-10-24,Adyar,Cafe,813
+2024-11-23,Adyar,Cafe,809
+2024-12-23,Adyar,Cafe,821
+2025-01-22,Adyar,Cafe,848
+2025-02-21,Adyar,Cafe,897
+2025-03-23,Adyar,Cafe,892
+2025-04-22,Adyar,Cafe,927
+2025-05-22,Adyar,Cafe,928
+2025-06-21,Adyar,Cafe,937
+2025-07-21,Adyar,Cafe,942
+2025-08-20,Adyar,Cafe,895
+2025-09-19,Adyar,Cafe,902
+2025-10-19,Adyar,Cafe,872
+2025-11-18,Adyar,Cafe,876
+2025-12-18,Adyar,Cafe,900
+2026-01-17,Adyar,Cafe,927
+2024-02-27,Adyar,Gym,541
+2024-03-28,Adyar,Gym,571
+2024-04-27,Adyar,Gym,607
+2024-05-27,Adyar,Gym,619
+2024-06-26,Adyar,Gym,659
+2024-07-26,Adyar,Gym,646
+2024-08-25,Adyar,Gym,650
+2024-09-24,Adyar,Gym,658
+2024-10-24,Adyar,Gym,660
+2024-11-23,Adyar,Gym,650
+2024-12-23,Adyar,Gym,696
+2025-01-22,Adyar,Gym,739
+2025-02-21,Adyar,Gym,771
+2025-03-23,Adyar,Gym,853
+2025-04-22,Adyar,Gym,892
+2025-05-22,Adyar,Gym,931
+2025-06-21,Adyar,Gym,944
+2025-07-21,Adyar,Gym,967
+2025-08-20,Adyar,Gym,977
+2025-09-19,Adyar,Gym,966
+2025-10-19,Adyar,Gym,977
+2025-11-18,Adyar,Gym,1008
+2025-12-18,Adyar,Gym,1054
+2026-01-17,Adyar,Gym,1101
+2024-02-27,Adyar,Restaurant,213
+2024-03-28,Adyar,Restaurant,229
+2024-04-27,Adyar,Restaurant,264
+2024-05-27,Adyar,Restaurant,296
+2024-06-26,Adyar,Restaurant,299
+2024-07-26,Adyar,Restaurant,260
+2024-08-25,Adyar,Restaurant,253
+2024-09-24,Adyar,Restaurant,234
+2024-10-24,Adyar,Restaurant,225
+2024-11-23,Adyar,Restaurant,234
+2024-12-23,Adyar,Restaurant,221
+2025-01-22,Adyar,Restaurant,255
+2025-02-21,Adyar,Restaurant,317
+2025-03-23,Adyar,Restaurant,332
+2025-04-22,Adyar,Restaurant,338
+2025-05-22,Adyar,Restaurant,373
+2025-06-21,Adyar,Restaurant,380
+2025-07-21,Adyar,Restaurant,364
+2025-08-20,Adyar,Restaurant,362
+2025-09-19,Adyar,Restaurant,338
+2025-10-19,Adyar,Restaurant,324
+2025-11-18,Adyar,Restaurant,340
+2025-12-18,Adyar,Restaurant,335
+2026-01-17,Adyar,Restaurant,382
+2024-02-27,Adyar,Medical Shop,691
+2024-03-28,Adyar,Medical Shop,716
+2024-04-27,Adyar,Medical Shop,775
+2024-05-27,Adyar,Medical Shop,839
+2024-06-26,Adyar,Medical Shop,848
+2024-07-26,Adyar,Medical Shop,881
+2024-08-25,Adyar,Medical Shop,898
+2024-09-24,Adyar,Medical Shop,933
+2024-10-24,Adyar,Medical Shop,959
+2024-11-23,Adyar,Medical Shop,990
+2024-12-23,Adyar,Medical Shop,1022
+2025-01-22,Adyar,Medical Shop,1102
+2025-02-21,Adyar,Medical Shop,1191
+2025-03-23,Adyar,Medical Shop,1281
+2025-04-22,Adyar,Medical Shop,1348
+2025-05-22,Adyar,Medical Shop,1436
+2025-06-21,Adyar,Medical Shop,1470
+2025-07-21,Adyar,Medical Shop,1544
+2025-08-20,Adyar,Medical Shop,1582
+2025-09-19,Adyar,Medical Shop,1649
+2025-10-19,Adyar,Medical Shop,1698
+2025-11-18,Adyar,Medical Shop,1766
+2025-12-18,Adyar,Medical Shop,1873
+2026-01-17,Adyar,Medical Shop,1979
+2024-02-27,Adyar,Supermarket,183
+2024-03-28,Adyar,Supermarket,195
+2024-04-27,Adyar,Supermarket,228
+2024-05-27,Adyar,Supermarket,244
+2024-06-26,Adyar,Supermarket,224
+2024-07-26,Adyar,Supermarket,227
+2024-08-25,Adyar,Supermarket,214
+2024-09-24,Adyar,Supermarket,189
+2024-10-24,Adyar,Supermarket,156
+2024-11-23,Adyar,Supermarket,170
+2024-12-23,Adyar,Supermarket,176
+2025-01-22,Adyar,Supermarket,191
+2025-02-21,Adyar,Supermarket,211
+2025-03-23,Adyar,Supermarket,253
+2025-04-22,Adyar,Supermarket,273
+2025-05-22,Adyar,Supermarket,266
+2025-06-21,Adyar,Supermarket,263
+2025-07-21,Adyar,Supermarket,263
+2025-08-20,Adyar,Supermarket,229
+2025-09-19,Adyar,Supermarket,212
+2025-10-19,Adyar,Supermarket,203
+2025-11-18,Adyar,Supermarket,208
+2025-12-18,Adyar,Supermarket,225
+2026-01-17,Adyar,Supermarket,237
+2024-02-27,Adyar,Clothing Store,270
+2024-03-28,Adyar,Clothing Store,302
+2024-04-27,Adyar,Clothing Store,309
+2024-05-27,Adyar,Clothing Store,334
+2024-06-26,Adyar,Clothing Store,306
+2024-07-26,Adyar,Clothing Store,294
+2024-08-25,Adyar,Clothing Store,261
+2024-09-24,Adyar,Clothing Store,259
+2024-10-24,Adyar,Clothing Store,227
+2024-11-23,Adyar,Clothing Store,246
+2024-12-23,Adyar,Clothing Store,225
+2025-01-22,Adyar,Clothing Store,247
+2025-02-21,Adyar,Clothing Store,304
+2025-03-23,Adyar,Clothing Store,308
+2025-04-22,Adyar,Clothing Store,317
+2025-05-22,Adyar,Clothing Store,335
+2025-06-21,Adyar,Clothing Store,344
+2025-07-21,Adyar,Clothing Store,342
+2025-08-20,Adyar,Clothing Store,286
+2025-09-19,Adyar,Clothing Store,293
+2025-10-19,Adyar,Clothing Store,253
+2025-11-18,Adyar,Clothing Store,252
+2025-12-18,Adyar,Clothing Store,264
+2026-01-17,Adyar,Clothing Store,292
+2024-02-27,Adyar,Salon,115
+2024-03-28,Adyar,Salon,146
+2024-04-27,Adyar,Salon,194
+2024-05-27,Adyar,Salon,204
+2024-06-26,Adyar,Salon,185
+2024-07-26,Adyar,Salon,184
+2024-08-25,Adyar,Salon,174
+2024-09-24,Adyar,Salon,155
+2024-10-24,Adyar,Salon,125
+2024-11-23,Adyar,Salon,146
+2024-12-23,Adyar,Salon,154
+2025-01-22,Adyar,Salon,193
+2025-02-21,Adyar,Salon,229
+2025-03-23,Adyar,Salon,249
+2025-04-22,Adyar,Salon,298
+2025-05-22,Adyar,Salon,280
+2025-06-21,Adyar,Salon,312
+2025-07-21,Adyar,Salon,282
+2025-08-20,Adyar,Salon,285
+2025-09-19,Adyar,Salon,290
+2025-10-19,Adyar,Salon,280
+2025-11-18,Adyar,Salon,266
+2025-12-18,Adyar,Salon,294
+2026-01-17,Adyar,Salon,359
+2024-02-27,Adyar,Bakery,221
+2024-03-28,Adyar,Bakery,243
+2024-04-27,Adyar,Bakery,277
+2024-05-27,Adyar,Bakery,293
+2024-06-26,Adyar,Bakery,291
+2024-07-26,Adyar,Bakery,260
+2024-08-25,Adyar,Bakery,265
+2024-09-24,Adyar,Bakery,217
+2024-10-24,Adyar,Bakery,228
+2024-11-23,Adyar,Bakery,229
+2024-12-23,Adyar,Bakery,214
+2025-01-22,Adyar,Bakery,239
+2025-02-21,Adyar,Bakery,254
+2025-03-23,Adyar,Bakery,288
+2025-04-22,Adyar,Bakery,304
+2025-05-22,Adyar,Bakery,324
+2025-06-21,Adyar,Bakery,327
+2025-07-21,Adyar,Bakery,292
+2025-08-20,Adyar,Bakery,288
+2025-09-19,Adyar,Bakery,288
+2025-10-19,Adyar,Bakery,260
+2025-11-18,Adyar,Bakery,268
+2025-12-18,Adyar,Bakery,275
+2026-01-17,Adyar,Bakery,273
+2024-02-27,Adyar,Electronics,389
+2024-03-28,Adyar,Electronics,415
+2024-04-27,Adyar,Electronics,429
+2024-05-27,Adyar,Electronics,451
+2024-06-26,Adyar,Electronics,466
+2024-07-26,Adyar,Electronics,470
+2024-08-25,Adyar,Electronics,434
+2024-09-24,Adyar,Electronics,419
+2024-10-24,Adyar,Electronics,407
+2024-11-23,Adyar,Electronics,406
+2024-12-23,Adyar,Electronics,424
+2025-01-22,Adyar,Electronics,462
+2025-02-21,Adyar,Electronics,504
+2025-03-23,Adyar,Electronics,554
+2025-04-22,Adyar,Electronics,574
+2025-05-22,Adyar,Electronics,589
+2025-06-21,Adyar,Electronics,605
+2025-07-21,Adyar,Electronics,602
+2025-08-20,Adyar,Electronics,560
+2025-09-19,Adyar,Electronics,586
+2025-10-19,Adyar,Electronics,545
+2025-11-18,Adyar,Electronics,588
+2025-12-18,Adyar,Electronics,584
+2026-01-17,Adyar,Electronics,622
+2024-02-27,Adyar,Bookstore,103
+2024-03-28,Adyar,Bookstore,136
+2024-04-27,Adyar,Bookstore,139
+2024-05-27,Adyar,Bookstore,175
+2024-06-26,Adyar,Bookstore,142
+2024-07-26,Adyar,Bookstore,148
+2024-08-25,Adyar,Bookstore,118
+2024-09-24,Adyar,Bookstore,89
+2024-10-24,Adyar,Bookstore,73
+2024-11-23,Adyar,Bookstore,53
+2024-12-23,Adyar,Bookstore,64
+2025-01-22,Adyar,Bookstore,64
+2025-02-21,Adyar,Bookstore,93
+2025-03-23,Adyar,Bookstore,103
+2025-04-22,Adyar,Bookstore,129
+2025-05-22,Adyar,Bookstore,131
+2025-06-21,Adyar,Bookstore,130
+2025-07-21,Adyar,Bookstore,105
+2025-08-20,Adyar,Bookstore,103
+2025-09-19,Adyar,Bookstore,78
+2025-10-19,Adyar,Bookstore,47
+2025-11-18,Adyar,Bookstore,39
+2025-12-18,Adyar,Bookstore,52
+2026-01-17,Adyar,Bookstore,45
+2024-02-27,Adyar,Co-working Space,190
+2024-03-28,Adyar,Co-working Space,197
+2024-04-27,Adyar,Co-working Space,229
+2024-05-27,Adyar,Co-working Space,235
+2024-06-26,Adyar,Co-working Space,241
+2024-07-26,Adyar,Co-working Space,232
+2024-08-25,Adyar,Co-working Space,217
+2024-09-24,Adyar,Co-working Space,207
+2024-10-24,Adyar,Co-working Space,168
+2024-11-23,Adyar,Co-working Space,160
+2024-12-23,Adyar,Co-working Space,188
+2025-01-22,Adyar,Co-working Space,205
+2025-02-21,Adyar,Co-working Space,223
+2025-03-23,Adyar,Co-working Space,250
+2025-04-22,Adyar,Co-working Space,270
+2025-05-22,Adyar,Co-working Space,309
+2025-06-21,Adyar,Co-working Space,284
+2025-07-21,Adyar,Co-working Space,263
+2025-08-20,Adyar,Co-working Space,258
+2025-09-19,Adyar,Co-working Space,251
+2025-10-19,Adyar,Co-working Space,246
+2025-11-18,Adyar,Co-working Space,216
+2025-12-18,Adyar,Co-working Space,233
+2026-01-17,Adyar,Co-working Space,279
+2024-02-27,Adyar,Hardware Store,262
+2024-03-28,Adyar,Hardware Store,285
+2024-04-27,Adyar,Hardware Store,300
+2024-05-27,Adyar,Hardware Store,311
+2024-06-26,Adyar,Hardware Store,325
+2024-07-26,Adyar,Hardware Store,288
+2024-08-25,Adyar,Hardware Store,267
+2024-09-24,Adyar,Hardware Store,228
+2024-10-24,Adyar,Hardware Store,222
+2024-11-23,Adyar,Hardware Store,238
+2024-12-23,Adyar,Hardware Store,239
+2025-01-22,Adyar,Hardware Store,262
+2025-02-21,Adyar,Hardware Store,278
+2025-03-23,Adyar,Hardware Store,314
+2025-04-22,Adyar,Hardware Store,328
+2025-05-22,Adyar,Hardware Store,337
+2025-06-21,Adyar,Hardware Store,341
+2025-07-21,Adyar,Hardware Store,324
+2025-08-20,Adyar,Hardware Store,289
+2025-09-19,Adyar,Hardware Store,257
+2025-10-19,Adyar,Hardware Store,248
+2025-11-18,Adyar,Hardware Store,257
+2025-12-18,Adyar,Hardware Store,251
+2026-01-17,Adyar,Hardware Store,286
+2024-02-27,Adyar,Pet Shop,790
+2024-03-28,Adyar,Pet Shop,786
+2024-04-27,Adyar,Pet Shop,820
+2024-05-27,Adyar,Pet Shop,792
+2024-06-26,Adyar,Pet Shop,797
+2024-07-26,Adyar,Pet Shop,786
+2024-08-25,Adyar,Pet Shop,758
+2024-09-24,Adyar,Pet Shop,705
+2024-10-24,Adyar,Pet Shop,702
+2024-11-23,Adyar,Pet Shop,686
+2024-12-23,Adyar,Pet Shop,671
+2025-01-22,Adyar,Pet Shop,693
+2025-02-21,Adyar,Pet Shop,685
+2025-03-23,Adyar,Pet Shop,711
+2025-04-22,Adyar,Pet Shop,743
+2025-05-22,Adyar,Pet Shop,731
+2025-06-21,Adyar,Pet Shop,708
+2025-07-21,Adyar,Pet Shop,711
+2025-08-20,Adyar,Pet Shop,665
+2025-09-19,Adyar,Pet Shop,633
+2025-10-19,Adyar,Pet Shop,618
+2025-11-18,Adyar,Pet Shop,587
+2025-12-18,Adyar,Pet Shop,608
+2026-01-17,Adyar,Pet Shop,625
+2024-02-27,Adyar,Laundromat,559
+2024-03-28,Adyar,Laundromat,587
+2024-04-27,Adyar,Laundromat,642
+2024-05-27,Adyar,Laundromat,656
+2024-06-26,Adyar,Laundromat,623
+2024-07-26,Adyar,Laundromat,643
+2024-08-25,Adyar,Laundromat,612
+2024-09-24,Adyar,Laundromat,586
+2024-10-24,Adyar,Laundromat,592
+2024-11-23,Adyar,Laundromat,556
+2024-12-23,Adyar,Laundromat,580
+2025-01-22,Adyar,Laundromat,620
+2025-02-21,Adyar,Laundromat,623
+2025-03-23,Adyar,Laundromat,671
+2025-04-22,Adyar,Laundromat,694
+2025-05-22,Adyar,Laundromat,716
+2025-06-21,Adyar,Laundromat,724
+2025-07-21,Adyar,Laundromat,712
+2025-08-20,Adyar,Laundromat,677
+2025-09-19,Adyar,Laundromat,675
+2025-10-19,Adyar,Laundromat,649
+2025-11-18,Adyar,Laundromat,666
+2025-12-18,Adyar,Laundromat,653
+2026-01-17,Adyar,Laundromat,676
+2024-02-27,Adyar,Clinic,361
+2024-03-28,Adyar,Clinic,407
+2024-04-27,Adyar,Clinic,428
+2024-05-27,Adyar,Clinic,423
+2024-06-26,Adyar,Clinic,407
+2024-07-26,Adyar,Clinic,395
+2024-08-25,Adyar,Clinic,400
+2024-09-24,Adyar,Clinic,358
+2024-10-24,Adyar,Clinic,361
+2024-11-23,Adyar,Clinic,332
+2024-12-23,Adyar,Clinic,337
+2025-01-22,Adyar,Clinic,373
+2025-02-21,Adyar,Clinic,409
+2025-03-23,Adyar,Clinic,407
+2025-04-22,Adyar,Clinic,463
+2025-05-22,Adyar,Clinic,452
+2025-06-21,Adyar,Clinic,443
+2025-07-21,Adyar,Clinic,432
+2025-08-20,Adyar,Clinic,409
+2025-09-19,Adyar,Clinic,377
+2025-10-19,Adyar,Clinic,380
+2025-11-18,Adyar,Clinic,383
+2025-12-18,Adyar,Clinic,388
+2026-01-17,Adyar,Clinic,424
+2024-02-27,Mylapore,Cafe,408
+2024-03-28,Mylapore,Cafe,441
+2024-04-27,Mylapore,Cafe,441
+2024-05-27,Mylapore,Cafe,461
+2024-06-26,Mylapore,Cafe,449
+2024-07-26,Mylapore,Cafe,422
+2024-08-25,Mylapore,Cafe,386
+2024-09-24,Mylapore,Cafe,354
+2024-10-24,Mylapore,Cafe,324
+2024-11-23,Mylapore,Cafe,305
+2024-12-23,Mylapore,Cafe,297
+2025-01-22,Mylapore,Cafe,311
+2025-02-21,Mylapore,Cafe,325
+2025-03-23,Mylapore,Cafe,333
+2025-04-22,Mylapore,Cafe,365
+2025-05-22,Mylapore,Cafe,374
+2025-06-21,Mylapore,Cafe,361
+2025-07-21,Mylapore,Cafe,309
+2025-08-20,Mylapore,Cafe,278
+2025-09-19,Mylapore,Cafe,248
+2025-10-19,Mylapore,Cafe,227
+2025-11-18,Mylapore,Cafe,226
+2025-12-18,Mylapore,Cafe,225
+2026-01-17,Mylapore,Cafe,234
+2024-02-27,Mylapore,Gym,846
+2024-03-28,Mylapore,Gym,909
+2024-04-27,Mylapore,Gym,930
+2024-05-27,Mylapore,Gym,988
+2024-06-26,Mylapore,Gym,1024
+2024-07-26,Mylapore,Gym,1072
+2024-08-25,Mylapore,Gym,1091
+2024-09-24,Mylapore,Gym,1110
+2024-10-24,Mylapore,Gym,1134
+2024-11-23,Mylapore,Gym,1171
+2024-12-23,Mylapore,Gym,1265
+2025-01-22,Mylapore,Gym,1347
+2025-02-21,Mylapore,Gym,1409
+2025-03-23,Mylapore,Gym,1512
+2025-04-22,Mylapore,Gym,1588
+2025-05-22,Mylapore,Gym,1657
+2025-06-21,Mylapore,Gym,1763
+2025-07-21,Mylapore,Gym,1822
+2025-08-20,Mylapore,Gym,1844
+2025-09-19,Mylapore,Gym,1940
+2025-10-19,Mylapore,Gym,2007
+2025-11-18,Mylapore,Gym,2069
+2025-12-18,Mylapore,Gym,2182
+2026-01-17,Mylapore,Gym,2320
+2024-02-27,Mylapore,Restaurant,651
+2024-03-28,Mylapore,Restaurant,648
+2024-04-27,Mylapore,Restaurant,691
+2024-05-27,Mylapore,Restaurant,693
+2024-06-26,Mylapore,Restaurant,671
+2024-07-26,Mylapore,Restaurant,659
+2024-08-25,Mylapore,Restaurant,607
+2024-09-24,Mylapore,Restaurant,580
+2024-10-24,Mylapore,Restaurant,561
+2024-11-23,Mylapore,Restaurant,539
+2024-12-23,Mylapore,Restaurant,529
+2025-01-22,Mylapore,Restaurant,556
+2025-02-21,Mylapore,Restaurant,587
+2025-03-23,Mylapore,Restaurant,596
+2025-04-22,Mylapore,Restaurant,606
+2025-05-22,Mylapore,Restaurant,600
+2025-06-21,Mylapore,Restaurant,602
+2025-07-21,Mylapore,Restaurant,564
+2025-08-20,Mylapore,Restaurant,541
+2025-09-19,Mylapore,Restaurant,481
+2025-10-19,Mylapore,Restaurant,463
+2025-11-18,Mylapore,Restaurant,444
+2025-12-18,Mylapore,Restaurant,457
+2026-01-17,Mylapore,Restaurant,492
+2024-02-27,Mylapore,Medical Shop,903
+2024-03-28,Mylapore,Medical Shop,918
+2024-04-27,Mylapore,Medical Shop,926
+2024-05-27,Mylapore,Medical Shop,938
+2024-06-26,Mylapore,Medical Shop,927
+2024-07-26,Mylapore,Medical Shop,885
+2024-08-25,Mylapore,Medical Shop,877
+2024-09-24,Mylapore,Medical Shop,860
+2024-10-24,Mylapore,Medical Shop,841
+2024-11-23,Mylapore,Medical Shop,833
+2024-12-23,Mylapore,Medical Shop,840
+2025-01-22,Mylapore,Medical Shop,857
+2025-02-21,Mylapore,Medical Shop,863
+2025-03-23,Mylapore,Medical Shop,905
+2025-04-22,Mylapore,Medical Shop,930
+2025-05-22,Mylapore,Medical Shop,905
+2025-06-21,Mylapore,Medical Shop,898
+2025-07-21,Mylapore,Medical Shop,877
+2025-08-20,Mylapore,Medical Shop,871
+2025-09-19,Mylapore,Medical Shop,849
+2025-10-19,Mylapore,Medical Shop,833
+2025-11-18,Mylapore,Medical Shop,810
+2025-12-18,Mylapore,Medical Shop,807
+2026-01-17,Mylapore,Medical Shop,845
+2024-02-27,Mylapore,Supermarket,371
+2024-03-28,Mylapore,Supermarket,428
+2024-04-27,Mylapore,Supermarket,432
+2024-05-27,Mylapore,Supermarket,462
+2024-06-26,Mylapore,Supermarket,462
+2024-07-26,Mylapore,Supermarket,418
+2024-08-25,Mylapore,Supermarket,428
+2024-09-24,Mylapore,Supermarket,408
+2024-10-24,Mylapore,Supermarket,379
+2024-11-23,Mylapore,Supermarket,364
+2024-12-23,Mylapore,Supermarket,379
+2025-01-22,Mylapore,Supermarket,430
+2025-02-21,Mylapore,Supermarket,459
+2025-03-23,Mylapore,Supermarket,474
+2025-04-22,Mylapore,Supermarket,498
+2025-05-22,Mylapore,Supermarket,499
+2025-06-21,Mylapore,Supermarket,514
+2025-07-21,Mylapore,Supermarket,496
+2025-08-20,Mylapore,Supermarket,470
+2025-09-19,Mylapore,Supermarket,455
+2025-10-19,Mylapore,Supermarket,435
+2025-11-18,Mylapore,Supermarket,433
+2025-12-18,Mylapore,Supermarket,480
+2026-01-17,Mylapore,Supermarket,470
+2024-02-27,Mylapore,Clothing Store,159
+2024-03-28,Mylapore,Clothing Store,187
+2024-04-27,Mylapore,Clothing Store,216
+2024-05-27,Mylapore,Clothing Store,197
+2024-06-26,Mylapore,Clothing Store,199
+2024-07-26,Mylapore,Clothing Store,183
+2024-08-25,Mylapore,Clothing Store,146
+2024-09-24,Mylapore,Clothing Store,123
+2024-10-24,Mylapore,Clothing Store,101
+2024-11-23,Mylapore,Clothing Store,116
+2024-12-23,Mylapore,Clothing Store,120
+2025-01-22,Mylapore,Clothing Store,138
+2025-02-21,Mylapore,Clothing Store,169
+2025-03-23,Mylapore,Clothing Store,184
+2025-04-22,Mylapore,Clothing Store,212
+2025-05-22,Mylapore,Clothing Store,201
+2025-06-21,Mylapore,Clothing Store,195
+2025-07-21,Mylapore,Clothing Store,185
+2025-08-20,Mylapore,Clothing Store,151
+2025-09-19,Mylapore,Clothing Store,110
+2025-10-19,Mylapore,Clothing Store,111
+2025-11-18,Mylapore,Clothing Store,106
+2025-12-18,Mylapore,Clothing Store,116
+2026-01-17,Mylapore,Clothing Store,122
+2024-02-27,Mylapore,Salon,949
+2024-03-28,Mylapore,Salon,997
+2024-04-27,Mylapore,Salon,1068
+2024-05-27,Mylapore,Salon,1080
+2024-06-26,Mylapore,Salon,1126
+2024-07-26,Mylapore,Salon,1137
+2024-08-25,Mylapore,Salon,1154
+2024-09-24,Mylapore,Salon,1170
+2024-10-24,Mylapore,Salon,1187
+2024-11-23,Mylapore,Salon,1192
+2024-12-23,Mylapore,Salon,1233
+2025-01-22,Mylapore,Salon,1307
+2025-02-21,Mylapore,Salon,1370
+2025-03-23,Mylapore,Salon,1442
+2025-04-22,Mylapore,Salon,1485
+2025-05-22,Mylapore,Salon,1571
+2025-06-21,Mylapore,Salon,1600
+2025-07-21,Mylapore,Salon,1623
+2025-08-20,Mylapore,Salon,1663
+2025-09-19,Mylapore,Salon,1653
+2025-10-19,Mylapore,Salon,1694
+2025-11-18,Mylapore,Salon,1762
+2025-12-18,Mylapore,Salon,1827
+2026-01-17,Mylapore,Salon,1876
+2024-02-27,Mylapore,Bakery,869
+2024-03-28,Mylapore,Bakery,904
+2024-04-27,Mylapore,Bakery,973
+2024-05-27,Mylapore,Bakery,1014
+2024-06-26,Mylapore,Bakery,1056
+2024-07-26,Mylapore,Bakery,1075
+2024-08-25,Mylapore,Bakery,1097
+2024-09-24,Mylapore,Bakery,1112
+2024-10-24,Mylapore,Bakery,1137
+2024-11-23,Mylapore,Bakery,1152
+2024-12-23,Mylapore,Bakery,1243
+2025-01-22,Mylapore,Bakery,1314
+2025-02-21,Mylapore,Bakery,1385
+2025-03-23,Mylapore,Bakery,1461
+2025-04-22,Mylapore,Bakery,1538
+2025-05-22,Mylapore,Bakery,1613
+2025-06-21,Mylapore,Bakery,1662
+2025-07-21,Mylapore,Bakery,1684
+2025-08-20,Mylapore,Bakery,1758
+2025-09-19,Mylapore,Bakery,1804
+2025-10-19,Mylapore,Bakery,1850
+2025-11-18,Mylapore,Bakery,1896
+2025-12-18,Mylapore,Bakery,1994
+2026-01-17,Mylapore,Bakery,2082
+2024-02-27,Mylapore,Electronics,809
+2024-03-28,Mylapore,Electronics,856
+2024-04-27,Mylapore,Electronics,916
+2024-05-27,Mylapore,Electronics,973
+2024-06-26,Mylapore,Electronics,1018
+2024-07-26,Mylapore,Electronics,1023
+2024-08-25,Mylapore,Electronics,1063
+2024-09-24,Mylapore,Electronics,1070
+2024-10-24,Mylapore,Electronics,1111
+2024-11-23,Mylapore,Electronics,1161
+2024-12-23,Mylapore,Electronics,1234
+2025-01-22,Mylapore,Electronics,1320
+2025-02-21,Mylapore,Electronics,1401
+2025-03-23,Mylapore,Electronics,1483
+2025-04-22,Mylapore,Electronics,1589
+2025-05-22,Mylapore,Electronics,1633
+2025-06-21,Mylapore,Electronics,1735
+2025-07-21,Mylapore,Electronics,1793
+2025-08-20,Mylapore,Electronics,1852
+2025-09-19,Mylapore,Electronics,1889
+2025-10-19,Mylapore,Electronics,1981
+2025-11-18,Mylapore,Electronics,2053
+2025-12-18,Mylapore,Electronics,2169
+2026-01-17,Mylapore,Electronics,2267
+2024-02-27,Mylapore,Bookstore,144
+2024-03-28,Mylapore,Bookstore,176
+2024-04-27,Mylapore,Bookstore,199
+2024-05-27,Mylapore,Bookstore,226
+2024-06-26,Mylapore,Bookstore,232
+2024-07-26,Mylapore,Bookstore,213
+2024-08-25,Mylapore,Bookstore,202
+2024-09-24,Mylapore,Bookstore,192
+2024-10-24,Mylapore,Bookstore,180
+2024-11-23,Mylapore,Bookstore,163
+2024-12-23,Mylapore,Bookstore,205
+2025-01-22,Mylapore,Bookstore,240
+2025-02-21,Mylapore,Bookstore,261
+2025-03-23,Mylapore,Bookstore,287
+2025-04-22,Mylapore,Bookstore,335
+2025-05-22,Mylapore,Bookstore,352
+2025-06-21,Mylapore,Bookstore,369
+2025-07-21,Mylapore,Bookstore,369
+2025-08-20,Mylapore,Bookstore,348
+2025-09-19,Mylapore,Bookstore,341
+2025-10-19,Mylapore,Bookstore,323
+2025-11-18,Mylapore,Bookstore,362
+2025-12-18,Mylapore,Bookstore,367
+2026-01-17,Mylapore,Bookstore,426
+2024-02-27,Mylapore,Co-working Space,557
+2024-03-28,Mylapore,Co-working Space,615
+2024-04-27,Mylapore,Co-working Space,632
+2024-05-27,Mylapore,Co-working Space,648
+2024-06-26,Mylapore,Co-working Space,674
+2024-07-26,Mylapore,Co-working Space,664
+2024-08-25,Mylapore,Co-working Space,657
+2024-09-24,Mylapore,Co-working Space,662
+2024-10-24,Mylapore,Co-working Space,668
+2024-11-23,Mylapore,Co-working Space,680
+2024-12-23,Mylapore,Co-working Space,719
+2025-01-22,Mylapore,Co-working Space,762
+2025-02-21,Mylapore,Co-working Space,808
+2025-03-23,Mylapore,Co-working Space,871
+2025-04-22,Mylapore,Co-working Space,914
+2025-05-22,Mylapore,Co-working Space,972
+2025-06-21,Mylapore,Co-working Space,995
+2025-07-21,Mylapore,Co-working Space,981
+2025-08-20,Mylapore,Co-working Space,988
+2025-09-19,Mylapore,Co-working Space,1007
+2025-10-19,Mylapore,Co-working Space,1028
+2025-11-18,Mylapore,Co-working Space,1076
+2025-12-18,Mylapore,Co-working Space,1091
+2026-01-17,Mylapore,Co-working Space,1140
+2024-02-27,Mylapore,Hardware Store,343
+2024-03-28,Mylapore,Hardware Store,333
+2024-04-27,Mylapore,Hardware Store,365
+2024-05-27,Mylapore,Hardware Store,355
+2024-06-26,Mylapore,Hardware Store,353
+2024-07-26,Mylapore,Hardware Store,339
+2024-08-25,Mylapore,Hardware Store,308
+2024-09-24,Mylapore,Hardware Store,265
+2024-10-24,Mylapore,Hardware Store,238
+2024-11-23,Mylapore,Hardware Store,247
+2024-12-23,Mylapore,Hardware Store,230
+2025-01-22,Mylapore,Hardware Store,262
+2025-02-21,Mylapore,Hardware Store,265
+2025-03-23,Mylapore,Hardware Store,315
+2025-04-22,Mylapore,Hardware Store,311
+2025-05-22,Mylapore,Hardware Store,314
+2025-06-21,Mylapore,Hardware Store,293
+2025-07-21,Mylapore,Hardware Store,291
+2025-08-20,Mylapore,Hardware Store,249
+2025-09-19,Mylapore,Hardware Store,218
+2025-10-19,Mylapore,Hardware Store,217
+2025-11-18,Mylapore,Hardware Store,207
+2025-12-18,Mylapore,Hardware Store,198
+2026-01-17,Mylapore,Hardware Store,232
+2024-02-27,Mylapore,Pet Shop,645
+2024-03-28,Mylapore,Pet Shop,655
+2024-04-27,Mylapore,Pet Shop,698
+2024-05-27,Mylapore,Pet Shop,703
+2024-06-26,Mylapore,Pet Shop,702
+2024-07-26,Mylapore,Pet Shop,691
+2024-08-25,Mylapore,Pet Shop,650
+2024-09-24,Mylapore,Pet Shop,624
+2024-10-24,Mylapore,Pet Shop,608
+2024-11-23,Mylapore,Pet Shop,608
+2024-12-23,Mylapore,Pet Shop,614
+2025-01-22,Mylapore,Pet Shop,657
+2025-02-21,Mylapore,Pet Shop,698
+2025-03-23,Mylapore,Pet Shop,726
+2025-04-22,Mylapore,Pet Shop,716
+2025-05-22,Mylapore,Pet Shop,733
+2025-06-21,Mylapore,Pet Shop,740
+2025-07-21,Mylapore,Pet Shop,703
+2025-08-20,Mylapore,Pet Shop,697
+2025-09-19,Mylapore,Pet Shop,686
+2025-10-19,Mylapore,Pet Shop,646
+2025-11-18,Mylapore,Pet Shop,657
+2025-12-18,Mylapore,Pet Shop,663
+2026-01-17,Mylapore,Pet Shop,689
+2024-02-27,Mylapore,Laundromat,697
+2024-03-28,Mylapore,Laundromat,723
+2024-04-27,Mylapore,Laundromat,764
+2024-05-27,Mylapore,Laundromat,773
+2024-06-26,Mylapore,Laundromat,807
+2024-07-26,Mylapore,Laundromat,807
+2024-08-25,Mylapore,Laundromat,798
+2024-09-24,Mylapore,Laundromat,769
+2024-10-24,Mylapore,Laundromat,772
+2024-11-23,Mylapore,Laundromat,766
+2024-12-23,Mylapore,Laundromat,823
+2025-01-22,Mylapore,Laundromat,866
+2025-02-21,Mylapore,Laundromat,894
+2025-03-23,Mylapore,Laundromat,942
+2025-04-22,Mylapore,Laundromat,978
+2025-05-22,Mylapore,Laundromat,988
+2025-06-21,Mylapore,Laundromat,1016
+2025-07-21,Mylapore,Laundromat,1013
+2025-08-20,Mylapore,Laundromat,1036
+2025-09-19,Mylapore,Laundromat,1037
+2025-10-19,Mylapore,Laundromat,1016
+2025-11-18,Mylapore,Laundromat,1034
+2025-12-18,Mylapore,Laundromat,1056
+2026-01-17,Mylapore,Laundromat,1107
+2024-02-27,Mylapore,Clinic,683
+2024-03-28,Mylapore,Clinic,695
+2024-04-27,Mylapore,Clinic,685
+2024-05-27,Mylapore,Clinic,687
+2024-06-26,Mylapore,Clinic,675
+2024-07-26,Mylapore,Clinic,667
+2024-08-25,Mylapore,Clinic,641
+2024-09-24,Mylapore,Clinic,616
+2024-10-24,Mylapore,Clinic,587
+2024-11-23,Mylapore,Clinic,541
+2024-12-23,Mylapore,Clinic,551
+2025-01-22,Mylapore,Clinic,567
+2025-02-21,Mylapore,Clinic,604
+2025-03-23,Mylapore,Clinic,600
+2025-04-22,Mylapore,Clinic,607
+2025-05-22,Mylapore,Clinic,611
+2025-06-21,Mylapore,Clinic,590
+2025-07-21,Mylapore,Clinic,598
+2025-08-20,Mylapore,Clinic,572
+2025-09-19,Mylapore,Clinic,527
+2025-10-19,Mylapore,Clinic,518
+2025-11-18,Mylapore,Clinic,484
+2025-12-18,Mylapore,Clinic,502
+2026-01-17,Mylapore,Clinic,484
+2024-02-27,Anna Nagar,Cafe,497
+2024-03-28,Anna Nagar,Cafe,530
+2024-04-27,Anna Nagar,Cafe,553
+2024-05-27,Anna Nagar,Cafe,549
+2024-06-26,Anna Nagar,Cafe,535
+2024-07-26,Anna Nagar,Cafe,521
+2024-08-25,Anna Nagar,Cafe,499
+2024-09-24,Anna Nagar,Cafe,453
+2024-10-24,Anna Nagar,Cafe,456
+2024-11-23,Anna Nagar,Cafe,428
+2024-12-23,Anna Nagar,Cafe,418
+2025-01-22,Anna Nagar,Cafe,446
+2025-02-21,Anna Nagar,Cafe,469
+2025-03-23,Anna Nagar,Cafe,493
+2025-04-22,Anna Nagar,Cafe,508
+2025-05-22,Anna Nagar,Cafe,500
+2025-06-21,Anna Nagar,Cafe,510
+2025-07-21,Anna Nagar,Cafe,465
+2025-08-20,Anna Nagar,Cafe,472
+2025-09-19,Anna Nagar,Cafe,419
+2025-10-19,Anna Nagar,Cafe,417
+2025-11-18,Anna Nagar,Cafe,390
+2025-12-18,Anna Nagar,Cafe,403
+2026-01-17,Anna Nagar,Cafe,430
+2024-02-27,Anna Nagar,Gym,926
+2024-03-28,Anna Nagar,Gym,984
+2024-04-27,Anna Nagar,Gym,1053
+2024-05-27,Anna Nagar,Gym,1086
+2024-06-26,Anna Nagar,Gym,1126
+2024-07-26,Anna Nagar,Gym,1166
+2024-08-25,Anna Nagar,Gym,1152
+2024-09-24,Anna Nagar,Gym,1170
+2024-10-24,Anna Nagar,Gym,1205
+2024-11-23,Anna Nagar,Gym,1241
+2024-12-23,Anna Nagar,Gym,1283
+2025-01-22,Anna Nagar,Gym,1354
+2025-02-21,Anna Nagar,Gym,1455
+2025-03-23,Anna Nagar,Gym,1493
+2025-04-22,Anna Nagar,Gym,1590
+2025-05-22,Anna Nagar,Gym,1658
+2025-06-21,Anna Nagar,Gym,1682
+2025-07-21,Anna Nagar,Gym,1734
+2025-08-20,Anna Nagar,Gym,1760
+2025-09-19,Anna Nagar,Gym,1795
+2025-10-19,Anna Nagar,Gym,1855
+2025-11-18,Anna Nagar,Gym,1902
+2025-12-18,Anna Nagar,Gym,1997
+2026-01-17,Anna Nagar,Gym,2068
+2024-02-27,Anna Nagar,Restaurant,305
+2024-03-28,Anna Nagar,Restaurant,360
+2024-04-27,Anna Nagar,Restaurant,359
+2024-05-27,Anna Nagar,Restaurant,359
+2024-06-26,Anna Nagar,Restaurant,361
+2024-07-26,Anna Nagar,Restaurant,334
+2024-08-25,Anna Nagar,Restaurant,307
+2024-09-24,Anna Nagar,Restaurant,293
+2024-10-24,Anna Nagar,Restaurant,287
+2024-11-23,Anna Nagar,Restaurant,292
+2024-12-23,Anna Nagar,Restaurant,309
+2025-01-22,Anna Nagar,Restaurant,324
+2025-02-21,Anna Nagar,Restaurant,347
+2025-03-23,Anna Nagar,Restaurant,364
+2025-04-22,Anna Nagar,Restaurant,378
+2025-05-22,Anna Nagar,Restaurant,411
+2025-06-21,Anna Nagar,Restaurant,380
+2025-07-21,Anna Nagar,Restaurant,369
+2025-08-20,Anna Nagar,Restaurant,344
+2025-09-19,Anna Nagar,Restaurant,335
+2025-10-19,Anna Nagar,Restaurant,307
+2025-11-18,Anna Nagar,Restaurant,311
+2025-12-18,Anna Nagar,Restaurant,318
+2026-01-17,Anna Nagar,Restaurant,329
+2024-02-27,Anna Nagar,Medical Shop,139
+2024-03-28,Anna Nagar,Medical Shop,177
+2024-04-27,Anna Nagar,Medical Shop,168
+2024-05-27,Anna Nagar,Medical Shop,181
+2024-06-26,Anna Nagar,Medical Shop,186
+2024-07-26,Anna Nagar,Medical Shop,158
+2024-08-25,Anna Nagar,Medical Shop,148
+2024-09-24,Anna Nagar,Medical Shop,113
+2024-10-24,Anna Nagar,Medical Shop,115
+2024-11-23,Anna Nagar,Medical Shop,100
+2024-12-23,Anna Nagar,Medical Shop,107
+2025-01-22,Anna Nagar,Medical Shop,123
+2025-02-21,Anna Nagar,Medical Shop,146
+2025-03-23,Anna Nagar,Medical Shop,198
+2025-04-22,Anna Nagar,Medical Shop,188
+2025-05-22,Anna Nagar,Medical Shop,218
+2025-06-21,Anna Nagar,Medical Shop,188
+2025-07-21,Anna Nagar,Medical Shop,197
+2025-08-20,Anna Nagar,Medical Shop,178
+2025-09-19,Anna Nagar,Medical Shop,138
+2025-10-19,Anna Nagar,Medical Shop,115
+2025-11-18,Anna Nagar,Medical Shop,119
+2025-12-18,Anna Nagar,Medical Shop,127
+2026-01-17,Anna Nagar,Medical Shop,165
+2024-02-27,Anna Nagar,Supermarket,566
+2024-03-28,Anna Nagar,Supermarket,599
+2024-04-27,Anna Nagar,Supermarket,612
+2024-05-27,Anna Nagar,Supermarket,613
+2024-06-26,Anna Nagar,Supermarket,596
+2024-07-26,Anna Nagar,Supermarket,554
+2024-08-25,Anna Nagar,Supermarket,506
+2024-09-24,Anna Nagar,Supermarket,493
+2024-10-24,Anna Nagar,Supermarket,451
+2024-11-23,Anna Nagar,Supermarket,454
+2024-12-23,Anna Nagar,Supermarket,431
+2025-01-22,Anna Nagar,Supermarket,451
+2025-02-21,Anna Nagar,Supermarket,466
+2025-03-23,Anna Nagar,Supermarket,481
+2025-04-22,Anna Nagar,Supermarket,498
+2025-05-22,Anna Nagar,Supermarket,517
+2025-06-21,Anna Nagar,Supermarket,491
+2025-07-21,Anna Nagar,Supermarket,453
+2025-08-20,Anna Nagar,Supermarket,417
+2025-09-19,Anna Nagar,Supermarket,384
+2025-10-19,Anna Nagar,Supermarket,358
+2025-11-18,Anna Nagar,Supermarket,343
+2025-12-18,Anna Nagar,Supermarket,366
+2026-01-17,Anna Nagar,Supermarket,383
+2024-02-27,Anna Nagar,Clothing Store,607
+2024-03-28,Anna Nagar,Clothing Store,656
+2024-04-27,Anna Nagar,Clothing Store,710
+2024-05-27,Anna Nagar,Clothing Store,731
+2024-06-26,Anna Nagar,Clothing Store,786
+2024-07-26,Anna Nagar,Clothing Store,807
+2024-08-25,Anna Nagar,Clothing Store,791
+2024-09-24,Anna Nagar,Clothing Store,832
+2024-10-24,Anna Nagar,Clothing Store,851
+2024-11-23,Anna Nagar,Clothing Store,866
+2024-12-23,Anna Nagar,Clothing Store,916
+2025-01-22,Anna Nagar,Clothing Store,985
+2025-02-21,Anna Nagar,Clothing Store,1057
+2025-03-23,Anna Nagar,Clothing Store,1146
+2025-04-22,Anna Nagar,Clothing Store,1217
+2025-05-22,Anna Nagar,Clothing Store,1247
+2025-06-21,Anna Nagar,Clothing Store,1324
+2025-07-21,Anna Nagar,Clothing Store,1341
+2025-08-20,Anna Nagar,Clothing Store,1371
+2025-09-19,Anna Nagar,Clothing Store,1423
+2025-10-19,Anna Nagar,Clothing Store,1491
+2025-11-18,Anna Nagar,Clothing Store,1544
+2025-12-18,Anna Nagar,Clothing Store,1613
+2026-01-17,Anna Nagar,Clothing Store,1732
+2024-02-27,Anna Nagar,Salon,818
+2024-03-28,Anna Nagar,Salon,844
+2024-04-27,Anna Nagar,Salon,869
+2024-05-27,Anna Nagar,Salon,913
+2024-06-26,Anna Nagar,Salon,910
+2024-07-26,Anna Nagar,Salon,951
+2024-08-25,Anna Nagar,Salon,913
+2024-09-24,Anna Nagar,Salon,920
+2024-10-24,Anna Nagar,Salon,942
+2024-11-23,Anna Nagar,Salon,937
+2024-12-23,Anna Nagar,Salon,990
+2025-01-22,Anna Nagar,Salon,1039
+2025-02-21,Anna Nagar,Salon,1099
+2025-03-23,Anna Nagar,Salon,1148
+2025-04-22,Anna Nagar,Salon,1175
+2025-05-22,Anna Nagar,Salon,1224
+2025-06-21,Anna Nagar,Salon,1248
+2025-07-21,Anna Nagar,Salon,1254
+2025-08-20,Anna Nagar,Salon,1247
+2025-09-19,Anna Nagar,Salon,1290
+2025-10-19,Anna Nagar,Salon,1273
+2025-11-18,Anna Nagar,Salon,1295
+2025-12-18,Anna Nagar,Salon,1362
+2026-01-17,Anna Nagar,Salon,1397
+2024-02-27,Anna Nagar,Bakery,718
+2024-03-28,Anna Nagar,Bakery,759
+2024-04-27,Anna Nagar,Bakery,818
+2024-05-27,Anna Nagar,Bakery,822
+2024-06-26,Anna Nagar,Bakery,857
+2024-07-26,Anna Nagar,Bakery,887
+2024-08-25,Anna Nagar,Bakery,889
+2024-09-24,Anna Nagar,Bakery,871
+2024-10-24,Anna Nagar,Bakery,913
+2024-11-23,Anna Nagar,Bakery,951
+2024-12-23,Anna Nagar,Bakery,974
+2025-01-22,Anna Nagar,Bakery,1048
+2025-02-21,Anna Nagar,Bakery,1109
+2025-03-23,Anna Nagar,Bakery,1175
+2025-04-22,Anna Nagar,Bakery,1237
+2025-05-22,Anna Nagar,Bakery,1307
+2025-06-21,Anna Nagar,Bakery,1346
+2025-07-21,Anna Nagar,Bakery,1355
+2025-08-20,Anna Nagar,Bakery,1393
+2025-09-19,Anna Nagar,Bakery,1420
+2025-10-19,Anna Nagar,Bakery,1448
+2025-11-18,Anna Nagar,Bakery,1499
+2025-12-18,Anna Nagar,Bakery,1574
+2026-01-17,Anna Nagar,Bakery,1649
+2024-02-27,Anna Nagar,Electronics,462
+2024-03-28,Anna Nagar,Electronics,477
+2024-04-27,Anna Nagar,Electronics,480
+2024-05-27,Anna Nagar,Electronics,504
+2024-06-26,Anna Nagar,Electronics,496
+2024-07-26,Anna Nagar,Electronics,455
+2024-08-25,Anna Nagar,Electronics,441
+2024-09-24,Anna Nagar,Electronics,407
+2024-10-24,Anna Nagar,Electronics,400
+2024-11-23,Anna Nagar,Electronics,383
+2024-12-23,Anna Nagar,Electronics,389
+2025-01-22,Anna Nagar,Electronics,422
+2025-02-21,Anna Nagar,Electronics,429
+2025-03-23,Anna Nagar,Electronics,458
+2025-04-22,Anna Nagar,Electronics,473
+2025-05-22,Anna Nagar,Electronics,473
+2025-06-21,Anna Nagar,Electronics,455
+2025-07-21,Anna Nagar,Electronics,472
+2025-08-20,Anna Nagar,Electronics,446
+2025-09-19,Anna Nagar,Electronics,417
+2025-10-19,Anna Nagar,Electronics,375
+2025-11-18,Anna Nagar,Electronics,393
+2025-12-18,Anna Nagar,Electronics,378
+2026-01-17,Anna Nagar,Electronics,387
+2024-02-27,Anna Nagar,Bookstore,216
+2024-03-28,Anna Nagar,Bookstore,252
+2024-04-27,Anna Nagar,Bookstore,260
+2024-05-27,Anna Nagar,Bookstore,251
+2024-06-26,Anna Nagar,Bookstore,282
+2024-07-26,Anna Nagar,Bookstore,249
+2024-08-25,Anna Nagar,Bookstore,223
+2024-09-24,Anna Nagar,Bookstore,218
+2024-10-24,Anna Nagar,Bookstore,188
+2024-11-23,Anna Nagar,Bookstore,191
+2024-12-23,Anna Nagar,Bookstore,188
+2025-01-22,Anna Nagar,Bookstore,221
+2025-02-21,Anna Nagar,Bookstore,261
+2025-03-23,Anna Nagar,Bookstore,274
+2025-04-22,Anna Nagar,Bookstore,304
+2025-05-22,Anna Nagar,Bookstore,298
+2025-06-21,Anna Nagar,Bookstore,304
+2025-07-21,Anna Nagar,Bookstore,278
+2025-08-20,Anna Nagar,Bookstore,265
+2025-09-19,Anna Nagar,Bookstore,264
+2025-10-19,Anna Nagar,Bookstore,224
+2025-11-18,Anna Nagar,Bookstore,243
+2025-12-18,Anna Nagar,Bookstore,233
+2026-01-17,Anna Nagar,Bookstore,270
+2024-02-27,Anna Nagar,Co-working Space,333
+2024-03-28,Anna Nagar,Co-working Space,370
+2024-04-27,Anna Nagar,Co-working Space,357
+2024-05-27,Anna Nagar,Co-working Space,384
+2024-06-26,Anna Nagar,Co-working Space,361
+2024-07-26,Anna Nagar,Co-working Space,352
+2024-08-25,Anna Nagar,Co-working Space,296
+2024-09-24,Anna Nagar,Co-working Space,284
+2024-10-24,Anna Nagar,Co-working Space,252
+2024-11-23,Anna Nagar,Co-working Space,261
+2024-12-23,Anna Nagar,Co-working Space,245
+2025-01-22,Anna Nagar,Co-working Space,289
+2025-02-21,Anna Nagar,Co-working Space,288
+2025-03-23,Anna Nagar,Co-working Space,307
+2025-04-22,Anna Nagar,Co-working Space,331
+2025-05-22,Anna Nagar,Co-working Space,316
+2025-06-21,Anna Nagar,Co-working Space,324
+2025-07-21,Anna Nagar,Co-working Space,307
+2025-08-20,Anna Nagar,Co-working Space,260
+2025-09-19,Anna Nagar,Co-working Space,262
+2025-10-19,Anna Nagar,Co-working Space,244
+2025-11-18,Anna Nagar,Co-working Space,235
+2025-12-18,Anna Nagar,Co-working Space,222
+2026-01-17,Anna Nagar,Co-working Space,223
+2024-02-27,Anna Nagar,Hardware Store,682
+2024-03-28,Anna Nagar,Hardware Store,751
+2024-04-27,Anna Nagar,Hardware Store,803
+2024-05-27,Anna Nagar,Hardware Store,810
+2024-06-26,Anna Nagar,Hardware Store,862
+2024-07-26,Anna Nagar,Hardware Store,876
+2024-08-25,Anna Nagar,Hardware Store,889
+2024-09-24,Anna Nagar,Hardware Store,900
+2024-10-24,Anna Nagar,Hardware Store,903
+2024-11-23,Anna Nagar,Hardware Store,952
+2024-12-23,Anna Nagar,Hardware Store,984
+2025-01-22,Anna Nagar,Hardware Store,1065
+2025-02-21,Anna Nagar,Hardware Store,1117
+2025-03-23,Anna Nagar,Hardware Store,1188
+2025-04-22,Anna Nagar,Hardware Store,1263
+2025-05-22,Anna Nagar,Hardware Store,1341
+2025-06-21,Anna Nagar,Hardware Store,1360
+2025-07-21,Anna Nagar,Hardware Store,1425
+2025-08-20,Anna Nagar,Hardware Store,1452
+2025-09-19,Anna Nagar,Hardware Store,1488
+2025-10-19,Anna Nagar,Hardware Store,1520
+2025-11-18,Anna Nagar,Hardware Store,1591
+2025-12-18,Anna Nagar,Hardware Store,1649
+2026-01-17,Anna Nagar,Hardware Store,1742
+2024-02-27,Anna Nagar,Pet Shop,235
+2024-03-28,Anna Nagar,Pet Shop,239
+2024-04-27,Anna Nagar,Pet Shop,292
+2024-05-27,Anna Nagar,Pet Shop,279
+2024-06-26,Anna Nagar,Pet Shop,284
+2024-07-26,Anna Nagar,Pet Shop,278
+2024-08-25,Anna Nagar,Pet Shop,235
+2024-09-24,Anna Nagar,Pet Shop,239
+2024-10-24,Anna Nagar,Pet Shop,206
+2024-11-23,Anna Nagar,Pet Shop,213
+2024-12-23,Anna Nagar,Pet Shop,233
+2025-01-22,Anna Nagar,Pet Shop,259
+2025-02-21,Anna Nagar,Pet Shop,291
+2025-03-23,Anna Nagar,Pet Shop,294
+2025-04-22,Anna Nagar,Pet Shop,338
+2025-05-22,Anna Nagar,Pet Shop,356
+2025-06-21,Anna Nagar,Pet Shop,335
+2025-07-21,Anna Nagar,Pet Shop,350
+2025-08-20,Anna Nagar,Pet Shop,316
+2025-09-19,Anna Nagar,Pet Shop,282
+2025-10-19,Anna Nagar,Pet Shop,292
+2025-11-18,Anna Nagar,Pet Shop,270
+2025-12-18,Anna Nagar,Pet Shop,280
+2026-01-17,Anna Nagar,Pet Shop,309
+2024-02-27,Anna Nagar,Laundromat,918
+2024-03-28,Anna Nagar,Laundromat,935
+2024-04-27,Anna Nagar,Laundromat,951
+2024-05-27,Anna Nagar,Laundromat,932
+2024-06-26,Anna Nagar,Laundromat,923
+2024-07-26,Anna Nagar,Laundromat,890
+2024-08-25,Anna Nagar,Laundromat,850
+2024-09-24,Anna Nagar,Laundromat,822
+2024-10-24,Anna Nagar,Laundromat,813
+2024-11-23,Anna Nagar,Laundromat,806
+2024-12-23,Anna Nagar,Laundromat,801
+2025-01-22,Anna Nagar,Laundromat,810
+2025-02-21,Anna Nagar,Laundromat,824
+2025-03-23,Anna Nagar,Laundromat,834
+2025-04-22,Anna Nagar,Laundromat,861
+2025-05-22,Anna Nagar,Laundromat,839
+2025-06-21,Anna Nagar,Laundromat,829
+2025-07-21,Anna Nagar,Laundromat,821
+2025-08-20,Anna Nagar,Laundromat,787
+2025-09-19,Anna Nagar,Laundromat,751
+2025-10-19,Anna Nagar,Laundromat,720
+2025-11-18,Anna Nagar,Laundromat,713
+2025-12-18,Anna Nagar,Laundromat,716
+2026-01-17,Anna Nagar,Laundromat,727
+2024-02-27,Anna Nagar,Clinic,342
+2024-03-28,Anna Nagar,Clinic,370
+2024-04-27,Anna Nagar,Clinic,402
+2024-05-27,Anna Nagar,Clinic,389
+2024-06-26,Anna Nagar,Clinic,416
+2024-07-26,Anna Nagar,Clinic,410
+2024-08-25,Anna Nagar,Clinic,368
+2024-09-24,Anna Nagar,Clinic,356
+2024-10-24,Anna Nagar,Clinic,351
+2024-11-23,Anna Nagar,Clinic,379
+2024-12-23,Anna Nagar,Clinic,406
+2025-01-22,Anna Nagar,Clinic,417
+2025-02-21,Anna Nagar,Clinic,441
+2025-03-23,Anna Nagar,Clinic,475
+2025-04-22,Anna Nagar,Clinic,526
+2025-05-22,Anna Nagar,Clinic,533
+2025-06-21,Anna Nagar,Clinic,537
+2025-07-21,Anna Nagar,Clinic,543
+2025-08-20,Anna Nagar,Clinic,545
+2025-09-19,Anna Nagar,Clinic,547
+2025-10-19,Anna Nagar,Clinic,533
+2025-11-18,Anna Nagar,Clinic,540
+2025-12-18,Anna Nagar,Clinic,556
+2026-01-17,Anna Nagar,Clinic,586
+2024-02-27,OMR,Cafe,524
+2024-03-28,OMR,Cafe,565
+2024-04-27,OMR,Cafe,607
+2024-05-27,OMR,Cafe,614
+2024-06-26,OMR,Cafe,647
+2024-07-26,OMR,Cafe,650
+2024-08-25,OMR,Cafe,634
+2024-09-24,OMR,Cafe,620
+2024-10-24,OMR,Cafe,638
+2024-11-23,OMR,Cafe,663
+2024-12-23,OMR,Cafe,684
+2025-01-22,OMR,Cafe,727
+2025-02-21,OMR,Cafe,787
+2025-03-23,OMR,Cafe,811
+2025-04-22,OMR,Cafe,884
+2025-05-22,OMR,Cafe,897
+2025-06-21,OMR,Cafe,915
+2025-07-21,OMR,Cafe,936
+2025-08-20,OMR,Cafe,943
+2025-09-19,OMR,Cafe,960
+2025-10-19,OMR,Cafe,962
+2025-11-18,OMR,Cafe,975
+2025-12-18,OMR,Cafe,1013
+2026-01-17,OMR,Cafe,1064
+2024-02-27,OMR,Gym,726
+2024-03-28,OMR,Gym,739
+2024-04-27,OMR,Gym,783
+2024-05-27,OMR,Gym,796
+2024-06-26,OMR,Gym,764
+2024-07-26,OMR,Gym,753
+2024-08-25,OMR,Gym,755
+2024-09-24,OMR,Gym,703
+2024-10-24,OMR,Gym,700
+2024-11-23,OMR,Gym,694
+2024-12-23,OMR,Gym,718
+2025-01-22,OMR,Gym,716
+2025-02-21,OMR,Gym,756
+2025-03-23,OMR,Gym,770
+2025-04-22,OMR,Gym,806
+2025-05-22,OMR,Gym,838
+2025-06-21,OMR,Gym,835
+2025-07-21,OMR,Gym,820
+2025-08-20,OMR,Gym,763
+2025-09-19,OMR,Gym,773
+2025-10-19,OMR,Gym,745
+2025-11-18,OMR,Gym,735
+2025-12-18,OMR,Gym,730
+2026-01-17,OMR,Gym,764
+2024-02-27,OMR,Restaurant,423
+2024-03-28,OMR,Restaurant,454
+2024-04-27,OMR,Restaurant,454
+2024-05-27,OMR,Restaurant,470
+2024-06-26,OMR,Restaurant,466
+2024-07-26,OMR,Restaurant,443
+2024-08-25,OMR,Restaurant,452
+2024-09-24,OMR,Restaurant,399
+2024-10-24,OMR,Restaurant,384
+2024-11-23,OMR,Restaurant,406
+2024-12-23,OMR,Restaurant,427
+2025-01-22,OMR,Restaurant,440
+2025-02-21,OMR,Restaurant,473
+2025-03-23,OMR,Restaurant,508
+2025-04-22,OMR,Restaurant,524
+2025-05-22,OMR,Restaurant,531
+2025-06-21,OMR,Restaurant,520
+2025-07-21,OMR,Restaurant,514
+2025-08-20,OMR,Restaurant,497
+2025-09-19,OMR,Restaurant,458
+2025-10-19,OMR,Restaurant,447
+2025-11-18,OMR,Restaurant,459
+2025-12-18,OMR,Restaurant,449
+2026-01-17,OMR,Restaurant,467
+2024-02-27,OMR,Medical Shop,407
+2024-03-28,OMR,Medical Shop,438
+2024-04-27,OMR,Medical Shop,457
+2024-05-27,OMR,Medical Shop,459
+2024-06-26,OMR,Medical Shop,464
+2024-07-26,OMR,Medical Shop,470
+2024-08-25,OMR,Medical Shop,427
+2024-09-24,OMR,Medical Shop,441
+2024-10-24,OMR,Medical Shop,394
+2024-11-23,OMR,Medical Shop,428
+2024-12-23,OMR,Medical Shop,450
+2025-01-22,OMR,Medical Shop,463
+2025-02-21,OMR,Medical Shop,504
+2025-03-23,OMR,Medical Shop,534
+2025-04-22,OMR,Medical Shop,540
+2025-05-22,OMR,Medical Shop,570
+2025-06-21,OMR,Medical Shop,575
+2025-07-21,OMR,Medical Shop,555
+2025-08-20,OMR,Medical Shop,559
+2025-09-19,OMR,Medical Shop,547
+2025-10-19,OMR,Medical Shop,531
+2025-11-18,OMR,Medical Shop,512
+2025-12-18,OMR,Medical Shop,555
+2026-01-17,OMR,Medical Shop,578
+2024-02-27,OMR,Supermarket,997
+2024-03-28,OMR,Supermarket,1027
+2024-04-27,OMR,Supermarket,1063
+2024-05-27,OMR,Supermarket,1125
+2024-06-26,OMR,Supermarket,1121
+2024-07-26,OMR,Supermarket,1156
+2024-08-25,OMR,Supermarket,1137
+2024-09-24,OMR,Supermarket,1125
+2024-10-24,OMR,Supermarket,1142
+2024-11-23,OMR,Supermarket,1189
+2024-12-23,OMR,Supermarket,1198
+2025-01-22,OMR,Supermarket,1233
+2025-02-21,OMR,Supermarket,1290
+2025-03-23,OMR,Supermarket,1371
+2025-04-22,OMR,Supermarket,1412
+2025-05-22,OMR,Supermarket,1469
+2025-06-21,OMR,Supermarket,1481
+2025-07-21,OMR,Supermarket,1507
+2025-08-20,OMR,Supermarket,1500
+2025-09-19,OMR,Supermarket,1495
+2025-10-19,OMR,Supermarket,1540
+2025-11-18,OMR,Supermarket,1568
+2025-12-18,OMR,Supermarket,1620
+2026-01-17,OMR,Supermarket,1650
+2024-02-27,OMR,Clothing Store,321
+2024-03-28,OMR,Clothing Store,348
+2024-04-27,OMR,Clothing Store,377
+2024-05-27,OMR,Clothing Store,353
+2024-06-26,OMR,Clothing Store,358
+2024-07-26,OMR,Clothing Store,363
+2024-08-25,OMR,Clothing Store,305
+2024-09-24,OMR,Clothing Store,320
+2024-10-24,OMR,Clothing Store,265
+2024-11-23,OMR,Clothing Store,293
+2024-12-23,OMR,Clothing Store,300
+2025-01-22,OMR,Clothing Store,300
+2025-02-21,OMR,Clothing Store,327
+2025-03-23,OMR,Clothing Store,341
+2025-04-22,OMR,Clothing Store,371
+2025-05-22,OMR,Clothing Store,385
+2025-06-21,OMR,Clothing Store,382
+2025-07-21,OMR,Clothing Store,370
+2025-08-20,OMR,Clothing Store,362
+2025-09-19,OMR,Clothing Store,328
+2025-10-19,OMR,Clothing Store,301
+2025-11-18,OMR,Clothing Store,304
+2025-12-18,OMR,Clothing Store,294
+2026-01-17,OMR,Clothing Store,325
+2024-02-27,OMR,Salon,245
+2024-03-28,OMR,Salon,279
+2024-04-27,OMR,Salon,306
+2024-05-27,OMR,Salon,298
+2024-06-26,OMR,Salon,304
+2024-07-26,OMR,Salon,297
+2024-08-25,OMR,Salon,279
+2024-09-24,OMR,Salon,286
+2024-10-24,OMR,Salon,247
+2024-11-23,OMR,Salon,272
+2024-12-23,OMR,Salon,286
+2025-01-22,OMR,Salon,316
+2025-02-21,OMR,Salon,354
+2025-03-23,OMR,Salon,381
+2025-04-22,OMR,Salon,409
+2025-05-22,OMR,Salon,426
+2025-06-21,OMR,Salon,468
+2025-07-21,OMR,Salon,460
+2025-08-20,OMR,Salon,432
+2025-09-19,OMR,Salon,426
+2025-10-19,OMR,Salon,417
+2025-11-18,OMR,Salon,445
+2025-12-18,OMR,Salon,448
+2026-01-17,OMR,Salon,511
+2024-02-27,OMR,Bakery,539
+2024-03-28,OMR,Bakery,549
+2024-04-27,OMR,Bakery,556
+2024-05-27,OMR,Bakery,568
+2024-06-26,OMR,Bakery,591
+2024-07-26,OMR,Bakery,569
+2024-08-25,OMR,Bakery,561
+2024-09-24,OMR,Bakery,537
+2024-10-24,OMR,Bakery,538
+2024-11-23,OMR,Bakery,509
+2024-12-23,OMR,Bakery,545
+2025-01-22,OMR,Bakery,563
+2025-02-21,OMR,Bakery,582
+2025-03-23,OMR,Bakery,617
+2025-04-22,OMR,Bakery,647
+2025-05-22,OMR,Bakery,676
+2025-06-21,OMR,Bakery,657
+2025-07-21,OMR,Bakery,635
+2025-08-20,OMR,Bakery,649
+2025-09-19,OMR,Bakery,618
+2025-10-19,OMR,Bakery,587
+2025-11-18,OMR,Bakery,601
+2025-12-18,OMR,Bakery,595
+2026-01-17,OMR,Bakery,654
+2024-02-27,OMR,Electronics,991
+2024-03-28,OMR,Electronics,1036
+2024-04-27,OMR,Electronics,1091
+2024-05-27,OMR,Electronics,1161
+2024-06-26,OMR,Electronics,1173
+2024-07-26,OMR,Electronics,1218
+2024-08-25,OMR,Electronics,1243
+2024-09-24,OMR,Electronics,1248
+2024-10-24,OMR,Electronics,1278
+2024-11-23,OMR,Electronics,1340
+2024-12-23,OMR,Electronics,1413
+2025-01-22,OMR,Electronics,1492
+2025-02-21,OMR,Electronics,1552
+2025-03-23,OMR,Electronics,1641
+2025-04-22,OMR,Electronics,1733
+2025-05-22,OMR,Electronics,1803
+2025-06-21,OMR,Electronics,1885
+2025-07-21,OMR,Electronics,1910
+2025-08-20,OMR,Electronics,1968
+2025-09-19,OMR,Electronics,2036
+2025-10-19,OMR,Electronics,2087
+2025-11-18,OMR,Electronics,2159
+2025-12-18,OMR,Electronics,2272
+2026-01-17,OMR,Electronics,2391
+2024-02-27,OMR,Bookstore,660
+2024-03-28,OMR,Bookstore,695
+2024-04-27,OMR,Bookstore,702
+2024-05-27,OMR,Bookstore,702
+2024-06-26,OMR,Bookstore,702
+2024-07-26,OMR,Bookstore,640
+2024-08-25,OMR,Bookstore,637
+2024-09-24,OMR,Bookstore,609
+2024-10-24,OMR,Bookstore,590
+2024-11-23,OMR,Bookstore,553
+2024-12-23,OMR,Bookstore,575
+2025-01-22,OMR,Bookstore,568
+2025-02-21,OMR,Bookstore,609
+2025-03-23,OMR,Bookstore,626
+2025-04-22,OMR,Bookstore,628
+2025-05-22,OMR,Bookstore,616
+2025-06-21,OMR,Bookstore,623
+2025-07-21,OMR,Bookstore,606
+2025-08-20,OMR,Bookstore,542
+2025-09-19,OMR,Bookstore,509
+2025-10-19,OMR,Bookstore,489
+2025-11-18,OMR,Bookstore,474
+2025-12-18,OMR,Bookstore,504
+2026-01-17,OMR,Bookstore,495
+2024-02-27,OMR,Co-working Space,741
+2024-03-28,OMR,Co-working Space,816
+2024-04-27,OMR,Co-working Space,858
+2024-05-27,OMR,Co-working Space,875
+2024-06-26,OMR,Co-working Space,936
+2024-07-26,OMR,Co-working Space,947
+2024-08-25,OMR,Co-working Space,960
+2024-09-24,OMR,Co-working Space,981
+2024-10-24,OMR,Co-working Space,1008
+2024-11-23,OMR,Co-working Space,1057
+2024-12-23,OMR,Co-working Space,1124
+2025-01-22,OMR,Co-working Space,1175
+2025-02-21,OMR,Co-working Space,1279
+2025-03-23,OMR,Co-working Space,1356
+2025-04-22,OMR,Co-working Space,1422
+2025-05-22,OMR,Co-working Space,1503
+2025-06-21,OMR,Co-working Space,1539
+2025-07-21,OMR,Co-working Space,1618
+2025-08-20,OMR,Co-working Space,1654
+2025-09-19,OMR,Co-working Space,1706
+2025-10-19,OMR,Co-working Space,1771
+2025-11-18,OMR,Co-working Space,1836
+2025-12-18,OMR,Co-working Space,1919
+2026-01-17,OMR,Co-working Space,2052
+2024-02-27,OMR,Hardware Store,926
+2024-03-28,OMR,Hardware Store,972
+2024-04-27,OMR,Hardware Store,1021
+2024-05-27,OMR,Hardware Store,1069
+2024-06-26,OMR,Hardware Store,1098
+2024-07-26,OMR,Hardware Store,1119
+2024-08-25,OMR,Hardware Store,1103
+2024-09-24,OMR,Hardware Store,1146
+2024-10-24,OMR,Hardware Store,1166
+2024-11-23,OMR,Hardware Store,1198
+2024-12-23,OMR,Hardware Store,1226
+2025-01-22,OMR,Hardware Store,1285
+2025-02-21,OMR,Hardware Store,1385
+2025-03-23,OMR,Hardware Store,1433
+2025-04-22,OMR,Hardware Store,1509
+2025-05-22,OMR,Hardware Store,1592
+2025-06-21,OMR,Hardware Store,1602
+2025-07-21,OMR,Hardware Store,1647
+2025-08-20,OMR,Hardware Store,1692
+2025-09-19,OMR,Hardware Store,1710
+2025-10-19,OMR,Hardware Store,1780
+2025-11-18,OMR,Hardware Store,1817
+2025-12-18,OMR,Hardware Store,1885
+2026-01-17,OMR,Hardware Store,1971
+2024-02-27,OMR,Pet Shop,663
+2024-03-28,OMR,Pet Shop,701
+2024-04-27,OMR,Pet Shop,754
+2024-05-27,OMR,Pet Shop,787
+2024-06-26,OMR,Pet Shop,833
+2024-07-26,OMR,Pet Shop,844
+2024-08-25,OMR,Pet Shop,854
+2024-09-24,OMR,Pet Shop,867
+2024-10-24,OMR,Pet Shop,897
+2024-11-23,OMR,Pet Shop,914
+2024-12-23,OMR,Pet Shop,995
+2025-01-22,OMR,Pet Shop,1059
+2025-02-21,OMR,Pet Shop,1115
+2025-03-23,OMR,Pet Shop,1207
+2025-04-22,OMR,Pet Shop,1268
+2025-05-22,OMR,Pet Shop,1353
+2025-06-21,OMR,Pet Shop,1396
+2025-07-21,OMR,Pet Shop,1420
+2025-08-20,OMR,Pet Shop,1484
+2025-09-19,OMR,Pet Shop,1504
+2025-10-19,OMR,Pet Shop,1563
+2025-11-18,OMR,Pet Shop,1644
+2025-12-18,OMR,Pet Shop,1726
+2026-01-17,OMR,Pet Shop,1806
+2024-02-27,OMR,Laundromat,185
+2024-03-28,OMR,Laundromat,172
+2024-04-27,OMR,Laundromat,214
+2024-05-27,OMR,Laundromat,203
+2024-06-26,OMR,Laundromat,226
+2024-07-26,OMR,Laundromat,192
+2024-08-25,OMR,Laundromat,167
+2024-09-24,OMR,Laundromat,127
+2024-10-24,OMR,Laundromat,105
+2024-11-23,OMR,Laundromat,107
+2024-12-23,OMR,Laundromat,129
+2025-01-22,OMR,Laundromat,149
+2025-02-21,OMR,Laundromat,147
+2025-03-23,OMR,Laundromat,204
+2025-04-22,OMR,Laundromat,203
+2025-05-22,OMR,Laundromat,213
+2025-06-21,OMR,Laundromat,211
+2025-07-21,OMR,Laundromat,183
+2025-08-20,OMR,Laundromat,166
+2025-09-19,OMR,Laundromat,154
+2025-10-19,OMR,Laundromat,110
+2025-11-18,OMR,Laundromat,120
+2025-12-18,OMR,Laundromat,126
+2026-01-17,OMR,Laundromat,133
+2024-02-27,OMR,Clinic,468
+2024-03-28,OMR,Clinic,481
+2024-04-27,OMR,Clinic,525
+2024-05-27,OMR,Clinic,549
+2024-06-26,OMR,Clinic,518
+2024-07-26,OMR,Clinic,511
+2024-08-25,OMR,Clinic,511
+2024-09-24,OMR,Clinic,481
+2024-10-24,OMR,Clinic,488
+2024-11-23,OMR,Clinic,499
+2024-12-23,OMR,Clinic,507
+2025-01-22,OMR,Clinic,527
+2025-02-21,OMR,Clinic,568
+2025-03-23,OMR,Clinic,604
+2025-04-22,OMR,Clinic,624
+2025-05-22,OMR,Clinic,637
+2025-06-21,OMR,Clinic,634
+2025-07-21,OMR,Clinic,664
+2025-08-20,OMR,Clinic,632
+2025-09-19,OMR,Clinic,615
+2025-10-19,OMR,Clinic,615
+2025-11-18,OMR,Clinic,612
+2025-12-18,OMR,Clinic,652
+2026-01-17,OMR,Clinic,665
+2024-02-27,Tambaram,Cafe,649
+2024-03-28,Tambaram,Cafe,672
+2024-04-27,Tambaram,Cafe,720
+2024-05-27,Tambaram,Cafe,742
+2024-06-26,Tambaram,Cafe,754
+2024-07-26,Tambaram,Cafe,730
+2024-08-25,Tambaram,Cafe,751
+2024-09-24,Tambaram,Cafe,750
+2024-10-24,Tambaram,Cafe,717
+2024-11-23,Tambaram,Cafe,747
+2024-12-23,Tambaram,Cafe,777
+2025-01-22,Tambaram,Cafe,798
+2025-02-21,Tambaram,Cafe,836
+2025-03-23,Tambaram,Cafe,905
+2025-04-22,Tambaram,Cafe,942
+2025-05-22,Tambaram,Cafe,970
+2025-06-21,Tambaram,Cafe,996
+2025-07-21,Tambaram,Cafe,971
+2025-08-20,Tambaram,Cafe,995
+2025-09-19,Tambaram,Cafe,971
+2025-10-19,Tambaram,Cafe,988
+2025-11-18,Tambaram,Cafe,994
+2025-12-18,Tambaram,Cafe,1034
+2026-01-17,Tambaram,Cafe,1083
+2024-02-27,Tambaram,Gym,646
+2024-03-28,Tambaram,Gym,705
+2024-04-27,Tambaram,Gym,718
+2024-05-27,Tambaram,Gym,747
+2024-06-26,Tambaram,Gym,774
+2024-07-26,Tambaram,Gym,774
+2024-08-25,Tambaram,Gym,779
+2024-09-24,Tambaram,Gym,763
+2024-10-24,Tambaram,Gym,764
+2024-11-23,Tambaram,Gym,805
+2024-12-23,Tambaram,Gym,841
+2025-01-22,Tambaram,Gym,868
+2025-02-21,Tambaram,Gym,901
+2025-03-23,Tambaram,Gym,953
+2025-04-22,Tambaram,Gym,1008
+2025-05-22,Tambaram,Gym,1069
+2025-06-21,Tambaram,Gym,1054
+2025-07-21,Tambaram,Gym,1067
+2025-08-20,Tambaram,Gym,1086
+2025-09-19,Tambaram,Gym,1104
+2025-10-19,Tambaram,Gym,1105
+2025-11-18,Tambaram,Gym,1120
+2025-12-18,Tambaram,Gym,1168
+2026-01-17,Tambaram,Gym,1214
+2024-02-27,Tambaram,Restaurant,344
+2024-03-28,Tambaram,Restaurant,398
+2024-04-27,Tambaram,Restaurant,400
+2024-05-27,Tambaram,Restaurant,439
+2024-06-26,Tambaram,Restaurant,429
+2024-07-26,Tambaram,Restaurant,430
+2024-08-25,Tambaram,Restaurant,436
+2024-09-24,Tambaram,Restaurant,448
+2024-10-24,Tambaram,Restaurant,441
+2024-11-23,Tambaram,Restaurant,436
+2024-12-23,Tambaram,Restaurant,470
+2025-01-22,Tambaram,Restaurant,507
+2025-02-21,Tambaram,Restaurant,570
+2025-03-23,Tambaram,Restaurant,586
+2025-04-22,Tambaram,Restaurant,658
+2025-05-22,Tambaram,Restaurant,683
+2025-06-21,Tambaram,Restaurant,696
+2025-07-21,Tambaram,Restaurant,693
+2025-08-20,Tambaram,Restaurant,703
+2025-09-19,Tambaram,Restaurant,717
+2025-10-19,Tambaram,Restaurant,721
+2025-11-18,Tambaram,Restaurant,751
+2025-12-18,Tambaram,Restaurant,804
+2026-01-17,Tambaram,Restaurant,847
+2024-02-27,Tambaram,Medical Shop,296
+2024-03-28,Tambaram,Medical Shop,321
+2024-04-27,Tambaram,Medical Shop,368
+2024-05-27,Tambaram,Medical Shop,392
+2024-06-26,Tambaram,Medical Shop,357
+2024-07-26,Tambaram,Medical Shop,349
+2024-08-25,Tambaram,Medical Shop,331
+2024-09-24,Tambaram,Medical Shop,344
+2024-10-24,Tambaram,Medical Shop,321
+2024-11-23,Tambaram,Medical Shop,308
+2024-12-23,Tambaram,Medical Shop,319
+2025-01-22,Tambaram,Medical Shop,341
+2025-02-21,Tambaram,Medical Shop,387
+2025-03-23,Tambaram,Medical Shop,418
+2025-04-22,Tambaram,Medical Shop,445
+2025-05-22,Tambaram,Medical Shop,484
+2025-06-21,Tambaram,Medical Shop,483
+2025-07-21,Tambaram,Medical Shop,477
+2025-08-20,Tambaram,Medical Shop,441
+2025-09-19,Tambaram,Medical Shop,445
+2025-10-19,Tambaram,Medical Shop,430
+2025-11-18,Tambaram,Medical Shop,412
+2025-12-18,Tambaram,Medical Shop,436
+2026-01-17,Tambaram,Medical Shop,445
+2024-02-27,Tambaram,Supermarket,341
+2024-03-28,Tambaram,Supermarket,375
+2024-04-27,Tambaram,Supermarket,433
+2024-05-27,Tambaram,Supermarket,457
+2024-06-26,Tambaram,Supermarket,437
+2024-07-26,Tambaram,Supermarket,451
+2024-08-25,Tambaram,Supermarket,467
+2024-09-24,Tambaram,Supermarket,456
+2024-10-24,Tambaram,Supermarket,454
+2024-11-23,Tambaram,Supermarket,491
+2024-12-23,Tambaram,Supermarket,514
+2025-01-22,Tambaram,Supermarket,545
+2025-02-21,Tambaram,Supermarket,582
+2025-03-23,Tambaram,Supermarket,643
+2025-04-22,Tambaram,Supermarket,707
+2025-05-22,Tambaram,Supermarket,743
+2025-06-21,Tambaram,Supermarket,777
+2025-07-21,Tambaram,Supermarket,787
+2025-08-20,Tambaram,Supermarket,799
+2025-09-19,Tambaram,Supermarket,791
+2025-10-19,Tambaram,Supermarket,818
+2025-11-18,Tambaram,Supermarket,879
+2025-12-18,Tambaram,Supermarket,924
+2026-01-17,Tambaram,Supermarket,961
+2024-02-27,Tambaram,Clothing Store,470
+2024-03-28,Tambaram,Clothing Store,485
+2024-04-27,Tambaram,Clothing Store,487
+2024-05-27,Tambaram,Clothing Store,479
+2024-06-26,Tambaram,Clothing Store,491
+2024-07-26,Tambaram,Clothing Store,470
+2024-08-25,Tambaram,Clothing Store,414
+2024-09-24,Tambaram,Clothing Store,417
+2024-10-24,Tambaram,Clothing Store,379
+2024-11-23,Tambaram,Clothing Store,382
+2024-12-23,Tambaram,Clothing Store,383
+2025-01-22,Tambaram,Clothing Store,383
+2025-02-21,Tambaram,Clothing Store,415
+2025-03-23,Tambaram,Clothing Store,420
+2025-04-22,Tambaram,Clothing Store,434
+2025-05-22,Tambaram,Clothing Store,445
+2025-06-21,Tambaram,Clothing Store,425
+2025-07-21,Tambaram,Clothing Store,404
+2025-08-20,Tambaram,Clothing Store,393
+2025-09-19,Tambaram,Clothing Store,334
+2025-10-19,Tambaram,Clothing Store,329
+2025-11-18,Tambaram,Clothing Store,304
+2025-12-18,Tambaram,Clothing Store,336
+2026-01-17,Tambaram,Clothing Store,332
+2024-02-27,Tambaram,Salon,748
+2024-03-28,Tambaram,Salon,756
+2024-04-27,Tambaram,Salon,784
+2024-05-27,Tambaram,Salon,807
+2024-06-26,Tambaram,Salon,811
+2024-07-26,Tambaram,Salon,809
+2024-08-25,Tambaram,Salon,815
+2024-09-24,Tambaram,Salon,795
+2024-10-24,Tambaram,Salon,793
+2024-11-23,Tambaram,Salon,803
+2024-12-23,Tambaram,Salon,844
+2025-01-22,Tambaram,Salon,863
+2025-02-21,Tambaram,Salon,879
+2025-03-23,Tambaram,Salon,958
+2025-04-22,Tambaram,Salon,978
+2025-05-22,Tambaram,Salon,984
+2025-06-21,Tambaram,Salon,1007
+2025-07-21,Tambaram,Salon,1003
+2025-08-20,Tambaram,Salon,993
+2025-09-19,Tambaram,Salon,995
+2025-10-19,Tambaram,Salon,987
+2025-11-18,Tambaram,Salon,988
+2025-12-18,Tambaram,Salon,1044
+2026-01-17,Tambaram,Salon,1048
+2024-02-27,Tambaram,Bakery,305
+2024-03-28,Tambaram,Bakery,349
+2024-04-27,Tambaram,Bakery,347
+2024-05-27,Tambaram,Bakery,390
+2024-06-26,Tambaram,Bakery,394
+2024-07-26,Tambaram,Bakery,377
+2024-08-25,Tambaram,Bakery,371
+2024-09-24,Tambaram,Bakery,392
+2024-10-24,Tambaram,Bakery,403
+2024-11-23,Tambaram,Bakery,390
+2024-12-23,Tambaram,Bakery,420
+2025-01-22,Tambaram,Bakery,460
+2025-02-21,Tambaram,Bakery,510
+2025-03-23,Tambaram,Bakery,565
+2025-04-22,Tambaram,Bakery,605
+2025-05-22,Tambaram,Bakery,657
+2025-06-21,Tambaram,Bakery,668
+2025-07-21,Tambaram,Bakery,666
+2025-08-20,Tambaram,Bakery,703
+2025-09-19,Tambaram,Bakery,692
+2025-10-19,Tambaram,Bakery,698
+2025-11-18,Tambaram,Bakery,736
+2025-12-18,Tambaram,Bakery,777
+2026-01-17,Tambaram,Bakery,835
+2024-02-27,Tambaram,Electronics,125
+2024-03-28,Tambaram,Electronics,134
+2024-04-27,Tambaram,Electronics,155
+2024-05-27,Tambaram,Electronics,172
+2024-06-26,Tambaram,Electronics,145
+2024-07-26,Tambaram,Electronics,163
+2024-08-25,Tambaram,Electronics,143
+2024-09-24,Tambaram,Electronics,102
+2024-10-24,Tambaram,Electronics,74
+2024-11-23,Tambaram,Electronics,100
+2024-12-23,Tambaram,Electronics,84
+2025-01-22,Tambaram,Electronics,112
+2025-02-21,Tambaram,Electronics,129
+2025-03-23,Tambaram,Electronics,185
+2025-04-22,Tambaram,Electronics,185
+2025-05-22,Tambaram,Electronics,215
+2025-06-21,Tambaram,Electronics,192
+2025-07-21,Tambaram,Electronics,205
+2025-08-20,Tambaram,Electronics,184
+2025-09-19,Tambaram,Electronics,165
+2025-10-19,Tambaram,Electronics,127
+2025-11-18,Tambaram,Electronics,143
+2025-12-18,Tambaram,Electronics,128
+2026-01-17,Tambaram,Electronics,153
+2024-02-27,Tambaram,Bookstore,815
+2024-03-28,Tambaram,Bookstore,841
+2024-04-27,Tambaram,Bookstore,860
+2024-05-27,Tambaram,Bookstore,852
+2024-06-26,Tambaram,Bookstore,838
+2024-07-26,Tambaram,Bookstore,824
+2024-08-25,Tambaram,Bookstore,787
+2024-09-24,Tambaram,Bookstore,782
+2024-10-24,Tambaram,Bookstore,746
+2024-11-23,Tambaram,Bookstore,765
+2024-12-23,Tambaram,Bookstore,738
+2025-01-22,Tambaram,Bookstore,770
+2025-02-21,Tambaram,Bookstore,768
+2025-03-23,Tambaram,Bookstore,793
+2025-04-22,Tambaram,Bookstore,809
+2025-05-22,Tambaram,Bookstore,833
+2025-06-21,Tambaram,Bookstore,831
+2025-07-21,Tambaram,Bookstore,782
+2025-08-20,Tambaram,Bookstore,775
+2025-09-19,Tambaram,Bookstore,732
+2025-10-19,Tambaram,Bookstore,739
+2025-11-18,Tambaram,Bookstore,710
+2025-12-18,Tambaram,Bookstore,703
+2026-01-17,Tambaram,Bookstore,720
+2024-02-27,Tambaram,Co-working Space,780
+2024-03-28,Tambaram,Co-working Space,789
+2024-04-27,Tambaram,Co-working Space,834
+2024-05-27,Tambaram,Co-working Space,828
+2024-06-26,Tambaram,Co-working Space,808
+2024-07-26,Tambaram,Co-working Space,756
+2024-08-25,Tambaram,Co-working Space,725
+2024-09-24,Tambaram,Co-working Space,712
+2024-10-24,Tambaram,Co-working Space,685
+2024-11-23,Tambaram,Co-working Space,671
+2024-12-23,Tambaram,Co-working Space,678
+2025-01-22,Tambaram,Co-working Space,690
+2025-02-21,Tambaram,Co-working Space,689
+2025-03-23,Tambaram,Co-working Space,694
+2025-04-22,Tambaram,Co-working Space,726
+2025-05-22,Tambaram,Co-working Space,725
+2025-06-21,Tambaram,Co-working Space,710
+2025-07-21,Tambaram,Co-working Space,678
+2025-08-20,Tambaram,Co-working Space,658
+2025-09-19,Tambaram,Co-working Space,611
+2025-10-19,Tambaram,Co-working Space,587
+2025-11-18,Tambaram,Co-working Space,582
+2025-12-18,Tambaram,Co-working Space,568
+2026-01-17,Tambaram,Co-working Space,603
+2024-02-27,Tambaram,Hardware Store,636
+2024-03-28,Tambaram,Hardware Store,661
+2024-04-27,Tambaram,Hardware Store,696
+2024-05-27,Tambaram,Hardware Store,728
+2024-06-26,Tambaram,Hardware Store,724
+2024-07-26,Tambaram,Hardware Store,719
+2024-08-25,Tambaram,Hardware Store,724
+2024-09-24,Tambaram,Hardware Store,701
+2024-10-24,Tambaram,Hardware Store,688
+2024-11-23,Tambaram,Hardware Store,710
+2024-12-23,Tambaram,Hardware Store,726
+2025-01-22,Tambaram,Hardware Store,789
+2025-02-21,Tambaram,Hardware Store,801
+2025-03-23,Tambaram,Hardware Store,864
+2025-04-22,Tambaram,Hardware Store,887
+2025-05-22,Tambaram,Hardware Store,929
+2025-06-21,Tambaram,Hardware Store,952
+2025-07-21,Tambaram,Hardware Store,918
+2025-08-20,Tambaram,Hardware Store,925
+2025-09-19,Tambaram,Hardware Store,935
+2025-10-19,Tambaram,Hardware Store,946
+2025-11-18,Tambaram,Hardware Store,941
+2025-12-18,Tambaram,Hardware Store,980
+2026-01-17,Tambaram,Hardware Store,1022
+2024-02-27,Tambaram,Pet Shop,224
+2024-03-28,Tambaram,Pet Shop,219
+2024-04-27,Tambaram,Pet Shop,234
+2024-05-27,Tambaram,Pet Shop,256
+2024-06-26,Tambaram,Pet Shop,248
+2024-07-26,Tambaram,Pet Shop,247
+2024-08-25,Tambaram,Pet Shop,190
+2024-09-24,Tambaram,Pet Shop,169
+2024-10-24,Tambaram,Pet Shop,172
+2024-11-23,Tambaram,Pet Shop,153
+2024-12-23,Tambaram,Pet Shop,168
+2025-01-22,Tambaram,Pet Shop,185
+2025-02-21,Tambaram,Pet Shop,191
+2025-03-23,Tambaram,Pet Shop,237
+2025-04-22,Tambaram,Pet Shop,222
+2025-05-22,Tambaram,Pet Shop,259
+2025-06-21,Tambaram,Pet Shop,225
+2025-07-21,Tambaram,Pet Shop,195
+2025-08-20,Tambaram,Pet Shop,175
+2025-09-19,Tambaram,Pet Shop,175
+2025-10-19,Tambaram,Pet Shop,131
+2025-11-18,Tambaram,Pet Shop,140
+2025-12-18,Tambaram,Pet Shop,148
+2026-01-17,Tambaram,Pet Shop,174
+2024-02-27,Tambaram,Laundromat,378
+2024-03-28,Tambaram,Laundromat,449
+2024-04-27,Tambaram,Laundromat,496
+2024-05-27,Tambaram,Laundromat,521
+2024-06-26,Tambaram,Laundromat,529
+2024-07-26,Tambaram,Laundromat,537
+2024-08-25,Tambaram,Laundromat,522
+2024-09-24,Tambaram,Laundromat,514
+2024-10-24,Tambaram,Laundromat,543
+2024-11-23,Tambaram,Laundromat,565
+2024-12-23,Tambaram,Laundromat,587
+2025-01-22,Tambaram,Laundromat,627
+2025-02-21,Tambaram,Laundromat,671
+2025-03-23,Tambaram,Laundromat,750
+2025-04-22,Tambaram,Laundromat,786
+2025-05-22,Tambaram,Laundromat,823
+2025-06-21,Tambaram,Laundromat,856
+2025-07-21,Tambaram,Laundromat,884
+2025-08-20,Tambaram,Laundromat,910
+2025-09-19,Tambaram,Laundromat,902
+2025-10-19,Tambaram,Laundromat,921
+2025-11-18,Tambaram,Laundromat,980
+2025-12-18,Tambaram,Laundromat,1025
+2026-01-17,Tambaram,Laundromat,1116
+2024-02-27,Tambaram,Clinic,258
+2024-03-28,Tambaram,Clinic,286
+2024-04-27,Tambaram,Clinic,290
+2024-05-27,Tambaram,Clinic,343
+2024-06-26,Tambaram,Clinic,330
+2024-07-26,Tambaram,Clinic,308
+2024-08-25,Tambaram,Clinic,316
+2024-09-24,Tambaram,Clinic,296
+2024-10-24,Tambaram,Clinic,280
+2024-11-23,Tambaram,Clinic,296
+2024-12-23,Tambaram,Clinic,311
+2025-01-22,Tambaram,Clinic,343
+2025-02-21,Tambaram,Clinic,400
+2025-03-23,Tambaram,Clinic,442
+2025-04-22,Tambaram,Clinic,477
+2025-05-22,Tambaram,Clinic,491
+2025-06-21,Tambaram,Clinic,526
+2025-07-21,Tambaram,Clinic,505
+2025-08-20,Tambaram,Clinic,498
+2025-09-19,Tambaram,Clinic,513
+2025-10-19,Tambaram,Clinic,500
+2025-11-18,Tambaram,Clinic,551
+2025-12-18,Tambaram,Clinic,581
+2026-01-17,Tambaram,Clinic,600
+2024-02-27,Guindy,Cafe,411
+2024-03-28,Guindy,Cafe,459
+2024-04-27,Guindy,Cafe,459
+2024-05-27,Guindy,Cafe,483
+2024-06-26,Guindy,Cafe,475
+2024-07-26,Guindy,Cafe,469
+2024-08-25,Guindy,Cafe,447
+2024-09-24,Guindy,Cafe,404
+2024-10-24,Guindy,Cafe,383
+2024-11-23,Guindy,Cafe,404
+2024-12-23,Guindy,Cafe,412
+2025-01-22,Guindy,Cafe,441
+2025-02-21,Guindy,Cafe,446
+2025-03-23,Guindy,Cafe,499
+2025-04-22,Guindy,Cafe,513
+2025-05-22,Guindy,Cafe,514
+2025-06-21,Guindy,Cafe,528
+2025-07-21,Guindy,Cafe,479
+2025-08-20,Guindy,Cafe,469
+2025-09-19,Guindy,Cafe,438
+2025-10-19,Guindy,Cafe,441
+2025-11-18,Guindy,Cafe,416
+2025-12-18,Guindy,Cafe,422
+2026-01-17,Guindy,Cafe,477
+2024-02-27,Guindy,Gym,739
+2024-03-28,Guindy,Gym,804
+2024-04-27,Guindy,Gym,847
+2024-05-27,Guindy,Gym,879
+2024-06-26,Guindy,Gym,886
+2024-07-26,Guindy,Gym,897
+2024-08-25,Guindy,Gym,894
+2024-09-24,Guindy,Gym,934
+2024-10-24,Guindy,Gym,916
+2024-11-23,Guindy,Gym,971
+2024-12-23,Guindy,Gym,993
+2025-01-22,Guindy,Gym,1061
+2025-02-21,Guindy,Gym,1095
+2025-03-23,Guindy,Gym,1164
+2025-04-22,Guindy,Gym,1207
+2025-05-22,Guindy,Gym,1287
+2025-06-21,Guindy,Gym,1297
+2025-07-21,Guindy,Gym,1312
+2025-08-20,Guindy,Gym,1358
+2025-09-19,Guindy,Gym,1369
+2025-10-19,Guindy,Gym,1376
+2025-11-18,Guindy,Gym,1432
+2025-12-18,Guindy,Gym,1504
+2026-01-17,Guindy,Gym,1564
+2024-02-27,Guindy,Restaurant,861
+2024-03-28,Guindy,Restaurant,952
+2024-04-27,Guindy,Restaurant,1003
+2024-05-27,Guindy,Restaurant,1026
+2024-06-26,Guindy,Restaurant,1065
+2024-07-26,Guindy,Restaurant,1122
+2024-08-25,Guindy,Restaurant,1128
+2024-09-24,Guindy,Restaurant,1152
+2024-10-24,Guindy,Restaurant,1200
+2024-11-23,Guindy,Restaurant,1217
+2024-12-23,Guindy,Restaurant,1279
+2025-01-22,Guindy,Restaurant,1373
+2025-02-21,Guindy,Restaurant,1462
+2025-03-23,Guindy,Restaurant,1516
+2025-04-22,Guindy,Restaurant,1599
+2025-05-22,Guindy,Restaurant,1700
+2025-06-21,Guindy,Restaurant,1747
+2025-07-21,Guindy,Restaurant,1824
+2025-08-20,Guindy,Restaurant,1840
+2025-09-19,Guindy,Restaurant,1932
+2025-10-19,Guindy,Restaurant,1974
+2025-11-18,Guindy,Restaurant,2049
+2025-12-18,Guindy,Restaurant,2145
+2026-01-17,Guindy,Restaurant,2284
+2024-02-27,Guindy,Medical Shop,164
+2024-03-28,Guindy,Medical Shop,186
+2024-04-27,Guindy,Medical Shop,224
+2024-05-27,Guindy,Medical Shop,201
+2024-06-26,Guindy,Medical Shop,227
+2024-07-26,Guindy,Medical Shop,197
+2024-08-25,Guindy,Medical Shop,174
+2024-09-24,Guindy,Medical Shop,151
+2024-10-24,Guindy,Medical Shop,130
+2024-11-23,Guindy,Medical Shop,143
+2024-12-23,Guindy,Medical Shop,147
+2025-01-22,Guindy,Medical Shop,171
+2025-02-21,Guindy,Medical Shop,194
+2025-03-23,Guindy,Medical Shop,210
+2025-04-22,Guindy,Medical Shop,243
+2025-05-22,Guindy,Medical Shop,243
+2025-06-21,Guindy,Medical Shop,233
+2025-07-21,Guindy,Medical Shop,237
+2025-08-20,Guindy,Medical Shop,210
+2025-09-19,Guindy,Medical Shop,179
+2025-10-19,Guindy,Medical Shop,187
+2025-11-18,Guindy,Medical Shop,152
+2025-12-18,Guindy,Medical Shop,166
+2026-01-17,Guindy,Medical Shop,201
+2024-02-27,Guindy,Supermarket,597
+2024-03-28,Guindy,Supermarket,629
+2024-04-27,Guindy,Supermarket,688
+2024-05-27,Guindy,Supermarket,679
+2024-06-26,Guindy,Supermarket,696
+2024-07-26,Guindy,Supermarket,663
+2024-08-25,Guindy,Supermarket,665
+2024-09-24,Guindy,Supermarket,638
+2024-10-24,Guindy,Supermarket,631
+2024-11-23,Guindy,Supermarket,623
+2024-12-23,Guindy,Supermarket,651
+2025-01-22,Guindy,Supermarket,696
+2025-02-21,Guindy,Supermarket,714
+2025-03-23,Guindy,Supermarket,763
+2025-04-22,Guindy,Supermarket,770
+2025-05-22,Guindy,Supermarket,809
+2025-06-21,Guindy,Supermarket,803
+2025-07-21,Guindy,Supermarket,787
+2025-08-20,Guindy,Supermarket,772
+2025-09-19,Guindy,Supermarket,771
+2025-10-19,Guindy,Supermarket,756
+2025-11-18,Guindy,Supermarket,777
+2025-12-18,Guindy,Supermarket,791
+2026-01-17,Guindy,Supermarket,826
+2024-02-27,Guindy,Clothing Store,653
+2024-03-28,Guindy,Clothing Store,708
+2024-04-27,Guindy,Clothing Store,734
+2024-05-27,Guindy,Clothing Store,762
+2024-06-26,Guindy,Clothing Store,787
+2024-07-26,Guindy,Clothing Store,797
+2024-08-25,Guindy,Clothing Store,816
+2024-09-24,Guindy,Clothing Store,805
+2024-10-24,Guindy,Clothing Store,795
+2024-11-23,Guindy,Clothing Store,813
+2024-12-23,Guindy,Clothing Store,835
+2025-01-22,Guindy,Clothing Store,914
+2025-02-21,Guindy,Clothing Store,936
+2025-03-23,Guindy,Clothing Store,991
+2025-04-22,Guindy,Clothing Store,1035
+2025-05-22,Guindy,Clothing Store,1099
+2025-06-21,Guindy,Clothing Store,1126
+2025-07-21,Guindy,Clothing Store,1126
+2025-08-20,Guindy,Clothing Store,1130
+2025-09-19,Guindy,Clothing Store,1121
+2025-10-19,Guindy,Clothing Store,1149
+2025-11-18,Guindy,Clothing Store,1200
+2025-12-18,Guindy,Clothing Store,1206
+2026-01-17,Guindy,Clothing Store,1296
+2024-02-27,Guindy,Salon,600
+2024-03-28,Guindy,Salon,667
+2024-04-27,Guindy,Salon,703
+2024-05-27,Guindy,Salon,735
+2024-06-26,Guindy,Salon,758
+2024-07-26,Guindy,Salon,739
+2024-08-25,Guindy,Salon,755
+2024-09-24,Guindy,Salon,752
+2024-10-24,Guindy,Salon,758
+2024-11-23,Guindy,Salon,804
+2024-12-23,Guindy,Salon,816
+2025-01-22,Guindy,Salon,864
+2025-02-21,Guindy,Salon,916
+2025-03-23,Guindy,Salon,1012
+2025-04-22,Guindy,Salon,1042
+2025-05-22,Guindy,Salon,1100
+2025-06-21,Guindy,Salon,1132
+2025-07-21,Guindy,Salon,1143
+2025-08-20,Guindy,Salon,1154
+2025-09-19,Guindy,Salon,1173
+2025-10-19,Guindy,Salon,1220
+2025-11-18,Guindy,Salon,1229
+2025-12-18,Guindy,Salon,1287
+2026-01-17,Guindy,Salon,1379
+2024-02-27,Guindy,Bakery,800
+2024-03-28,Guindy,Bakery,831
+2024-04-27,Guindy,Bakery,808
+2024-05-27,Guindy,Bakery,814
+2024-06-26,Guindy,Bakery,783
+2024-07-26,Guindy,Bakery,753
+2024-08-25,Guindy,Bakery,704
+2024-09-24,Guindy,Bakery,665
+2024-10-24,Guindy,Bakery,661
+2024-11-23,Guindy,Bakery,628
+2024-12-23,Guindy,Bakery,617
+2025-01-22,Guindy,Bakery,629
+2025-02-21,Guindy,Bakery,665
+2025-03-23,Guindy,Bakery,654
+2025-04-22,Guindy,Bakery,666
+2025-05-22,Guindy,Bakery,676
+2025-06-21,Guindy,Bakery,648
+2025-07-21,Guindy,Bakery,608
+2025-08-20,Guindy,Bakery,592
+2025-09-19,Guindy,Bakery,526
+2025-10-19,Guindy,Bakery,507
+2025-11-18,Guindy,Bakery,495
+2025-12-18,Guindy,Bakery,486
+2026-01-17,Guindy,Bakery,521
+2024-02-27,Guindy,Electronics,633
+2024-03-28,Guindy,Electronics,669
+2024-04-27,Guindy,Electronics,670
+2024-05-27,Guindy,Electronics,680
+2024-06-26,Guindy,Electronics,675
+2024-07-26,Guindy,Electronics,676
+2024-08-25,Guindy,Electronics,645
+2024-09-24,Guindy,Electronics,602
+2024-10-24,Guindy,Electronics,597
+2024-11-23,Guindy,Electronics,584
+2024-12-23,Guindy,Electronics,601
+2025-01-22,Guindy,Electronics,638
+2025-02-21,Guindy,Electronics,636
+2025-03-23,Guindy,Electronics,666
+2025-04-22,Guindy,Electronics,695
+2025-05-22,Guindy,Electronics,697
+2025-06-21,Guindy,Electronics,693
+2025-07-21,Guindy,Electronics,677
+2025-08-20,Guindy,Electronics,644
+2025-09-19,Guindy,Electronics,639
+2025-10-19,Guindy,Electronics,618
+2025-11-18,Guindy,Electronics,618
+2025-12-18,Guindy,Electronics,642
+2026-01-17,Guindy,Electronics,640
+2024-02-27,Guindy,Bookstore,1016
+2024-03-28,Guindy,Bookstore,1054
+2024-04-27,Guindy,Bookstore,1105
+2024-05-27,Guindy,Bookstore,1118
+2024-06-26,Guindy,Bookstore,1145
+2024-07-26,Guindy,Bookstore,1173
+2024-08-25,Guindy,Bookstore,1184
+2024-09-24,Guindy,Bookstore,1186
+2024-10-24,Guindy,Bookstore,1190
+2024-11-23,Guindy,Bookstore,1234
+2024-12-23,Guindy,Bookstore,1262
+2025-01-22,Guindy,Bookstore,1319
+2025-02-21,Guindy,Bookstore,1401
+2025-03-23,Guindy,Bookstore,1476
+2025-04-22,Guindy,Bookstore,1535
+2025-05-22,Guindy,Bookstore,1591
+2025-06-21,Guindy,Bookstore,1609
+2025-07-21,Guindy,Bookstore,1643
+2025-08-20,Guindy,Bookstore,1679
+2025-09-19,Guindy,Bookstore,1703
+2025-10-19,Guindy,Bookstore,1719
+2025-11-18,Guindy,Bookstore,1746
+2025-12-18,Guindy,Bookstore,1826
+2026-01-17,Guindy,Bookstore,1889
+2024-02-27,Guindy,Co-working Space,735
+2024-03-28,Guindy,Co-working Space,744
+2024-04-27,Guindy,Co-working Space,796
+2024-05-27,Guindy,Co-working Space,802
+2024-06-26,Guindy,Co-working Space,826
+2024-07-26,Guindy,Co-working Space,839
+2024-08-25,Guindy,Co-working Space,802
+2024-09-24,Guindy,Co-working Space,786
+2024-10-24,Guindy,Co-working Space,785
+2024-11-23,Guindy,Co-working Space,833
+2024-12-23,Guindy,Co-working Space,853
+2025-01-22,Guindy,Co-working Space,858
+2025-02-21,Guindy,Co-working Space,922
+2025-03-23,Guindy,Co-working Space,945
+2025-04-22,Guindy,Co-working Space,1014
+2025-05-22,Guindy,Co-working Space,1031
+2025-06-21,Guindy,Co-working Space,1044
+2025-07-21,Guindy,Co-working Space,1059
+2025-08-20,Guindy,Co-working Space,1037
+2025-09-19,Guindy,Co-working Space,1038
+2025-10-19,Guindy,Co-working Space,1032
+2025-11-18,Guindy,Co-working Space,1035
+2025-12-18,Guindy,Co-working Space,1076
+2026-01-17,Guindy,Co-working Space,1118
+2024-02-27,Guindy,Hardware Store,462
+2024-03-28,Guindy,Hardware Store,510
+2024-04-27,Guindy,Hardware Store,507
+2024-05-27,Guindy,Hardware Store,534
+2024-06-26,Guindy,Hardware Store,527
+2024-07-26,Guindy,Hardware Store,531
+2024-08-25,Guindy,Hardware Store,474
+2024-09-24,Guindy,Hardware Store,479
+2024-10-24,Guindy,Hardware Store,475
+2024-11-23,Guindy,Hardware Store,449
+2024-12-23,Guindy,Hardware Store,453
+2025-01-22,Guindy,Hardware Store,500
+2025-02-21,Guindy,Hardware Store,519
+2025-03-23,Guindy,Hardware Store,561
+2025-04-22,Guindy,Hardware Store,557
+2025-05-22,Guindy,Hardware Store,594
+2025-06-21,Guindy,Hardware Store,567
+2025-07-21,Guindy,Hardware Store,568
+2025-08-20,Guindy,Hardware Store,536
+2025-09-19,Guindy,Hardware Store,534
+2025-10-19,Guindy,Hardware Store,522
+2025-11-18,Guindy,Hardware Store,498
+2025-12-18,Guindy,Hardware Store,520
+2026-01-17,Guindy,Hardware Store,523
+2024-02-27,Guindy,Pet Shop,408
+2024-03-28,Guindy,Pet Shop,416
+2024-04-27,Guindy,Pet Shop,438
+2024-05-27,Guindy,Pet Shop,443
+2024-06-26,Guindy,Pet Shop,418
+2024-07-26,Guindy,Pet Shop,404
+2024-08-25,Guindy,Pet Shop,370
+2024-09-24,Guindy,Pet Shop,381
+2024-10-24,Guindy,Pet Shop,337
+2024-11-23,Guindy,Pet Shop,321
+2024-12-23,Guindy,Pet Shop,334
+2025-01-22,Guindy,Pet Shop,356
+2025-02-21,Guindy,Pet Shop,391
+2025-03-23,Guindy,Pet Shop,433
+2025-04-22,Guindy,Pet Shop,452
+2025-05-22,Guindy,Pet Shop,454
+2025-06-21,Guindy,Pet Shop,426
+2025-07-21,Guindy,Pet Shop,423
+2025-08-20,Guindy,Pet Shop,399
+2025-09-19,Guindy,Pet Shop,350
+2025-10-19,Guindy,Pet Shop,340
+2025-11-18,Guindy,Pet Shop,325
+2025-12-18,Guindy,Pet Shop,362
+2026-01-17,Guindy,Pet Shop,352
+2024-02-27,Guindy,Laundromat,903
+2024-03-28,Guindy,Laundromat,960
+2024-04-27,Guindy,Laundromat,1026
+2024-05-27,Guindy,Laundromat,1057
+2024-06-26,Guindy,Laundromat,1108
+2024-07-26,Guindy,Laundromat,1098
+2024-08-25,Guindy,Laundromat,1119
+2024-09-24,Guindy,Laundromat,1137
+2024-10-24,Guindy,Laundromat,1133
+2024-11-23,Guindy,Laundromat,1184
+2024-12-23,Guindy,Laundromat,1226
+2025-01-22,Guindy,Laundromat,1277
+2025-02-21,Guindy,Laundromat,1378
+2025-03-23,Guindy,Laundromat,1420
+2025-04-22,Guindy,Laundromat,1484
+2025-05-22,Guindy,Laundromat,1543
+2025-06-21,Guindy,Laundromat,1577
+2025-07-21,Guindy,Laundromat,1633
+2025-08-20,Guindy,Laundromat,1646
+2025-09-19,Guindy,Laundromat,1669
+2025-10-19,Guindy,Laundromat,1714
+2025-11-18,Guindy,Laundromat,1784
+2025-12-18,Guindy,Laundromat,1864
+2026-01-17,Guindy,Laundromat,1913
+2024-02-27,Guindy,Clinic,949
+2024-03-28,Guindy,Clinic,1000
+2024-04-27,Guindy,Clinic,1042
+2024-05-27,Guindy,Clinic,1059
+2024-06-26,Guindy,Clinic,1069
+2024-07-26,Guindy,Clinic,1038
+2024-08-25,Guindy,Clinic,1055
+2024-09-24,Guindy,Clinic,1019
+2024-10-24,Guindy,Clinic,1040
+2024-11-23,Guindy,Clinic,1027
+2024-12-23,Guindy,Clinic,1049
+2025-01-22,Guindy,Clinic,1094
+2025-02-21,Guindy,Clinic,1138
+2025-03-23,Guindy,Clinic,1191
+2025-04-22,Guindy,Clinic,1205
+2025-05-22,Guindy,Clinic,1223
+2025-06-21,Guindy,Clinic,1265
+2025-07-21,Guindy,Clinic,1255
+2025-08-20,Guindy,Clinic,1258
+2025-09-19,Guindy,Clinic,1230
+2025-10-19,Guindy,Clinic,1235
+2025-11-18,Guindy,Clinic,1246
+2025-12-18,Guindy,Clinic,1277
+2026-01-17,Guindy,Clinic,1312
+2024-02-27,Besant Nagar,Cafe,255
+2024-03-28,Besant Nagar,Cafe,271
+2024-04-27,Besant Nagar,Cafe,292
+2024-05-27,Besant Nagar,Cafe,269
+2024-06-26,Besant Nagar,Cafe,260
+2024-07-26,Besant Nagar,Cafe,267
+2024-08-25,Besant Nagar,Cafe,222
+2024-09-24,Besant Nagar,Cafe,179
+2024-10-24,Besant Nagar,Cafe,167
+2024-11-23,Besant Nagar,Cafe,159
+2024-12-23,Besant Nagar,Cafe,153
+2025-01-22,Besant Nagar,Cafe,191
+2025-02-21,Besant Nagar,Cafe,193
+2025-03-23,Besant Nagar,Cafe,224
+2025-04-22,Besant Nagar,Cafe,253
+2025-05-22,Besant Nagar,Cafe,249
+2025-06-21,Besant Nagar,Cafe,252
+2025-07-21,Besant Nagar,Cafe,240
+2025-08-20,Besant Nagar,Cafe,205
+2025-09-19,Besant Nagar,Cafe,157
+2025-10-19,Besant Nagar,Cafe,131
+2025-11-18,Besant Nagar,Cafe,148
+2025-12-18,Besant Nagar,Cafe,132
+2026-01-17,Besant Nagar,Cafe,144
+2024-02-27,Besant Nagar,Gym,851
+2024-03-28,Besant Nagar,Gym,855
+2024-04-27,Besant Nagar,Gym,882
+2024-05-27,Besant Nagar,Gym,868
+2024-06-26,Besant Nagar,Gym,848
+2024-07-26,Besant Nagar,Gym,801
+2024-08-25,Besant Nagar,Gym,770
+2024-09-24,Besant Nagar,Gym,742
+2024-10-24,Besant Nagar,Gym,682
+2024-11-23,Besant Nagar,Gym,667
+2024-12-23,Besant Nagar,Gym,683
+2025-01-22,Besant Nagar,Gym,665
+2025-02-21,Besant Nagar,Gym,675
+2025-03-23,Besant Nagar,Gym,698
+2025-04-22,Besant Nagar,Gym,709
+2025-05-22,Besant Nagar,Gym,713
+2025-06-21,Besant Nagar,Gym,685
+2025-07-21,Besant Nagar,Gym,665
+2025-08-20,Besant Nagar,Gym,625
+2025-09-19,Besant Nagar,Gym,565
+2025-10-19,Besant Nagar,Gym,562
+2025-11-18,Besant Nagar,Gym,515
+2025-12-18,Besant Nagar,Gym,536
+2026-01-17,Besant Nagar,Gym,543
+2024-02-27,Besant Nagar,Restaurant,843
+2024-03-28,Besant Nagar,Restaurant,881
+2024-04-27,Besant Nagar,Restaurant,911
+2024-05-27,Besant Nagar,Restaurant,964
+2024-06-26,Besant Nagar,Restaurant,967
+2024-07-26,Besant Nagar,Restaurant,955
+2024-08-25,Besant Nagar,Restaurant,935
+2024-09-24,Besant Nagar,Restaurant,930
+2024-10-24,Besant Nagar,Restaurant,920
+2024-11-23,Besant Nagar,Restaurant,949
+2024-12-23,Besant Nagar,Restaurant,967
+2025-01-22,Besant Nagar,Restaurant,1012
+2025-02-21,Besant Nagar,Restaurant,1037
+2025-03-23,Besant Nagar,Restaurant,1081
+2025-04-22,Besant Nagar,Restaurant,1122
+2025-05-22,Besant Nagar,Restaurant,1141
+2025-06-21,Besant Nagar,Restaurant,1146
+2025-07-21,Besant Nagar,Restaurant,1131
+2025-08-20,Besant Nagar,Restaurant,1126
+2025-09-19,Besant Nagar,Restaurant,1139
+2025-10-19,Besant Nagar,Restaurant,1153
+2025-11-18,Besant Nagar,Restaurant,1165
+2025-12-18,Besant Nagar,Restaurant,1158
+2026-01-17,Besant Nagar,Restaurant,1224
+2024-02-27,Besant Nagar,Medical Shop,122
+2024-03-28,Besant Nagar,Medical Shop,151
+2024-04-27,Besant Nagar,Medical Shop,179
+2024-05-27,Besant Nagar,Medical Shop,194
+2024-06-26,Besant Nagar,Medical Shop,176
+2024-07-26,Besant Nagar,Medical Shop,146
+2024-08-25,Besant Nagar,Medical Shop,146
+2024-09-24,Besant Nagar,Medical Shop,94
+2024-10-24,Besant Nagar,Medical Shop,94
+2024-11-23,Besant Nagar,Medical Shop,74
+2024-12-23,Besant Nagar,Medical Shop,101
+2025-01-22,Besant Nagar,Medical Shop,104
+2025-02-21,Besant Nagar,Medical Shop,130
+2025-03-23,Besant Nagar,Medical Shop,180
+2025-04-22,Besant Nagar,Medical Shop,168
+2025-05-22,Besant Nagar,Medical Shop,199
+2025-06-21,Besant Nagar,Medical Shop,182
+2025-07-21,Besant Nagar,Medical Shop,179
+2025-08-20,Besant Nagar,Medical Shop,134
+2025-09-19,Besant Nagar,Medical Shop,115
+2025-10-19,Besant Nagar,Medical Shop,99
+2025-11-18,Besant Nagar,Medical Shop,85
+2025-12-18,Besant Nagar,Medical Shop,104
+2026-01-17,Besant Nagar,Medical Shop,112
+2024-02-27,Besant Nagar,Supermarket,472
+2024-03-28,Besant Nagar,Supermarket,502
+2024-04-27,Besant Nagar,Supermarket,516
+2024-05-27,Besant Nagar,Supermarket,512
+2024-06-26,Besant Nagar,Supermarket,494
+2024-07-26,Besant Nagar,Supermarket,465
+2024-08-25,Besant Nagar,Supermarket,443
+2024-09-24,Besant Nagar,Supermarket,403
+2024-10-24,Besant Nagar,Supermarket,401
+2024-11-23,Besant Nagar,Supermarket,379
+2024-12-23,Besant Nagar,Supermarket,401
+2025-01-22,Besant Nagar,Supermarket,396
+2025-02-21,Besant Nagar,Supermarket,451
+2025-03-23,Besant Nagar,Supermarket,441
+2025-04-22,Besant Nagar,Supermarket,463
+2025-05-22,Besant Nagar,Supermarket,461
+2025-06-21,Besant Nagar,Supermarket,482
+2025-07-21,Besant Nagar,Supermarket,453
+2025-08-20,Besant Nagar,Supermarket,418
+2025-09-19,Besant Nagar,Supermarket,390
+2025-10-19,Besant Nagar,Supermarket,381
+2025-11-18,Besant Nagar,Supermarket,363
+2025-12-18,Besant Nagar,Supermarket,358
+2026-01-17,Besant Nagar,Supermarket,375
+2024-02-27,Besant Nagar,Clothing Store,303
+2024-03-28,Besant Nagar,Clothing Store,311
+2024-04-27,Besant Nagar,Clothing Store,361
+2024-05-27,Besant Nagar,Clothing Store,355
+2024-06-26,Besant Nagar,Clothing Store,362
+2024-07-26,Besant Nagar,Clothing Store,333
+2024-08-25,Besant Nagar,Clothing Store,301
+2024-09-24,Besant Nagar,Clothing Store,308
+2024-10-24,Besant Nagar,Clothing Store,299
+2024-11-23,Besant Nagar,Clothing Store,266
+2024-12-23,Besant Nagar,Clothing Store,282
+2025-01-22,Besant Nagar,Clothing Store,316
+2025-02-21,Besant Nagar,Clothing Store,336
+2025-03-23,Besant Nagar,Clothing Store,374
+2025-04-22,Besant Nagar,Clothing Store,391
+2025-05-22,Besant Nagar,Clothing Store,403
+2025-06-21,Besant Nagar,Clothing Store,394
+2025-07-21,Besant Nagar,Clothing Store,378
+2025-08-20,Besant Nagar,Clothing Store,366
+2025-09-19,Besant Nagar,Clothing Store,346
+2025-10-19,Besant Nagar,Clothing Store,338
+2025-11-18,Besant Nagar,Clothing Store,299
+2025-12-18,Besant Nagar,Clothing Store,339
+2026-01-17,Besant Nagar,Clothing Store,352
+2024-02-27,Besant Nagar,Salon,500
+2024-03-28,Besant Nagar,Salon,526
+2024-04-27,Besant Nagar,Salon,561
+2024-05-27,Besant Nagar,Salon,607
+2024-06-26,Besant Nagar,Salon,594
+2024-07-26,Besant Nagar,Salon,619
+2024-08-25,Besant Nagar,Salon,619
+2024-09-24,Besant Nagar,Salon,619
+2024-10-24,Besant Nagar,Salon,608
+2024-11-23,Besant Nagar,Salon,632
+2024-12-23,Besant Nagar,Salon,669
+2025-01-22,Besant Nagar,Salon,684
+2025-02-21,Besant Nagar,Salon,761
+2025-03-23,Besant Nagar,Salon,788
+2025-04-22,Besant Nagar,Salon,835
+2025-05-22,Besant Nagar,Salon,863
+2025-06-21,Besant Nagar,Salon,914
+2025-07-21,Besant Nagar,Salon,904
+2025-08-20,Besant Nagar,Salon,906
+2025-09-19,Besant Nagar,Salon,940
+2025-10-19,Besant Nagar,Salon,962
+2025-11-18,Besant Nagar,Salon,958
+2025-12-18,Besant Nagar,Salon,1002
+2026-01-17,Besant Nagar,Salon,1075
+2024-02-27,Besant Nagar,Bakery,481
+2024-03-28,Besant Nagar,Bakery,513
+2024-04-27,Besant Nagar,Bakery,508
+2024-05-27,Besant Nagar,Bakery,534
+2024-06-26,Besant Nagar,Bakery,500
+2024-07-26,Besant Nagar,Bakery,474
+2024-08-25,Besant Nagar,Bakery,445
+2024-09-24,Besant Nagar,Bakery,434
+2024-10-24,Besant Nagar,Bakery,430
+2024-11-23,Besant Nagar,Bakery,395
+2024-12-23,Besant Nagar,Bakery,399
+2025-01-22,Besant Nagar,Bakery,425
+2025-02-21,Besant Nagar,Bakery,451
+2025-03-23,Besant Nagar,Bakery,484
+2025-04-22,Besant Nagar,Bakery,471
+2025-05-22,Besant Nagar,Bakery,482
+2025-06-21,Besant Nagar,Bakery,460
+2025-07-21,Besant Nagar,Bakery,444
+2025-08-20,Besant Nagar,Bakery,441
+2025-09-19,Besant Nagar,Bakery,419
+2025-10-19,Besant Nagar,Bakery,398
+2025-11-18,Besant Nagar,Bakery,356
+2025-12-18,Besant Nagar,Bakery,359
+2026-01-17,Besant Nagar,Bakery,392
+2024-02-27,Besant Nagar,Electronics,242
+2024-03-28,Besant Nagar,Electronics,301
+2024-04-27,Besant Nagar,Electronics,332
+2024-05-27,Besant Nagar,Electronics,353
+2024-06-26,Besant Nagar,Electronics,340
+2024-07-26,Besant Nagar,Electronics,337
+2024-08-25,Besant Nagar,Electronics,320
+2024-09-24,Besant Nagar,Electronics,295
+2024-10-24,Besant Nagar,Electronics,276
+2024-11-23,Besant Nagar,Electronics,316
+2024-12-23,Besant Nagar,Electronics,311
+2025-01-22,Besant Nagar,Electronics,345
+2025-02-21,Besant Nagar,Electronics,373
+2025-03-23,Besant Nagar,Electronics,420
+2025-04-22,Besant Nagar,Electronics,463
+2025-05-22,Besant Nagar,Electronics,485
+2025-06-21,Besant Nagar,Electronics,486
+2025-07-21,Besant Nagar,Electronics,498
+2025-08-20,Besant Nagar,Electronics,494
+2025-09-19,Besant Nagar,Electronics,489
+2025-10-19,Besant Nagar,Electronics,472
+2025-11-18,Besant Nagar,Electronics,467
+2025-12-18,Besant Nagar,Electronics,501
+2026-01-17,Besant Nagar,Electronics,553
+2024-02-27,Besant Nagar,Bookstore,403
+2024-03-28,Besant Nagar,Bookstore,462
+2024-04-27,Besant Nagar,Bookstore,441
+2024-05-27,Besant Nagar,Bookstore,454
+2024-06-26,Besant Nagar,Bookstore,464
+2024-07-26,Besant Nagar,Bookstore,447
+2024-08-25,Besant Nagar,Bookstore,414
+2024-09-24,Besant Nagar,Bookstore,398
+2024-10-24,Besant Nagar,Bookstore,359
+2024-11-23,Besant Nagar,Bookstore,357
+2024-12-23,Besant Nagar,Bookstore,344
+2025-01-22,Besant Nagar,Bookstore,379
+2025-02-21,Besant Nagar,Bookstore,382
+2025-03-23,Besant Nagar,Bookstore,410
+2025-04-22,Besant Nagar,Bookstore,457
+2025-05-22,Besant Nagar,Bookstore,447
+2025-06-21,Besant Nagar,Bookstore,425
+2025-07-21,Besant Nagar,Bookstore,397
+2025-08-20,Besant Nagar,Bookstore,400
+2025-09-19,Besant Nagar,Bookstore,346
+2025-10-19,Besant Nagar,Bookstore,336
+2025-11-18,Besant Nagar,Bookstore,316
+2025-12-18,Besant Nagar,Bookstore,353
+2026-01-17,Besant Nagar,Bookstore,342
+2024-02-27,Besant Nagar,Co-working Space,409
+2024-03-28,Besant Nagar,Co-working Space,422
+2024-04-27,Besant Nagar,Co-working Space,460
+2024-05-27,Besant Nagar,Co-working Space,497
+2024-06-26,Besant Nagar,Co-working Space,505
+2024-07-26,Besant Nagar,Co-working Space,501
+2024-08-25,Besant Nagar,Co-working Space,511
+2024-09-24,Besant Nagar,Co-working Space,480
+2024-10-24,Besant Nagar,Co-working Space,503
+2024-11-23,Besant Nagar,Co-working Space,516
+2024-12-23,Besant Nagar,Co-working Space,561
+2025-01-22,Besant Nagar,Co-working Space,582
+2025-02-21,Besant Nagar,Co-working Space,620
+2025-03-23,Besant Nagar,Co-working Space,681
+2025-04-22,Besant Nagar,Co-working Space,741
+2025-05-22,Besant Nagar,Co-working Space,781
+2025-06-21,Besant Nagar,Co-working Space,805
+2025-07-21,Besant Nagar,Co-working Space,802
+2025-08-20,Besant Nagar,Co-working Space,790
+2025-09-19,Besant Nagar,Co-working Space,819
+2025-10-19,Besant Nagar,Co-working Space,832
+2025-11-18,Besant Nagar,Co-working Space,865
+2025-12-18,Besant Nagar,Co-working Space,919
+2026-01-17,Besant Nagar,Co-working Space,961
+2024-02-27,Besant Nagar,Hardware Store,444
+2024-03-28,Besant Nagar,Hardware Store,461
+2024-04-27,Besant Nagar,Hardware Store,455
+2024-05-27,Besant Nagar,Hardware Store,454
+2024-06-26,Besant Nagar,Hardware Store,438
+2024-07-26,Besant Nagar,Hardware Store,429
+2024-08-25,Besant Nagar,Hardware Store,414
+2024-09-24,Besant Nagar,Hardware Store,386
+2024-10-24,Besant Nagar,Hardware Store,341
+2024-11-23,Besant Nagar,Hardware Store,337
+2024-12-23,Besant Nagar,Hardware Store,360
+2025-01-22,Besant Nagar,Hardware Store,352
+2025-02-21,Besant Nagar,Hardware Store,378
+2025-03-23,Besant Nagar,Hardware Store,419
+2025-04-22,Besant Nagar,Hardware Store,436
+2025-05-22,Besant Nagar,Hardware Store,419
+2025-06-21,Besant Nagar,Hardware Store,404
+2025-07-21,Besant Nagar,Hardware Store,403
+2025-08-20,Besant Nagar,Hardware Store,382
+2025-09-19,Besant Nagar,Hardware Store,347
+2025-10-19,Besant Nagar,Hardware Store,302
+2025-11-18,Besant Nagar,Hardware Store,313
+2025-12-18,Besant Nagar,Hardware Store,321
+2026-01-17,Besant Nagar,Hardware Store,329
+2024-02-27,Besant Nagar,Pet Shop,667
+2024-03-28,Besant Nagar,Pet Shop,741
+2024-04-27,Besant Nagar,Pet Shop,772
+2024-05-27,Besant Nagar,Pet Shop,808
+2024-06-26,Besant Nagar,Pet Shop,790
+2024-07-26,Besant Nagar,Pet Shop,810
+2024-08-25,Besant Nagar,Pet Shop,822
+2024-09-24,Besant Nagar,Pet Shop,804
+2024-10-24,Besant Nagar,Pet Shop,819
+2024-11-23,Besant Nagar,Pet Shop,848
+2024-12-23,Besant Nagar,Pet Shop,877
+2025-01-22,Besant Nagar,Pet Shop,924
+2025-02-21,Besant Nagar,Pet Shop,956
+2025-03-23,Besant Nagar,Pet Shop,1012
+2025-04-22,Besant Nagar,Pet Shop,1084
+2025-05-22,Besant Nagar,Pet Shop,1121
+2025-06-21,Besant Nagar,Pet Shop,1125
+2025-07-21,Besant Nagar,Pet Shop,1138
+2025-08-20,Besant Nagar,Pet Shop,1183
+2025-09-19,Besant Nagar,Pet Shop,1162
+2025-10-19,Besant Nagar,Pet Shop,1189
+2025-11-18,Besant Nagar,Pet Shop,1243
+2025-12-18,Besant Nagar,Pet Shop,1278
+2026-01-17,Besant Nagar,Pet Shop,1312
+2024-02-27,Besant Nagar,Laundromat,655
+2024-03-28,Besant Nagar,Laundromat,656
+2024-04-27,Besant Nagar,Laundromat,679
+2024-05-27,Besant Nagar,Laundromat,661
+2024-06-26,Besant Nagar,Laundromat,643
+2024-07-26,Besant Nagar,Laundromat,651
+2024-08-25,Besant Nagar,Laundromat,609
+2024-09-24,Besant Nagar,Laundromat,568
+2024-10-24,Besant Nagar,Laundromat,531
+2024-11-23,Besant Nagar,Laundromat,549
+2024-12-23,Besant Nagar,Laundromat,541
+2025-01-22,Besant Nagar,Laundromat,569
+2025-02-21,Besant Nagar,Laundromat,549
+2025-03-23,Besant Nagar,Laundromat,601
+2025-04-22,Besant Nagar,Laundromat,609
+2025-05-22,Besant Nagar,Laundromat,615
+2025-06-21,Besant Nagar,Laundromat,568
+2025-07-21,Besant Nagar,Laundromat,580
+2025-08-20,Besant Nagar,Laundromat,530
+2025-09-19,Besant Nagar,Laundromat,497
+2025-10-19,Besant Nagar,Laundromat,462
+2025-11-18,Besant Nagar,Laundromat,480
+2025-12-18,Besant Nagar,Laundromat,471
+2026-01-17,Besant Nagar,Laundromat,492
+2024-02-27,Besant Nagar,Clinic,393
+2024-03-28,Besant Nagar,Clinic,417
+2024-04-27,Besant Nagar,Clinic,456
+2024-05-27,Besant Nagar,Clinic,500
+2024-06-26,Besant Nagar,Clinic,528
+2024-07-26,Besant Nagar,Clinic,521
+2024-08-25,Besant Nagar,Clinic,524
+2024-09-24,Besant Nagar,Clinic,493
+2024-10-24,Besant Nagar,Clinic,494
+2024-11-23,Besant Nagar,Clinic,538
+2024-12-23,Besant Nagar,Clinic,562
+2025-01-22,Besant Nagar,Clinic,596
+2025-02-21,Besant Nagar,Clinic,667
+2025-03-23,Besant Nagar,Clinic,708
+2025-04-22,Besant Nagar,Clinic,762
+2025-05-22,Besant Nagar,Clinic,778
+2025-06-21,Besant Nagar,Clinic,806
+2025-07-21,Besant Nagar,Clinic,821
+2025-08-20,Besant Nagar,Clinic,857
+2025-09-19,Besant Nagar,Clinic,851
+2025-10-19,Besant Nagar,Clinic,872
+2025-11-18,Besant Nagar,Clinic,910
+2025-12-18,Besant Nagar,Clinic,980
+2026-01-17,Besant Nagar,Clinic,1032
+2024-02-27,Nungambakkam,Cafe,819
+2024-03-28,Nungambakkam,Cafe,873
+2024-04-27,Nungambakkam,Cafe,915
+2024-05-27,Nungambakkam,Cafe,939
+2024-06-26,Nungambakkam,Cafe,949
+2024-07-26,Nungambakkam,Cafe,964
+2024-08-25,Nungambakkam,Cafe,974
+2024-09-24,Nungambakkam,Cafe,981
+2024-10-24,Nungambakkam,Cafe,962
+2024-11-23,Nungambakkam,Cafe,996
+2024-12-23,Nungambakkam,Cafe,1033
+2025-01-22,Nungambakkam,Cafe,1068
+2025-02-21,Nungambakkam,Cafe,1128
+2025-03-23,Nungambakkam,Cafe,1184
+2025-04-22,Nungambakkam,Cafe,1233
+2025-05-22,Nungambakkam,Cafe,1266
+2025-06-21,Nungambakkam,Cafe,1288
+2025-07-21,Nungambakkam,Cafe,1293
+2025-08-20,Nungambakkam,Cafe,1301
+2025-09-19,Nungambakkam,Cafe,1336
+2025-10-19,Nungambakkam,Cafe,1327
+2025-11-18,Nungambakkam,Cafe,1391
+2025-12-18,Nungambakkam,Cafe,1435
+2026-01-17,Nungambakkam,Cafe,1480
+2024-02-27,Nungambakkam,Gym,184
+2024-03-28,Nungambakkam,Gym,188
+2024-04-27,Nungambakkam,Gym,234
+2024-05-27,Nungambakkam,Gym,215
+2024-06-26,Nungambakkam,Gym,234
+2024-07-26,Nungambakkam,Gym,210
+2024-08-25,Nungambakkam,Gym,198
+2024-09-24,Nungambakkam,Gym,153
+2024-10-24,Nungambakkam,Gym,177
+2024-11-23,Nungambakkam,Gym,168
+2024-12-23,Nungambakkam,Gym,155
+2025-01-22,Nungambakkam,Gym,184
+2025-02-21,Nungambakkam,Gym,205
+2025-03-23,Nungambakkam,Gym,256
+2025-04-22,Nungambakkam,Gym,277
+2025-05-22,Nungambakkam,Gym,295
+2025-06-21,Nungambakkam,Gym,269
+2025-07-21,Nungambakkam,Gym,254
+2025-08-20,Nungambakkam,Gym,262
+2025-09-19,Nungambakkam,Gym,247
+2025-10-19,Nungambakkam,Gym,231
+2025-11-18,Nungambakkam,Gym,201
+2025-12-18,Nungambakkam,Gym,245
+2026-01-17,Nungambakkam,Gym,250
+2024-02-27,Nungambakkam,Restaurant,290
+2024-03-28,Nungambakkam,Restaurant,352
+2024-04-27,Nungambakkam,Restaurant,371
+2024-05-27,Nungambakkam,Restaurant,405
+2024-06-26,Nungambakkam,Restaurant,412
+2024-07-26,Nungambakkam,Restaurant,395
+2024-08-25,Nungambakkam,Restaurant,383
+2024-09-24,Nungambakkam,Restaurant,367
+2024-10-24,Nungambakkam,Restaurant,360
+2024-11-23,Nungambakkam,Restaurant,404
+2024-12-23,Nungambakkam,Restaurant,404
+2025-01-22,Nungambakkam,Restaurant,446
+2025-02-21,Nungambakkam,Restaurant,497
+2025-03-23,Nungambakkam,Restaurant,569
+2025-04-22,Nungambakkam,Restaurant,586
+2025-05-22,Nungambakkam,Restaurant,605
+2025-06-21,Nungambakkam,Restaurant,657
+2025-07-21,Nungambakkam,Restaurant,670
+2025-08-20,Nungambakkam,Restaurant,653
+2025-09-19,Nungambakkam,Restaurant,673
+2025-10-19,Nungambakkam,Restaurant,670
+2025-11-18,Nungambakkam,Restaurant,713
+2025-12-18,Nungambakkam,Restaurant,733
+2026-01-17,Nungambakkam,Restaurant,789
+2024-02-27,Nungambakkam,Medical Shop,727
+2024-03-28,Nungambakkam,Medical Shop,759
+2024-04-27,Nungambakkam,Medical Shop,800
+2024-05-27,Nungambakkam,Medical Shop,878
+2024-06-26,Nungambakkam,Medical Shop,881
+2024-07-26,Nungambakkam,Medical Shop,893
+2024-08-25,Nungambakkam,Medical Shop,909
+2024-09-24,Nungambakkam,Medical Shop,930
+2024-10-24,Nungambakkam,Medical Shop,950
+2024-11-23,Nungambakkam,Medical Shop,979
+2024-12-23,Nungambakkam,Medical Shop,1031
+2025-01-22,Nungambakkam,Medical Shop,1082
+2025-02-21,Nungambakkam,Medical Shop,1157
+2025-03-23,Nungambakkam,Medical Shop,1242
+2025-04-22,Nungambakkam,Medical Shop,1303
+2025-05-22,Nungambakkam,Medical Shop,1347
+2025-06-21,Nungambakkam,Medical Shop,1420
+2025-07-21,Nungambakkam,Medical Shop,1447
+2025-08-20,Nungambakkam,Medical Shop,1481
+2025-09-19,Nungambakkam,Medical Shop,1515
+2025-10-19,Nungambakkam,Medical Shop,1580
+2025-11-18,Nungambakkam,Medical Shop,1611
+2025-12-18,Nungambakkam,Medical Shop,1700
+2026-01-17,Nungambakkam,Medical Shop,1768
+2024-02-27,Nungambakkam,Supermarket,554
+2024-03-28,Nungambakkam,Supermarket,609
+2024-04-27,Nungambakkam,Supermarket,634
+2024-05-27,Nungambakkam,Supermarket,685
+2024-06-26,Nungambakkam,Supermarket,700
+2024-07-26,Nungambakkam,Supermarket,689
+2024-08-25,Nungambakkam,Supermarket,697
+2024-09-24,Nungambakkam,Supermarket,680
+2024-10-24,Nungambakkam,Supermarket,713
+2024-11-23,Nungambakkam,Supermarket,726
+2024-12-23,Nungambakkam,Supermarket,740
+2025-01-22,Nungambakkam,Supermarket,800
+2025-02-21,Nungambakkam,Supermarket,837
+2025-03-23,Nungambakkam,Supermarket,923
+2025-04-22,Nungambakkam,Supermarket,943
+2025-05-22,Nungambakkam,Supermarket,1009
+2025-06-21,Nungambakkam,Supermarket,1043
+2025-07-21,Nungambakkam,Supermarket,1035
+2025-08-20,Nungambakkam,Supermarket,1058
+2025-09-19,Nungambakkam,Supermarket,1053
+2025-10-19,Nungambakkam,Supermarket,1071
+2025-11-18,Nungambakkam,Supermarket,1126
+2025-12-18,Nungambakkam,Supermarket,1160
+2026-01-17,Nungambakkam,Supermarket,1234
+2024-02-27,Nungambakkam,Clothing Store,824
+2024-03-28,Nungambakkam,Clothing Store,870
+2024-04-27,Nungambakkam,Clothing Store,923
+2024-05-27,Nungambakkam,Clothing Store,946
+2024-06-26,Nungambakkam,Clothing Store,948
+2024-07-26,Nungambakkam,Clothing Store,925
+2024-08-25,Nungambakkam,Clothing Store,947
+2024-09-24,Nungambakkam,Clothing Store,944
+2024-10-24,Nungambakkam,Clothing Store,940
+2024-11-23,Nungambakkam,Clothing Store,954
+2024-12-23,Nungambakkam,Clothing Store,965
+2025-01-22,Nungambakkam,Clothing Store,1000
+2025-02-21,Nungambakkam,Clothing Store,1058
+2025-03-23,Nungambakkam,Clothing Store,1108
+2025-04-22,Nungambakkam,Clothing Store,1156
+2025-05-22,Nungambakkam,Clothing Store,1165
+2025-06-21,Nungambakkam,Clothing Store,1221
+2025-07-21,Nungambakkam,Clothing Store,1209
+2025-08-20,Nungambakkam,Clothing Store,1208
+2025-09-19,Nungambakkam,Clothing Store,1198
+2025-10-19,Nungambakkam,Clothing Store,1231
+2025-11-18,Nungambakkam,Clothing Store,1253
+2025-12-18,Nungambakkam,Clothing Store,1272
+2026-01-17,Nungambakkam,Clothing Store,1326
+2024-02-27,Nungambakkam,Salon,482
+2024-03-28,Nungambakkam,Salon,500
+2024-04-27,Nungambakkam,Salon,547
+2024-05-27,Nungambakkam,Salon,583
+2024-06-26,Nungambakkam,Salon,600
+2024-07-26,Nungambakkam,Salon,606
+2024-08-25,Nungambakkam,Salon,576
+2024-09-24,Nungambakkam,Salon,601
+2024-10-24,Nungambakkam,Salon,594
+2024-11-23,Nungambakkam,Salon,612
+2024-12-23,Nungambakkam,Salon,661
+2025-01-22,Nungambakkam,Salon,683
+2025-02-21,Nungambakkam,Salon,736
+2025-03-23,Nungambakkam,Salon,801
+2025-04-22,Nungambakkam,Salon,841
+2025-05-22,Nungambakkam,Salon,905
+2025-06-21,Nungambakkam,Salon,934
+2025-07-21,Nungambakkam,Salon,930
+2025-08-20,Nungambakkam,Salon,942
+2025-09-19,Nungambakkam,Salon,948
+2025-10-19,Nungambakkam,Salon,958
+2025-11-18,Nungambakkam,Salon,996
+2025-12-18,Nungambakkam,Salon,1046
+2026-01-17,Nungambakkam,Salon,1143
+2024-02-27,Nungambakkam,Bakery,878
+2024-03-28,Nungambakkam,Bakery,898
+2024-04-27,Nungambakkam,Bakery,892
+2024-05-27,Nungambakkam,Bakery,895
+2024-06-26,Nungambakkam,Bakery,887
+2024-07-26,Nungambakkam,Bakery,881
+2024-08-25,Nungambakkam,Bakery,854
+2024-09-24,Nungambakkam,Bakery,814
+2024-10-24,Nungambakkam,Bakery,766
+2024-11-23,Nungambakkam,Bakery,749
+2024-12-23,Nungambakkam,Bakery,766
+2025-01-22,Nungambakkam,Bakery,762
+2025-02-21,Nungambakkam,Bakery,808
+2025-03-23,Nungambakkam,Bakery,828
+2025-04-22,Nungambakkam,Bakery,822
+2025-05-22,Nungambakkam,Bakery,833
+2025-06-21,Nungambakkam,Bakery,815
+2025-07-21,Nungambakkam,Bakery,782
+2025-08-20,Nungambakkam,Bakery,775
+2025-09-19,Nungambakkam,Bakery,731
+2025-10-19,Nungambakkam,Bakery,717
+2025-11-18,Nungambakkam,Bakery,682
+2025-12-18,Nungambakkam,Bakery,693
+2026-01-17,Nungambakkam,Bakery,719
+2024-02-27,Nungambakkam,Electronics,792
+2024-03-28,Nungambakkam,Electronics,794
+2024-04-27,Nungambakkam,Electronics,811
+2024-05-27,Nungambakkam,Electronics,851
+2024-06-26,Nungambakkam,Electronics,835
+2024-07-26,Nungambakkam,Electronics,844
+2024-08-25,Nungambakkam,Electronics,826
+2024-09-24,Nungambakkam,Electronics,817
+2024-10-24,Nungambakkam,Electronics,791
+2024-11-23,Nungambakkam,Electronics,784
+2024-12-23,Nungambakkam,Electronics,821
+2025-01-22,Nungambakkam,Electronics,836
+2025-02-21,Nungambakkam,Electronics,876
+2025-03-23,Nungambakkam,Electronics,884
+2025-04-22,Nungambakkam,Electronics,937
+2025-05-22,Nungambakkam,Electronics,929
+2025-06-21,Nungambakkam,Electronics,960
+2025-07-21,Nungambakkam,Electronics,946
+2025-08-20,Nungambakkam,Electronics,912
+2025-09-19,Nungambakkam,Electronics,890
+2025-10-19,Nungambakkam,Electronics,903
+2025-11-18,Nungambakkam,Electronics,902
+2025-12-18,Nungambakkam,Electronics,900
+2026-01-17,Nungambakkam,Electronics,919
+2024-02-27,Nungambakkam,Bookstore,301
+2024-03-28,Nungambakkam,Bookstore,348
+2024-04-27,Nungambakkam,Bookstore,363
+2024-05-27,Nungambakkam,Bookstore,357
+2024-06-26,Nungambakkam,Bookstore,355
+2024-07-26,Nungambakkam,Bookstore,354
+2024-08-25,Nungambakkam,Bookstore,296
+2024-09-24,Nungambakkam,Bookstore,305
+2024-10-24,Nungambakkam,Bookstore,269
+2024-11-23,Nungambakkam,Bookstore,267
+2024-12-23,Nungambakkam,Bookstore,258
+2025-01-22,Nungambakkam,Bookstore,285
+2025-02-21,Nungambakkam,Bookstore,340
+2025-03-23,Nungambakkam,Bookstore,344
+2025-04-22,Nungambakkam,Bookstore,354
+2025-05-22,Nungambakkam,Bookstore,363
+2025-06-21,Nungambakkam,Bookstore,367
+2025-07-21,Nungambakkam,Bookstore,341
+2025-08-20,Nungambakkam,Bookstore,331
+2025-09-19,Nungambakkam,Bookstore,302
+2025-10-19,Nungambakkam,Bookstore,296
+2025-11-18,Nungambakkam,Bookstore,300
+2025-12-18,Nungambakkam,Bookstore,288
+2026-01-17,Nungambakkam,Bookstore,302
+2024-02-27,Nungambakkam,Co-working Space,509
+2024-03-28,Nungambakkam,Co-working Space,532
+2024-04-27,Nungambakkam,Co-working Space,525
+2024-05-27,Nungambakkam,Co-working Space,527
+2024-06-26,Nungambakkam,Co-working Space,540
+2024-07-26,Nungambakkam,Co-working Space,515
+2024-08-25,Nungambakkam,Co-working Space,461
+2024-09-24,Nungambakkam,Co-working Space,439
+2024-10-24,Nungambakkam,Co-working Space,416
+2024-11-23,Nungambakkam,Co-working Space,380
+2024-12-23,Nungambakkam,Co-working Space,400
+2025-01-22,Nungambakkam,Co-working Space,426
+2025-02-21,Nungambakkam,Co-working Space,424
+2025-03-23,Nungambakkam,Co-working Space,439
+2025-04-22,Nungambakkam,Co-working Space,435
+2025-05-22,Nungambakkam,Co-working Space,456
+2025-06-21,Nungambakkam,Co-working Space,453
+2025-07-21,Nungambakkam,Co-working Space,416
+2025-08-20,Nungambakkam,Co-working Space,390
+2025-09-19,Nungambakkam,Co-working Space,363
+2025-10-19,Nungambakkam,Co-working Space,323
+2025-11-18,Nungambakkam,Co-working Space,316
+2025-12-18,Nungambakkam,Co-working Space,329
+2026-01-17,Nungambakkam,Co-working Space,318
+2024-02-27,Nungambakkam,Hardware Store,769
+2024-03-28,Nungambakkam,Hardware Store,817
+2024-04-27,Nungambakkam,Hardware Store,830
+2024-05-27,Nungambakkam,Hardware Store,806
+2024-06-26,Nungambakkam,Hardware Store,815
+2024-07-26,Nungambakkam,Hardware Store,788
+2024-08-25,Nungambakkam,Hardware Store,774
+2024-09-24,Nungambakkam,Hardware Store,726
+2024-10-24,Nungambakkam,Hardware Store,710
+2024-11-23,Nungambakkam,Hardware Store,707
+2024-12-23,Nungambakkam,Hardware Store,699
+2025-01-22,Nungambakkam,Hardware Store,732
+2025-02-21,Nungambakkam,Hardware Store,729
+2025-03-23,Nungambakkam,Hardware Store,782
+2025-04-22,Nungambakkam,Hardware Store,793
+2025-05-22,Nungambakkam,Hardware Store,780
+2025-06-21,Nungambakkam,Hardware Store,768
+2025-07-21,Nungambakkam,Hardware Store,757
+2025-08-20,Nungambakkam,Hardware Store,741
+2025-09-19,Nungambakkam,Hardware Store,693
+2025-10-19,Nungambakkam,Hardware Store,688
+2025-11-18,Nungambakkam,Hardware Store,655
+2025-12-18,Nungambakkam,Hardware Store,663
+2026-01-17,Nungambakkam,Hardware Store,690
+2024-02-27,Nungambakkam,Pet Shop,761
+2024-03-28,Nungambakkam,Pet Shop,796
+2024-04-27,Nungambakkam,Pet Shop,850
+2024-05-27,Nungambakkam,Pet Shop,849
+2024-06-26,Nungambakkam,Pet Shop,901
+2024-07-26,Nungambakkam,Pet Shop,880
+2024-08-25,Nungambakkam,Pet Shop,885
+2024-09-24,Nungambakkam,Pet Shop,881
+2024-10-24,Nungambakkam,Pet Shop,917
+2024-11-23,Nungambakkam,Pet Shop,951
+2024-12-23,Nungambakkam,Pet Shop,985
+2025-01-22,Nungambakkam,Pet Shop,1007
+2025-02-21,Nungambakkam,Pet Shop,1068
+2025-03-23,Nungambakkam,Pet Shop,1157
+2025-04-22,Nungambakkam,Pet Shop,1210
+2025-05-22,Nungambakkam,Pet Shop,1234
+2025-06-21,Nungambakkam,Pet Shop,1265
+2025-07-21,Nungambakkam,Pet Shop,1272
+2025-08-20,Nungambakkam,Pet Shop,1324
+2025-09-19,Nungambakkam,Pet Shop,1303
+2025-10-19,Nungambakkam,Pet Shop,1345
+2025-11-18,Nungambakkam,Pet Shop,1381
+2025-12-18,Nungambakkam,Pet Shop,1428
+2026-01-17,Nungambakkam,Pet Shop,1508
+2024-02-27,Nungambakkam,Laundromat,697
+2024-03-28,Nungambakkam,Laundromat,767
+2024-04-27,Nungambakkam,Laundromat,824
+2024-05-27,Nungambakkam,Laundromat,829
+2024-06-26,Nungambakkam,Laundromat,854
+2024-07-26,Nungambakkam,Laundromat,891
+2024-08-25,Nungambakkam,Laundromat,904
+2024-09-24,Nungambakkam,Laundromat,913
+2024-10-24,Nungambakkam,Laundromat,910
+2024-11-23,Nungambakkam,Laundromat,962
+2024-12-23,Nungambakkam,Laundromat,1002
+2025-01-22,Nungambakkam,Laundromat,1055
+2025-02-21,Nungambakkam,Laundromat,1127
+2025-03-23,Nungambakkam,Laundromat,1222
+2025-04-22,Nungambakkam,Laundromat,1296
+2025-05-22,Nungambakkam,Laundromat,1333
+2025-06-21,Nungambakkam,Laundromat,1381
+2025-07-21,Nungambakkam,Laundromat,1413
+2025-08-20,Nungambakkam,Laundromat,1449
+2025-09-19,Nungambakkam,Laundromat,1509
+2025-10-19,Nungambakkam,Laundromat,1514
+2025-11-18,Nungambakkam,Laundromat,1579
+2025-12-18,Nungambakkam,Laundromat,1651
+2026-01-17,Nungambakkam,Laundromat,1769
+2024-02-27,Nungambakkam,Clinic,650
+2024-03-28,Nungambakkam,Clinic,683
+2024-04-27,Nungambakkam,Clinic,674
+2024-05-27,Nungambakkam,Clinic,694
+2024-06-26,Nungambakkam,Clinic,666
+2024-07-26,Nungambakkam,Clinic,635
+2024-08-25,Nungambakkam,Clinic,602
+2024-09-24,Nungambakkam,Clinic,568
+2024-10-24,Nungambakkam,Clinic,548
+2024-11-23,Nungambakkam,Clinic,542
+2024-12-23,Nungambakkam,Clinic,548
+2025-01-22,Nungambakkam,Clinic,565
+2025-02-21,Nungambakkam,Clinic,556
+2025-03-23,Nungambakkam,Clinic,568
+2025-04-22,Nungambakkam,Clinic,603
+2025-05-22,Nungambakkam,Clinic,582
+2025-06-21,Nungambakkam,Clinic,567
+2025-07-21,Nungambakkam,Clinic,554
+2025-08-20,Nungambakkam,Clinic,515
+2025-09-19,Nungambakkam,Clinic,505
+2025-10-19,Nungambakkam,Clinic,452
+2025-11-18,Nungambakkam,Clinic,457
+2025-12-18,Nungambakkam,Clinic,456
+2026-01-17,Nungambakkam,Clinic,453

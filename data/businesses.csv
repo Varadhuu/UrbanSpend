@@ -1,0 +1,1001 @@
+business_id,area_name,category_name,age_months,review_rating,status
+1,Besant Nagar,Gym,14,4.4,Active
+2,Adyar,Pet Shop,90,3.9,Closed
+3,Adyar,Clinic,83,3.0,Active
+4,T Nagar,Restaurant,40,2.6,Active
+5,Mylapore,Electronics,68,3.0,Active
+6,Adyar,Pet Shop,94,4.9,Active
+7,Tambaram,Bookstore,28,4.5,Active
+8,Tambaram,Supermarket,99,4.8,Active
+9,OMR,Laundromat,99,4.8,Active
+10,Guindy,Bakery,82,4.0,Active
+11,Anna Nagar,Laundromat,119,2.6,Active
+12,Besant Nagar,Bookstore,62,3.1,Closed
+13,Adyar,Clinic,16,3.0,Active
+14,Anna Nagar,Clothing Store,71,3.3,Active
+15,Velachery,Supermarket,53,2.9,Active
+16,T Nagar,Medical Shop,72,4.1,Active
+17,Adyar,Bookstore,104,4.9,Active
+18,T Nagar,Electronics,95,4.2,Closed
+19,OMR,Electronics,42,4.6,Active
+20,Anna Nagar,Pet Shop,47,2.7,Active
+21,Nungambakkam,Clothing Store,66,4.6,Active
+22,OMR,Salon,61,3.4,Active
+23,Nungambakkam,Laundromat,78,3.3,Active
+24,Mylapore,Medical Shop,15,4.2,Closed
+25,OMR,Electronics,28,3.1,Closed
+26,Adyar,Salon,60,2.9,Closed
+27,Tambaram,Bakery,76,3.5,Active
+28,Anna Nagar,Laundromat,36,3.9,Active
+29,Besant Nagar,Co-working Space,92,4.8,Active
+30,Guindy,Pet Shop,17,4.6,Active
+31,T Nagar,Cafe,10,3.6,Closed
+32,Velachery,Co-working Space,104,4.3,Active
+33,Nungambakkam,Laundromat,106,3.0,Active
+34,Anna Nagar,Salon,68,4.2,Closed
+35,Velachery,Salon,110,3.8,Closed
+36,Mylapore,Electronics,74,2.9,Active
+37,Guindy,Gym,72,3.4,Active
+38,Besant Nagar,Medical Shop,99,4.8,Active
+39,Besant Nagar,Restaurant,22,3.7,Active
+40,Anna Nagar,Clinic,70,3.3,Active
+41,Anna Nagar,Restaurant,37,4.4,Active
+42,T Nagar,Electronics,80,4.5,Active
+43,T Nagar,Supermarket,83,3.9,Active
+44,Anna Nagar,Pet Shop,81,4.8,Active
+45,Velachery,Gym,26,3.1,Active
+46,T Nagar,Clothing Store,62,3.3,Active
+47,Adyar,Clinic,97,5.0,Closed
+48,Tambaram,Clinic,47,4.4,Active
+49,Tambaram,Co-working Space,88,2.7,Active
+50,Velachery,Salon,102,3.4,Closed
+51,Tambaram,Laundromat,66,2.8,Active
+52,Mylapore,Bakery,96,2.9,Closed
+53,Anna Nagar,Cafe,63,3.0,Active
+54,Nungambakkam,Gym,84,4.8,Active
+55,OMR,Salon,78,3.2,Active
+56,Guindy,Cafe,44,4.5,Active
+57,OMR,Restaurant,21,4.5,Active
+58,Mylapore,Gym,13,3.4,Active
+59,Tambaram,Pet Shop,43,4.9,Closed
+60,Nungambakkam,Cafe,59,3.6,Active
+61,T Nagar,Laundromat,69,3.1,Active
+62,Besant Nagar,Salon,49,4.0,Active
+63,OMR,Cafe,3,3.4,Active
+64,T Nagar,Cafe,70,4.3,Closed
+65,Guindy,Clinic,18,3.1,Closed
+66,Nungambakkam,Co-working Space,45,3.1,Closed
+67,Velachery,Supermarket,54,4.6,Active
+68,Tambaram,Laundromat,61,3.2,Active
+69,Nungambakkam,Bookstore,117,4.9,Active
+70,Velachery,Restaurant,63,2.9,Active
+71,OMR,Cafe,39,3.3,Active
+72,Anna Nagar,Salon,14,3.8,Active
+73,Guindy,Medical Shop,84,4.5,Active
+74,Adyar,Medical Shop,29,4.4,Active
+75,Adyar,Restaurant,114,3.5,Active
+76,Anna Nagar,Bookstore,18,4.7,Active
+77,T Nagar,Medical Shop,48,2.8,Active
+78,Guindy,Supermarket,109,4.9,Active
+79,T Nagar,Pet Shop,57,2.5,Active
+80,Tambaram,Bookstore,72,3.4,Active
+81,OMR,Bakery,79,3.3,Active
+82,OMR,Gym,35,2.6,Active
+83,Besant Nagar,Laundromat,79,3.9,Active
+84,Tambaram,Pet Shop,25,2.5,Closed
+85,Tambaram,Co-working Space,60,4.8,Closed
+86,Anna Nagar,Electronics,30,2.6,Active
+87,Nungambakkam,Gym,87,2.7,Active
+88,Guindy,Clinic,22,4.6,Active
+89,Adyar,Clothing Store,103,3.7,Active
+90,Tambaram,Clinic,88,3.3,Active
+91,OMR,Clothing Store,61,4.2,Active
+92,Anna Nagar,Clinic,63,4.0,Closed
+93,OMR,Gym,99,3.2,Closed
+94,Anna Nagar,Clothing Store,98,4.5,Active
+95,Velachery,Cafe,119,4.9,Active
+96,Guindy,Co-working Space,56,4.5,Active
+97,Mylapore,Medical Shop,96,3.0,Closed
+98,Guindy,Electronics,87,3.4,Closed
+99,Velachery,Bookstore,79,2.8,Active
+100,Nungambakkam,Cafe,62,3.7,Active
+101,Velachery,Restaurant,78,3.2,Active
+102,Besant Nagar,Electronics,57,4.2,Active
+103,Anna Nagar,Medical Shop,93,4.9,Active
+104,Anna Nagar,Bookstore,108,3.8,Active
+105,Adyar,Salon,14,3.9,Active
+106,T Nagar,Bookstore,101,4.5,Active
+107,Nungambakkam,Supermarket,83,4.6,Active
+108,OMR,Electronics,99,4.7,Active
+109,OMR,Clinic,110,4.9,Active
+110,Nungambakkam,Restaurant,73,3.7,Closed
+111,T Nagar,Salon,30,3.9,Active
+112,Nungambakkam,Gym,100,2.8,Closed
+113,Mylapore,Bakery,85,3.4,Active
+114,Anna Nagar,Gym,106,3.6,Active
+115,Velachery,Medical Shop,24,3.7,Active
+116,T Nagar,Clinic,5,3.4,Closed
+117,T Nagar,Supermarket,76,3.7,Active
+118,T Nagar,Salon,110,2.9,Active
+119,T Nagar,Laundromat,28,3.3,Active
+120,Velachery,Clinic,78,4.7,Closed
+121,Velachery,Hardware Store,102,3.0,Active
+122,Besant Nagar,Clothing Store,92,2.7,Active
+123,Anna Nagar,Laundromat,87,3.8,Active
+124,OMR,Bakery,114,4.6,Active
+125,Nungambakkam,Bookstore,69,4.0,Active
+126,Tambaram,Supermarket,76,4.2,Active
+127,Adyar,Pet Shop,50,2.9,Closed
+128,Adyar,Bakery,17,3.2,Active
+129,Nungambakkam,Clothing Store,45,2.7,Active
+130,Nungambakkam,Cafe,48,3.0,Active
+131,OMR,Clinic,104,3.4,Active
+132,T Nagar,Pet Shop,20,4.9,Active
+133,Velachery,Gym,29,3.1,Active
+134,Adyar,Medical Shop,27,4.2,Active
+135,Tambaram,Salon,29,3.6,Active
+136,Nungambakkam,Bakery,44,3.1,Active
+137,Besant Nagar,Bakery,65,4.4,Active
+138,Tambaram,Clinic,44,4.8,Active
+139,Besant Nagar,Bakery,87,3.9,Active
+140,OMR,Cafe,60,5.0,Active
+141,Velachery,Gym,112,3.4,Active
+142,Velachery,Electronics,56,4.5,Active
+143,Velachery,Laundromat,11,3.0,Active
+144,Guindy,Cafe,56,3.8,Active
+145,Besant Nagar,Bookstore,53,3.7,Closed
+146,Velachery,Cafe,41,3.9,Active
+147,Tambaram,Bookstore,84,2.8,Active
+148,Tambaram,Pet Shop,90,4.5,Active
+149,Velachery,Clothing Store,10,3.5,Active
+150,Tambaram,Bakery,119,4.0,Active
+151,Nungambakkam,Clothing Store,116,4.6,Closed
+152,Besant Nagar,Salon,107,4.5,Closed
+153,Tambaram,Pet Shop,23,4.2,Active
+154,Mylapore,Restaurant,31,3.0,Closed
+155,Guindy,Hardware Store,70,3.1,Active
+156,Adyar,Supermarket,97,4.6,Active
+157,Velachery,Bookstore,34,4.5,Closed
+158,Besant Nagar,Bookstore,78,4.8,Closed
+159,Besant Nagar,Gym,51,3.0,Active
+160,OMR,Electronics,76,2.7,Active
+161,Nungambakkam,Gym,90,3.3,Active
+162,Nungambakkam,Gym,13,4.8,Active
+163,Anna Nagar,Restaurant,38,4.2,Active
+164,Anna Nagar,Laundromat,92,4.6,Active
+165,Nungambakkam,Restaurant,108,3.5,Active
+166,Anna Nagar,Medical Shop,96,4.5,Active
+167,OMR,Laundromat,85,3.3,Active
+168,Nungambakkam,Hardware Store,16,4.6,Closed
+169,Velachery,Laundromat,29,4.5,Active
+170,Nungambakkam,Gym,83,3.3,Active
+171,Mylapore,Clinic,107,4.1,Active
+172,Velachery,Clinic,58,4.0,Closed
+173,Tambaram,Clothing Store,22,4.6,Active
+174,Besant Nagar,Hardware Store,115,3.4,Active
+175,Tambaram,Co-working Space,114,3.7,Active
+176,Nungambakkam,Hardware Store,51,3.5,Active
+177,Anna Nagar,Co-working Space,108,2.9,Closed
+178,Besant Nagar,Co-working Space,109,2.8,Active
+179,Mylapore,Supermarket,84,4.1,Active
+180,Tambaram,Hardware Store,80,3.8,Active
+181,OMR,Clothing Store,47,2.6,Active
+182,Mylapore,Medical Shop,45,5.0,Active
+183,Besant Nagar,Clinic,84,2.6,Closed
+184,OMR,Co-working Space,37,4.4,Active
+185,Besant Nagar,Cafe,110,4.5,Active
+186,Adyar,Electronics,96,2.9,Active
+187,Nungambakkam,Cafe,24,3.7,Active
+188,Velachery,Cafe,37,3.3,Active
+189,Nungambakkam,Co-working Space,102,3.9,Active
+190,Nungambakkam,Pet Shop,80,4.0,Active
+191,OMR,Co-working Space,44,4.7,Active
+192,Guindy,Hardware Store,42,3.4,Active
+193,Guindy,Salon,74,3.4,Active
+194,Nungambakkam,Gym,42,3.0,Active
+195,Velachery,Co-working Space,44,5.0,Closed
+196,Anna Nagar,Laundromat,54,3.5,Active
+197,Guindy,Pet Shop,28,2.9,Active
+198,T Nagar,Electronics,21,4.2,Active
+199,Guindy,Clothing Store,11,3.9,Active
+200,T Nagar,Clinic,42,4.8,Active
+201,Velachery,Electronics,65,3.8,Active
+202,Besant Nagar,Salon,68,3.4,Closed
+203,Nungambakkam,Gym,21,3.8,Active
+204,Guindy,Gym,22,4.4,Closed
+205,Adyar,Co-working Space,44,2.9,Active
+206,Nungambakkam,Clothing Store,95,4.2,Active
+207,Tambaram,Clothing Store,24,2.8,Closed
+208,Besant Nagar,Clothing Store,114,2.9,Active
+209,T Nagar,Cafe,85,2.6,Active
+210,Velachery,Bookstore,16,4.3,Active
+211,Tambaram,Clothing Store,87,3.1,Active
+212,Nungambakkam,Pet Shop,35,3.4,Active
+213,Besant Nagar,Salon,100,4.1,Closed
+214,Guindy,Laundromat,110,3.2,Active
+215,Besant Nagar,Hardware Store,45,3.8,Active
+216,Tambaram,Clinic,104,4.1,Active
+217,Tambaram,Bakery,26,4.7,Active
+218,Nungambakkam,Cafe,51,3.6,Active
+219,Velachery,Hardware Store,16,3.6,Active
+220,Adyar,Clinic,104,4.8,Active
+221,Mylapore,Salon,77,3.2,Active
+222,Guindy,Co-working Space,25,3.9,Active
+223,T Nagar,Bookstore,9,3.4,Active
+224,Mylapore,Hardware Store,29,4.6,Closed
+225,Guindy,Cafe,32,3.8,Active
+226,Tambaram,Cafe,22,2.8,Active
+227,OMR,Cafe,6,4.5,Active
+228,Mylapore,Supermarket,92,3.3,Active
+229,Guindy,Medical Shop,62,4.4,Closed
+230,Tambaram,Gym,47,2.7,Active
+231,Anna Nagar,Clinic,41,3.6,Active
+232,Guindy,Supermarket,48,3.7,Active
+233,Adyar,Supermarket,22,4.6,Active
+234,Besant Nagar,Cafe,65,5.0,Active
+235,Velachery,Restaurant,96,3.3,Active
+236,Besant Nagar,Cafe,93,4.4,Active
+237,Besant Nagar,Hardware Store,55,3.8,Active
+238,Tambaram,Bakery,73,3.2,Active
+239,Velachery,Clinic,68,3.6,Active
+240,Nungambakkam,Supermarket,119,3.0,Active
+241,Mylapore,Laundromat,13,2.6,Active
+242,Nungambakkam,Supermarket,98,4.2,Active
+243,Velachery,Restaurant,118,3.3,Active
+244,T Nagar,Cafe,49,2.6,Active
+245,Guindy,Medical Shop,88,4.9,Active
+246,Mylapore,Bookstore,116,4.3,Closed
+247,Velachery,Laundromat,103,3.5,Closed
+248,Anna Nagar,Co-working Space,41,4.7,Closed
+249,Besant Nagar,Hardware Store,72,3.4,Active
+250,Tambaram,Hardware Store,15,3.9,Closed
+251,Besant Nagar,Laundromat,8,4.0,Active
+252,Adyar,Laundromat,84,2.8,Active
+253,Tambaram,Cafe,17,2.7,Closed
+254,Adyar,Hardware Store,56,2.6,Active
+255,Tambaram,Bakery,2,3.6,Active
+256,T Nagar,Salon,15,4.3,Active
+257,Adyar,Pet Shop,75,3.4,Active
+258,Anna Nagar,Gym,81,3.1,Active
+259,Anna Nagar,Hardware Store,52,3.5,Active
+260,Guindy,Electronics,5,3.8,Active
+261,OMR,Hardware Store,29,4.2,Active
+262,Anna Nagar,Bakery,3,3.0,Active
+263,Anna Nagar,Medical Shop,116,4.4,Active
+264,Adyar,Supermarket,102,4.7,Active
+265,T Nagar,Supermarket,85,3.5,Closed
+266,Guindy,Salon,71,4.7,Active
+267,Mylapore,Salon,95,2.8,Active
+268,Mylapore,Gym,29,3.9,Active
+269,T Nagar,Bookstore,84,2.7,Active
+270,OMR,Salon,7,4.0,Active
+271,Guindy,Bookstore,35,4.9,Closed
+272,Adyar,Clothing Store,114,4.4,Closed
+273,Tambaram,Clothing Store,4,3.4,Active
+274,T Nagar,Restaurant,87,3.9,Active
+275,T Nagar,Clinic,103,3.7,Active
+276,Tambaram,Salon,103,3.0,Closed
+277,Guindy,Supermarket,58,3.5,Closed
+278,Adyar,Electronics,52,3.4,Active
+279,OMR,Bakery,117,4.5,Active
+280,Besant Nagar,Bookstore,97,4.4,Active
+281,Tambaram,Restaurant,72,4.5,Active
+282,T Nagar,Supermarket,91,3.9,Active
+283,T Nagar,Bakery,46,3.7,Active
+284,Anna Nagar,Electronics,101,4.0,Closed
+285,Anna Nagar,Supermarket,2,2.9,Active
+286,Besant Nagar,Clothing Store,85,4.0,Active
+287,Mylapore,Restaurant,112,4.6,Active
+288,OMR,Supermarket,24,3.7,Closed
+289,Mylapore,Clothing Store,48,3.8,Active
+290,Mylapore,Laundromat,114,4.7,Active
+291,T Nagar,Bakery,73,3.7,Active
+292,Nungambakkam,Clinic,10,3.7,Closed
+293,T Nagar,Cafe,7,3.1,Active
+294,Velachery,Salon,96,4.7,Active
+295,Velachery,Pet Shop,72,2.7,Active
+296,T Nagar,Clothing Store,111,4.7,Closed
+297,OMR,Medical Shop,22,4.0,Active
+298,Anna Nagar,Hardware Store,97,4.5,Active
+299,Velachery,Bakery,1,3.9,Closed
+300,Guindy,Supermarket,86,4.2,Active
+301,Guindy,Salon,110,4.9,Active
+302,T Nagar,Bookstore,104,3.4,Active
+303,Adyar,Pet Shop,93,3.8,Closed
+304,Tambaram,Electronics,18,2.9,Closed
+305,Velachery,Clothing Store,16,3.6,Active
+306,Anna Nagar,Bookstore,44,2.6,Closed
+307,Besant Nagar,Salon,98,4.1,Active
+308,T Nagar,Pet Shop,26,3.6,Active
+309,Guindy,Cafe,42,2.5,Closed
+310,Velachery,Bakery,97,4.9,Closed
+311,Velachery,Cafe,30,4.2,Active
+312,OMR,Restaurant,71,4.6,Active
+313,Guindy,Medical Shop,64,3.2,Active
+314,Nungambakkam,Salon,23,4.7,Active
+315,T Nagar,Restaurant,66,2.7,Active
+316,Adyar,Hardware Store,66,4.5,Active
+317,Besant Nagar,Medical Shop,114,4.4,Active
+318,Adyar,Co-working Space,14,3.4,Active
+319,Anna Nagar,Gym,19,3.7,Active
+320,OMR,Hardware Store,60,3.1,Active
+321,Nungambakkam,Restaurant,69,4.3,Active
+322,Mylapore,Bakery,15,4.8,Closed
+323,Velachery,Electronics,23,3.4,Active
+324,OMR,Bakery,15,3.7,Active
+325,Mylapore,Electronics,4,4.9,Active
+326,Tambaram,Gym,16,4.7,Active
+327,Guindy,Co-working Space,99,3.2,Active
+328,Mylapore,Co-working Space,39,4.3,Active
+329,Guindy,Hardware Store,92,4.6,Active
+330,Besant Nagar,Cafe,57,3.1,Active
+331,Adyar,Bakery,51,2.6,Active
+332,Mylapore,Restaurant,107,4.2,Active
+333,OMR,Bakery,109,3.6,Active
+334,Anna Nagar,Pet Shop,81,4.1,Active
+335,Besant Nagar,Pet Shop,16,4.2,Active
+336,OMR,Co-working Space,111,3.1,Closed
+337,Guindy,Co-working Space,56,2.5,Active
+338,Mylapore,Laundromat,117,2.7,Closed
+339,Guindy,Pet Shop,118,2.7,Closed
+340,Besant Nagar,Clinic,29,4.6,Active
+341,Besant Nagar,Cafe,11,4.9,Active
+342,OMR,Restaurant,33,2.9,Active
+343,OMR,Salon,97,3.5,Active
+344,Nungambakkam,Medical Shop,24,4.4,Active
+345,Tambaram,Laundromat,3,4.2,Active
+346,Adyar,Hardware Store,51,4.3,Active
+347,OMR,Bookstore,39,2.8,Active
+348,Mylapore,Supermarket,113,3.0,Active
+349,Velachery,Laundromat,84,4.0,Active
+350,Besant Nagar,Gym,107,3.3,Active
+351,Adyar,Cafe,117,3.5,Active
+352,Mylapore,Laundromat,118,4.5,Closed
+353,Anna Nagar,Supermarket,117,3.1,Active
+354,Guindy,Hardware Store,34,3.4,Active
+355,OMR,Co-working Space,8,3.4,Active
+356,Besant Nagar,Co-working Space,11,4.9,Active
+357,T Nagar,Restaurant,81,4.1,Closed
+358,Adyar,Supermarket,114,2.7,Closed
+359,Anna Nagar,Hardware Store,88,4.9,Closed
+360,Anna Nagar,Restaurant,18,3.6,Active
+361,Velachery,Restaurant,21,2.8,Active
+362,Anna Nagar,Pet Shop,14,3.3,Active
+363,Adyar,Hardware Store,19,3.2,Active
+364,Besant Nagar,Supermarket,106,4.3,Active
+365,Adyar,Gym,17,4.6,Active
+366,T Nagar,Clinic,33,2.8,Active
+367,T Nagar,Pet Shop,111,4.8,Closed
+368,Guindy,Electronics,83,2.6,Active
+369,Velachery,Clothing Store,28,4.0,Active
+370,Adyar,Bookstore,37,3.1,Active
+371,Nungambakkam,Clothing Store,111,3.2,Active
+372,Anna Nagar,Laundromat,93,3.7,Active
+373,Nungambakkam,Co-working Space,30,4.5,Active
+374,Adyar,Electronics,100,4.9,Active
+375,Anna Nagar,Laundromat,9,3.9,Active
+376,Adyar,Electronics,79,2.7,Active
+377,OMR,Medical Shop,27,3.9,Active
+378,Velachery,Bakery,60,2.9,Active
+379,Besant Nagar,Medical Shop,56,4.6,Active
+380,Velachery,Medical Shop,4,4.2,Active
+381,T Nagar,Electronics,110,3.2,Active
+382,Adyar,Bookstore,22,3.3,Active
+383,Guindy,Hardware Store,116,4.3,Active
+384,OMR,Bakery,103,4.5,Active
+385,Adyar,Bookstore,37,2.6,Active
+386,Anna Nagar,Pet Shop,119,3.1,Active
+387,Velachery,Clinic,100,3.7,Active
+388,Mylapore,Hardware Store,118,3.5,Closed
+389,Mylapore,Medical Shop,48,4.1,Active
+390,Guindy,Salon,27,3.9,Active
+391,T Nagar,Clothing Store,116,2.8,Active
+392,Nungambakkam,Supermarket,103,3.0,Active
+393,Adyar,Hardware Store,69,3.0,Active
+394,T Nagar,Electronics,34,4.0,Active
+395,Mylapore,Gym,78,4.2,Closed
+396,OMR,Supermarket,68,2.9,Active
+397,Velachery,Gym,8,2.5,Closed
+398,Nungambakkam,Medical Shop,66,3.6,Active
+399,Adyar,Clothing Store,104,4.4,Active
+400,Velachery,Restaurant,69,3.6,Closed
+401,Adyar,Co-working Space,87,4.3,Active
+402,Besant Nagar,Cafe,55,4.8,Active
+403,Mylapore,Salon,8,3.2,Active
+404,Guindy,Bookstore,95,2.9,Active
+405,T Nagar,Electronics,65,4.1,Closed
+406,Guindy,Laundromat,112,4.9,Active
+407,Tambaram,Supermarket,87,2.6,Active
+408,Velachery,Electronics,57,4.8,Active
+409,Mylapore,Clothing Store,117,4.0,Active
+410,OMR,Laundromat,11,2.6,Closed
+411,Besant Nagar,Supermarket,29,3.6,Active
+412,Anna Nagar,Salon,64,4.8,Active
+413,T Nagar,Electronics,114,3.3,Active
+414,Mylapore,Medical Shop,109,4.2,Active
+415,OMR,Electronics,96,2.8,Active
+416,Tambaram,Clothing Store,14,4.9,Active
+417,Mylapore,Clinic,74,4.6,Active
+418,Besant Nagar,Electronics,67,4.5,Closed
+419,Mylapore,Clothing Store,77,3.3,Active
+420,OMR,Cafe,108,3.7,Active
+421,OMR,Hardware Store,2,4.1,Active
+422,Velachery,Pet Shop,52,3.8,Active
+423,T Nagar,Clinic,61,4.1,Closed
+424,Mylapore,Clinic,74,3.6,Active
+425,Mylapore,Salon,110,3.2,Active
+426,Mylapore,Salon,100,4.5,Active
+427,Velachery,Bakery,45,3.6,Closed
+428,Besant Nagar,Co-working Space,5,4.1,Active
+429,Besant Nagar,Co-working Space,24,4.8,Active
+430,Tambaram,Pet Shop,80,3.2,Active
+431,Anna Nagar,Bakery,16,4.2,Closed
+432,Anna Nagar,Gym,38,3.9,Active
+433,Tambaram,Clothing Store,51,4.6,Closed
+434,Besant Nagar,Cafe,24,3.7,Closed
+435,Velachery,Salon,114,5.0,Active
+436,Anna Nagar,Bookstore,31,4.8,Active
+437,Mylapore,Cafe,115,4.1,Active
+438,Adyar,Clinic,32,4.6,Active
+439,OMR,Bakery,29,4.0,Active
+440,Adyar,Salon,11,3.1,Active
+441,Guindy,Clothing Store,118,3.3,Active
+442,Mylapore,Bookstore,15,4.5,Active
+443,Besant Nagar,Hardware Store,3,3.9,Active
+444,Anna Nagar,Electronics,58,4.6,Active
+445,Mylapore,Clinic,47,3.2,Closed
+446,T Nagar,Supermarket,55,4.1,Active
+447,Nungambakkam,Clinic,32,4.2,Active
+448,Guindy,Pet Shop,101,2.7,Active
+449,Besant Nagar,Bakery,72,2.7,Active
+450,Mylapore,Electronics,53,3.7,Active
+451,OMR,Salon,3,2.9,Active
+452,Anna Nagar,Gym,30,3.5,Active
+453,Adyar,Laundromat,111,4.5,Active
+454,Velachery,Medical Shop,49,3.8,Active
+455,Velachery,Clothing Store,95,4.6,Closed
+456,OMR,Clothing Store,60,3.1,Active
+457,Anna Nagar,Clinic,6,3.4,Active
+458,Adyar,Hardware Store,7,4.9,Active
+459,Tambaram,Supermarket,80,4.7,Active
+460,Mylapore,Clinic,81,3.4,Active
+461,Mylapore,Laundromat,23,2.5,Closed
+462,T Nagar,Supermarket,75,3.0,Active
+463,Nungambakkam,Co-working Space,3,2.8,Active
+464,Guindy,Restaurant,117,4.3,Active
+465,Tambaram,Hardware Store,11,2.7,Active
+466,Guindy,Gym,50,4.4,Active
+467,Anna Nagar,Pet Shop,92,3.1,Closed
+468,Mylapore,Salon,108,2.5,Closed
+469,Adyar,Bakery,46,4.6,Closed
+470,OMR,Co-working Space,29,4.4,Closed
+471,Velachery,Pet Shop,43,3.6,Closed
+472,OMR,Hardware Store,66,3.8,Active
+473,T Nagar,Hardware Store,29,3.3,Active
+474,Velachery,Bakery,67,2.6,Active
+475,Anna Nagar,Laundromat,64,4.3,Active
+476,Tambaram,Medical Shop,30,2.9,Active
+477,Besant Nagar,Salon,75,3.5,Active
+478,Mylapore,Medical Shop,40,2.6,Active
+479,Tambaram,Bookstore,103,3.3,Active
+480,Besant Nagar,Medical Shop,29,2.9,Active
+481,Guindy,Hardware Store,81,3.4,Active
+482,OMR,Bakery,90,2.6,Active
+483,Nungambakkam,Cafe,35,2.8,Active
+484,Tambaram,Laundromat,43,4.6,Active
+485,Nungambakkam,Bakery,58,2.8,Active
+486,Besant Nagar,Restaurant,88,4.6,Active
+487,Nungambakkam,Salon,33,4.3,Active
+488,Anna Nagar,Bakery,32,2.6,Active
+489,Velachery,Clothing Store,7,3.7,Closed
+490,Mylapore,Hardware Store,99,3.5,Closed
+491,Besant Nagar,Gym,63,3.1,Active
+492,Anna Nagar,Bookstore,63,3.6,Active
+493,Besant Nagar,Supermarket,115,3.2,Active
+494,Nungambakkam,Pet Shop,24,3.4,Active
+495,Guindy,Pet Shop,117,4.4,Active
+496,Guindy,Electronics,86,4.4,Active
+497,Adyar,Co-working Space,52,3.3,Active
+498,Guindy,Supermarket,96,3.8,Active
+499,T Nagar,Medical Shop,34,3.2,Active
+500,Guindy,Restaurant,73,3.4,Active
+501,T Nagar,Supermarket,97,3.0,Closed
+502,Anna Nagar,Clinic,48,4.0,Active
+503,Besant Nagar,Laundromat,61,2.7,Active
+504,Mylapore,Gym,38,4.2,Active
+505,Velachery,Clothing Store,100,2.6,Active
+506,Nungambakkam,Co-working Space,108,4.6,Active
+507,Anna Nagar,Supermarket,40,2.9,Active
+508,Mylapore,Supermarket,44,4.7,Active
+509,Nungambakkam,Pet Shop,24,4.7,Active
+510,Adyar,Co-working Space,33,4.8,Active
+511,Anna Nagar,Salon,104,3.7,Active
+512,Mylapore,Clinic,9,2.6,Active
+513,Velachery,Hardware Store,51,3.6,Active
+514,OMR,Clothing Store,113,2.7,Active
+515,OMR,Cafe,39,4.5,Closed
+516,OMR,Laundromat,107,4.2,Closed
+517,Velachery,Cafe,102,4.5,Closed
+518,Velachery,Electronics,53,3.8,Active
+519,Nungambakkam,Restaurant,1,4.5,Active
+520,Velachery,Bakery,50,4.7,Active
+521,Besant Nagar,Electronics,106,2.7,Active
+522,Guindy,Hardware Store,118,3.8,Closed
+523,Anna Nagar,Clothing Store,71,3.5,Active
+524,Guindy,Electronics,58,2.5,Closed
+525,Mylapore,Salon,77,3.2,Closed
+526,Velachery,Clothing Store,25,4.2,Active
+527,Nungambakkam,Supermarket,32,3.6,Active
+528,Mylapore,Clinic,35,4.2,Active
+529,Tambaram,Clothing Store,23,3.8,Active
+530,Tambaram,Clinic,76,3.4,Active
+531,OMR,Restaurant,45,3.0,Active
+532,Anna Nagar,Electronics,16,5.0,Active
+533,Nungambakkam,Gym,85,3.1,Active
+534,Velachery,Supermarket,90,4.6,Active
+535,T Nagar,Supermarket,53,4.5,Active
+536,Anna Nagar,Medical Shop,67,4.1,Active
+537,Guindy,Electronics,50,4.5,Active
+538,Besant Nagar,Cafe,37,4.9,Active
+539,Anna Nagar,Supermarket,23,3.2,Active
+540,Tambaram,Restaurant,2,3.4,Active
+541,Mylapore,Laundromat,8,4.1,Active
+542,Tambaram,Laundromat,36,4.5,Closed
+543,T Nagar,Restaurant,107,3.5,Closed
+544,T Nagar,Laundromat,41,3.5,Closed
+545,Guindy,Electronics,55,4.7,Active
+546,Velachery,Bookstore,87,3.4,Active
+547,Tambaram,Supermarket,14,4.6,Active
+548,Nungambakkam,Medical Shop,90,4.2,Active
+549,Guindy,Hardware Store,103,3.2,Closed
+550,Mylapore,Clinic,51,3.4,Active
+551,Tambaram,Clinic,106,3.1,Closed
+552,Adyar,Clinic,48,3.2,Active
+553,Adyar,Medical Shop,34,3.7,Active
+554,Guindy,Pet Shop,101,3.7,Active
+555,Anna Nagar,Bakery,100,4.2,Active
+556,Velachery,Gym,99,3.0,Active
+557,Besant Nagar,Bakery,11,3.0,Closed
+558,Mylapore,Electronics,29,4.9,Closed
+559,Tambaram,Cafe,23,2.9,Active
+560,Anna Nagar,Supermarket,78,3.0,Closed
+561,OMR,Cafe,65,4.9,Active
+562,Mylapore,Hardware Store,56,3.2,Active
+563,T Nagar,Bakery,62,3.1,Closed
+564,Guindy,Bakery,31,2.5,Closed
+565,Adyar,Salon,93,4.1,Active
+566,Velachery,Laundromat,25,4.1,Closed
+567,Mylapore,Co-working Space,12,4.7,Active
+568,Besant Nagar,Laundromat,11,4.4,Active
+569,Velachery,Clothing Store,82,4.8,Closed
+570,Tambaram,Pet Shop,41,4.8,Closed
+571,Nungambakkam,Co-working Space,51,3.3,Active
+572,Velachery,Electronics,33,3.6,Active
+573,T Nagar,Clothing Store,41,4.8,Active
+574,T Nagar,Hardware Store,104,4.5,Closed
+575,OMR,Restaurant,60,4.2,Active
+576,T Nagar,Medical Shop,57,3.9,Active
+577,Guindy,Clothing Store,62,3.2,Active
+578,Tambaram,Salon,33,5.0,Active
+579,Velachery,Pet Shop,19,4.7,Active
+580,Besant Nagar,Clinic,117,3.6,Active
+581,OMR,Supermarket,110,2.7,Active
+582,Adyar,Clothing Store,68,3.5,Closed
+583,Anna Nagar,Cafe,84,2.7,Active
+584,Guindy,Restaurant,26,4.5,Active
+585,Adyar,Hardware Store,17,4.6,Closed
+586,Anna Nagar,Salon,118,2.9,Active
+587,Guindy,Pet Shop,85,4.6,Active
+588,T Nagar,Laundromat,25,4.7,Closed
+589,Tambaram,Pet Shop,110,3.5,Closed
+590,Nungambakkam,Gym,19,3.4,Active
+591,Mylapore,Clinic,4,3.7,Active
+592,T Nagar,Supermarket,36,4.0,Active
+593,Anna Nagar,Bakery,43,3.6,Active
+594,Guindy,Salon,101,2.5,Closed
+595,Mylapore,Bakery,57,4.0,Active
+596,OMR,Clinic,65,3.7,Active
+597,Velachery,Electronics,14,3.8,Closed
+598,Nungambakkam,Bookstore,10,4.7,Active
+599,Velachery,Supermarket,51,3.8,Active
+600,Mylapore,Salon,18,4.4,Active
+601,Anna Nagar,Bakery,87,3.7,Active
+602,Mylapore,Restaurant,71,4.0,Active
+603,Anna Nagar,Gym,5,4.2,Active
+604,OMR,Salon,67,2.7,Active
+605,Velachery,Supermarket,60,3.2,Active
+606,Nungambakkam,Clothing Store,21,4.3,Active
+607,OMR,Co-working Space,47,2.5,Closed
+608,Nungambakkam,Bookstore,48,4.1,Closed
+609,Besant Nagar,Bookstore,96,4.4,Closed
+610,T Nagar,Supermarket,84,4.2,Active
+611,Besant Nagar,Clinic,16,3.9,Closed
+612,Velachery,Cafe,32,4.8,Active
+613,T Nagar,Laundromat,83,3.7,Active
+614,Tambaram,Clothing Store,91,4.5,Active
+615,Mylapore,Clinic,80,3.5,Closed
+616,Tambaram,Clothing Store,93,4.0,Active
+617,Anna Nagar,Pet Shop,48,3.0,Active
+618,Tambaram,Hardware Store,114,2.9,Active
+619,Mylapore,Pet Shop,57,2.7,Active
+620,Tambaram,Supermarket,118,3.3,Active
+621,T Nagar,Salon,84,4.8,Active
+622,Mylapore,Co-working Space,69,4.4,Active
+623,Tambaram,Clinic,29,4.8,Active
+624,Nungambakkam,Clothing Store,40,3.4,Active
+625,T Nagar,Medical Shop,116,4.4,Active
+626,Nungambakkam,Salon,6,4.6,Closed
+627,Velachery,Clinic,25,3.2,Active
+628,OMR,Bookstore,63,3.3,Closed
+629,Besant Nagar,Restaurant,85,2.6,Active
+630,Guindy,Pet Shop,92,3.5,Active
+631,Velachery,Salon,39,3.5,Active
+632,Nungambakkam,Bookstore,106,2.6,Active
+633,Guindy,Gym,80,3.5,Active
+634,Anna Nagar,Pet Shop,54,3.6,Closed
+635,Nungambakkam,Restaurant,86,2.9,Closed
+636,Tambaram,Cafe,8,3.7,Active
+637,Adyar,Salon,11,4.5,Closed
+638,Guindy,Gym,112,2.9,Active
+639,Guindy,Bookstore,1,4.5,Active
+640,OMR,Bookstore,3,3.8,Active
+641,Velachery,Clinic,2,4.4,Closed
+642,Mylapore,Medical Shop,109,4.0,Active
+643,Mylapore,Salon,11,2.6,Closed
+644,Anna Nagar,Electronics,114,3.1,Active
+645,Besant Nagar,Supermarket,1,4.5,Closed
+646,Nungambakkam,Restaurant,33,4.8,Active
+647,Mylapore,Bakery,114,3.6,Closed
+648,Velachery,Cafe,17,4.1,Active
+649,Anna Nagar,Gym,40,4.4,Active
+650,Velachery,Gym,112,3.6,Active
+651,Velachery,Gym,93,3.9,Active
+652,Tambaram,Medical Shop,86,4.4,Closed
+653,Mylapore,Gym,88,4.5,Active
+654,Adyar,Clinic,37,5.0,Active
+655,Nungambakkam,Hardware Store,86,4.9,Active
+656,Besant Nagar,Medical Shop,99,3.5,Active
+657,Velachery,Clinic,103,3.9,Active
+658,OMR,Bakery,80,4.2,Active
+659,Mylapore,Pet Shop,61,3.0,Active
+660,Anna Nagar,Hardware Store,4,3.0,Active
+661,Nungambakkam,Bookstore,47,3.5,Active
+662,Mylapore,Pet Shop,2,3.4,Active
+663,Adyar,Gym,33,3.7,Active
+664,Guindy,Laundromat,110,4.2,Closed
+665,OMR,Laundromat,56,3.3,Active
+666,Guindy,Laundromat,30,2.7,Active
+667,Nungambakkam,Restaurant,48,4.9,Active
+668,Guindy,Supermarket,23,3.4,Active
+669,Adyar,Supermarket,16,4.0,Active
+670,OMR,Hardware Store,78,2.9,Closed
+671,Besant Nagar,Electronics,29,3.1,Active
+672,Anna Nagar,Medical Shop,99,4.7,Closed
+673,Adyar,Clothing Store,59,2.5,Closed
+674,Velachery,Clothing Store,9,4.1,Closed
+675,Guindy,Gym,31,3.4,Closed
+676,Velachery,Gym,43,4.2,Active
+677,OMR,Electronics,64,2.8,Active
+678,Besant Nagar,Supermarket,1,4.3,Active
+679,OMR,Salon,36,4.1,Closed
+680,Tambaram,Medical Shop,57,2.7,Active
+681,Nungambakkam,Clinic,61,3.5,Active
+682,Adyar,Pet Shop,19,2.7,Active
+683,Velachery,Co-working Space,108,2.6,Active
+684,Tambaram,Medical Shop,104,2.9,Active
+685,Anna Nagar,Bakery,3,2.7,Active
+686,Guindy,Electronics,85,4.0,Active
+687,Anna Nagar,Hardware Store,78,2.8,Active
+688,OMR,Bookstore,94,4.3,Active
+689,Anna Nagar,Co-working Space,38,2.9,Active
+690,Adyar,Laundromat,91,3.7,Active
+691,OMR,Medical Shop,95,4.9,Active
+692,Mylapore,Clinic,110,4.0,Active
+693,OMR,Restaurant,44,4.9,Active
+694,Velachery,Gym,29,3.9,Active
+695,Mylapore,Restaurant,102,4.6,Active
+696,Besant Nagar,Bakery,10,4.6,Active
+697,OMR,Electronics,60,3.1,Active
+698,Guindy,Gym,101,3.6,Active
+699,OMR,Gym,53,4.7,Active
+700,OMR,Cafe,29,4.5,Active
+701,Tambaram,Restaurant,10,3.2,Closed
+702,Besant Nagar,Clinic,84,4.2,Active
+703,Guindy,Gym,92,3.5,Active
+704,Adyar,Supermarket,6,3.5,Closed
+705,OMR,Laundromat,63,4.8,Active
+706,T Nagar,Gym,65,4.7,Active
+707,Mylapore,Clinic,117,2.9,Active
+708,Anna Nagar,Salon,48,4.1,Active
+709,Velachery,Restaurant,78,3.2,Active
+710,Adyar,Supermarket,6,4.5,Active
+711,Adyar,Pet Shop,63,2.9,Active
+712,Guindy,Cafe,29,2.9,Closed
+713,Adyar,Bakery,6,4.4,Active
+714,Velachery,Supermarket,16,4.6,Active
+715,Velachery,Restaurant,113,4.2,Active
+716,Anna Nagar,Pet Shop,83,4.4,Active
+717,OMR,Pet Shop,10,4.7,Active
+718,Tambaram,Supermarket,37,4.0,Active
+719,Besant Nagar,Cafe,39,3.5,Active
+720,Besant Nagar,Clothing Store,69,4.7,Active
+721,Mylapore,Bakery,38,3.5,Active
+722,Velachery,Restaurant,106,3.1,Active
+723,Mylapore,Pet Shop,1,2.9,Active
+724,Mylapore,Medical Shop,49,4.7,Active
+725,T Nagar,Laundromat,68,3.7,Active
+726,Nungambakkam,Clinic,2,4.1,Active
+727,Velachery,Gym,53,3.2,Active
+728,Adyar,Gym,50,2.6,Active
+729,Anna Nagar,Co-working Space,41,4.7,Active
+730,OMR,Pet Shop,10,4.4,Active
+731,OMR,Medical Shop,38,4.8,Active
+732,Anna Nagar,Gym,17,4.3,Active
+733,Tambaram,Supermarket,51,2.9,Active
+734,Adyar,Co-working Space,71,3.5,Active
+735,Velachery,Supermarket,15,3.0,Closed
+736,Mylapore,Bakery,69,4.0,Active
+737,Besant Nagar,Pet Shop,14,4.6,Active
+738,Mylapore,Cafe,14,3.0,Active
+739,Velachery,Supermarket,56,3.9,Active
+740,Adyar,Bookstore,16,4.2,Active
+741,Mylapore,Electronics,31,2.8,Active
+742,Besant Nagar,Medical Shop,86,4.8,Closed
+743,Mylapore,Co-working Space,101,3.1,Active
+744,Adyar,Gym,96,4.8,Active
+745,Nungambakkam,Bakery,5,3.4,Active
+746,Tambaram,Restaurant,28,2.9,Active
+747,Adyar,Clothing Store,35,3.0,Active
+748,Guindy,Salon,54,3.0,Active
+749,Nungambakkam,Medical Shop,57,2.9,Active
+750,Guindy,Bookstore,80,3.1,Active
+751,Guindy,Bakery,83,4.5,Active
+752,Adyar,Clothing Store,83,4.3,Active
+753,Nungambakkam,Hardware Store,110,4.8,Active
+754,T Nagar,Cafe,93,4.3,Active
+755,OMR,Pet Shop,8,4.9,Active
+756,Guindy,Restaurant,46,5.0,Active
+757,Besant Nagar,Clothing Store,25,3.7,Closed
+758,Velachery,Clinic,36,4.8,Active
+759,Velachery,Gym,6,3.9,Active
+760,Guindy,Gym,107,3.2,Active
+761,Besant Nagar,Co-working Space,32,2.5,Closed
+762,Tambaram,Pet Shop,36,2.7,Active
+763,T Nagar,Clothing Store,38,4.5,Closed
+764,Nungambakkam,Electronics,107,4.9,Active
+765,Mylapore,Electronics,112,4.1,Closed
+766,T Nagar,Electronics,85,3.1,Active
+767,T Nagar,Bakery,77,4.2,Active
+768,Mylapore,Medical Shop,21,2.9,Active
+769,T Nagar,Salon,100,4.4,Closed
+770,Guindy,Co-working Space,49,3.1,Active
+771,Anna Nagar,Cafe,88,4.5,Active
+772,T Nagar,Medical Shop,4,2.9,Active
+773,Nungambakkam,Bakery,11,4.6,Active
+774,Tambaram,Electronics,30,3.7,Active
+775,T Nagar,Medical Shop,11,4.3,Active
+776,Velachery,Co-working Space,60,3.8,Active
+777,Velachery,Co-working Space,71,2.8,Active
+778,Mylapore,Medical Shop,117,4.4,Active
+779,Mylapore,Salon,52,3.0,Active
+780,OMR,Electronics,30,3.0,Active
+781,Nungambakkam,Clinic,64,4.6,Active
+782,Velachery,Salon,16,2.8,Active
+783,Tambaram,Gym,84,5.0,Active
+784,Besant Nagar,Electronics,119,4.0,Active
+785,OMR,Co-working Space,115,3.3,Active
+786,Tambaram,Pet Shop,69,4.5,Active
+787,T Nagar,Restaurant,61,3.5,Active
+788,Tambaram,Bakery,35,3.3,Active
+789,Nungambakkam,Supermarket,16,4.6,Closed
+790,OMR,Hardware Store,70,4.6,Active
+791,Nungambakkam,Medical Shop,90,3.9,Active
+792,Anna Nagar,Supermarket,30,4.5,Closed
+793,Guindy,Bookstore,97,2.6,Active
+794,Velachery,Bookstore,36,4.0,Active
+795,Besant Nagar,Laundromat,93,3.7,Active
+796,Anna Nagar,Cafe,11,2.8,Active
+797,Mylapore,Cafe,63,3.2,Closed
+798,Mylapore,Hardware Store,14,4.7,Closed
+799,Mylapore,Clinic,97,4.1,Active
+800,Mylapore,Gym,112,3.2,Active
+801,Besant Nagar,Salon,36,3.8,Active
+802,T Nagar,Medical Shop,62,2.8,Active
+803,Nungambakkam,Medical Shop,33,2.6,Closed
+804,Besant Nagar,Supermarket,30,3.1,Active
+805,Velachery,Laundromat,20,3.3,Active
+806,Adyar,Cafe,12,2.6,Closed
+807,Guindy,Electronics,119,3.1,Closed
+808,Guindy,Co-working Space,69,3.4,Active
+809,Anna Nagar,Co-working Space,113,4.4,Active
+810,Nungambakkam,Electronics,47,2.6,Closed
+811,Mylapore,Medical Shop,4,4.6,Active
+812,Tambaram,Supermarket,78,3.5,Closed
+813,T Nagar,Laundromat,69,3.3,Active
+814,Tambaram,Bookstore,3,3.3,Closed
+815,Tambaram,Clothing Store,102,3.5,Active
+816,Mylapore,Co-working Space,20,4.4,Active
+817,Besant Nagar,Hardware Store,56,3.4,Active
+818,Anna Nagar,Electronics,100,4.5,Active
+819,Tambaram,Clothing Store,32,3.5,Closed
+820,Mylapore,Gym,57,3.3,Active
+821,Nungambakkam,Electronics,5,4.7,Active
+822,Tambaram,Co-working Space,27,3.4,Active
+823,Nungambakkam,Gym,107,4.6,Active
+824,T Nagar,Laundromat,116,3.7,Active
+825,Nungambakkam,Salon,41,2.9,Active
+826,Guindy,Bakery,91,4.4,Active
+827,Tambaram,Hardware Store,110,3.6,Active
+828,OMR,Clothing Store,52,3.1,Closed
+829,Velachery,Pet Shop,54,3.8,Active
+830,Nungambakkam,Electronics,53,2.9,Active
+831,Guindy,Medical Shop,38,3.5,Active
+832,Velachery,Medical Shop,31,4.5,Closed
+833,Adyar,Salon,31,4.1,Closed
+834,T Nagar,Hardware Store,62,3.5,Active
+835,Adyar,Co-working Space,35,4.7,Active
+836,Tambaram,Salon,113,2.9,Closed
+837,Nungambakkam,Medical Shop,69,3.7,Active
+838,Anna Nagar,Pet Shop,29,3.5,Active
+839,Adyar,Clothing Store,99,2.6,Closed
+840,Anna Nagar,Pet Shop,99,2.9,Closed
+841,Guindy,Pet Shop,70,3.8,Closed
+842,T Nagar,Bookstore,54,4.5,Active
+843,Tambaram,Supermarket,119,3.4,Active
+844,Tambaram,Bookstore,62,3.6,Active
+845,Mylapore,Bakery,100,4.7,Closed
+846,Tambaram,Clothing Store,102,2.9,Closed
+847,Adyar,Medical Shop,44,3.0,Active
+848,Adyar,Clinic,97,2.9,Active
+849,T Nagar,Bookstore,100,4.4,Closed
+850,Velachery,Clothing Store,69,3.8,Active
+851,Nungambakkam,Co-working Space,109,3.5,Active
+852,Tambaram,Salon,35,2.9,Active
+853,Mylapore,Clothing Store,22,2.8,Active
+854,Nungambakkam,Gym,99,4.3,Active
+855,Mylapore,Gym,102,2.8,Closed
+856,Adyar,Restaurant,8,5.0,Active
+857,Velachery,Gym,103,2.7,Active
+858,Anna Nagar,Salon,53,4.3,Closed
+859,Adyar,Pet Shop,11,3.5,Closed
+860,Adyar,Restaurant,1,4.0,Active
+861,Nungambakkam,Cafe,16,4.7,Active
+862,Anna Nagar,Electronics,21,3.1,Active
+863,OMR,Salon,7,3.0,Closed
+864,Tambaram,Salon,102,3.2,Active
+865,Adyar,Laundromat,66,4.7,Active
+866,Tambaram,Hardware Store,70,2.9,Active
+867,Besant Nagar,Cafe,3,3.0,Closed
+868,T Nagar,Supermarket,93,3.6,Active
+869,Besant Nagar,Pet Shop,84,3.0,Active
+870,Adyar,Co-working Space,9,4.2,Active
+871,Mylapore,Bakery,18,2.9,Active
+872,Guindy,Bakery,34,2.7,Active
+873,Besant Nagar,Co-working Space,102,3.2,Active
+874,Guindy,Salon,16,3.3,Closed
+875,Adyar,Bookstore,106,3.0,Active
+876,Nungambakkam,Pet Shop,76,3.2,Active
+877,Anna Nagar,Co-working Space,62,2.9,Closed
+878,Guindy,Bookstore,22,3.0,Active
+879,OMR,Clinic,78,4.0,Active
+880,Tambaram,Bakery,77,2.7,Active
+881,Guindy,Salon,54,3.3,Active
+882,Anna Nagar,Medical Shop,67,3.4,Active
+883,Nungambakkam,Medical Shop,43,3.5,Active
+884,Adyar,Medical Shop,111,3.2,Closed
+885,Tambaram,Gym,94,3.9,Active
+886,Tambaram,Salon,22,4.3,Active
+887,OMR,Bookstore,28,2.9,Active
+888,Guindy,Bookstore,13,3.7,Active
+889,T Nagar,Restaurant,60,4.1,Closed
+890,Tambaram,Gym,64,3.2,Active
+891,T Nagar,Pet Shop,39,4.8,Active
+892,Tambaram,Laundromat,53,4.8,Active
+893,Anna Nagar,Gym,100,4.1,Active
+894,Anna Nagar,Clothing Store,60,3.1,Closed
+895,Anna Nagar,Electronics,74,4.6,Active
+896,OMR,Medical Shop,41,4.0,Active
+897,T Nagar,Medical Shop,19,4.2,Active
+898,Nungambakkam,Restaurant,15,3.2,Active
+899,Mylapore,Restaurant,45,2.8,Active
+900,Besant Nagar,Clothing Store,118,4.3,Closed
+901,Anna Nagar,Salon,23,3.3,Active
+902,Besant Nagar,Electronics,32,3.2,Closed
+903,Tambaram,Cafe,21,3.6,Active
+904,Tambaram,Electronics,5,3.4,Active
+905,Besant Nagar,Bookstore,47,3.1,Active
+906,Adyar,Co-working Space,119,4.9,Active
+907,Mylapore,Bakery,65,3.2,Active
+908,Mylapore,Clothing Store,114,4.7,Closed
+909,Guindy,Medical Shop,76,3.7,Closed
+910,Anna Nagar,Bakery,59,4.4,Active
+911,Tambaram,Hardware Store,12,3.6,Active
+912,Tambaram,Electronics,52,3.2,Active
+913,Besant Nagar,Cafe,17,4.6,Closed
+914,T Nagar,Supermarket,39,3.1,Active
+915,Velachery,Hardware Store,69,4.7,Closed
+916,Guindy,Cafe,68,2.9,Active
+917,Velachery,Salon,57,4.6,Closed
+918,OMR,Co-working Space,86,2.7,Active
+919,OMR,Bakery,37,4.8,Active
+920,Mylapore,Bookstore,18,3.3,Active
+921,Anna Nagar,Electronics,109,4.4,Active
+922,Guindy,Bookstore,77,5.0,Active
+923,OMR,Medical Shop,29,4.7,Active
+924,T Nagar,Supermarket,69,3.4,Closed
+925,OMR,Bakery,65,2.7,Closed
+926,Nungambakkam,Clinic,44,3.7,Active
+927,OMR,Bakery,23,3.9,Active
+928,T Nagar,Medical Shop,102,3.1,Active
+929,Tambaram,Medical Shop,119,3.9,Active
+930,Mylapore,Clothing Store,22,2.8,Active
+931,Nungambakkam,Laundromat,116,3.4,Active
+932,Mylapore,Bookstore,73,3.5,Active
+933,OMR,Clothing Store,21,3.9,Closed
+934,Velachery,Co-working Space,110,2.7,Active
+935,Tambaram,Cafe,9,2.8,Active
+936,Adyar,Cafe,16,3.2,Closed
+937,T Nagar,Medical Shop,10,4.8,Active
+938,Adyar,Pet Shop,95,4.8,Active
+939,T Nagar,Clothing Store,73,4.7,Closed
+940,OMR,Hardware Store,116,3.7,Active
+941,Guindy,Medical Shop,7,4.8,Active
+942,Anna Nagar,Bookstore,22,4.6,Active
+943,Guindy,Hardware Store,53,4.7,Active
+944,Nungambakkam,Restaurant,49,3.8,Closed
+945,Besant Nagar,Restaurant,118,3.4,Active
+946,T Nagar,Bakery,41,4.6,Active
+947,Tambaram,Hardware Store,73,2.6,Active
+948,Velachery,Hardware Store,73,3.5,Closed
+949,Nungambakkam,Medical Shop,73,2.6,Active
+950,Tambaram,Salon,30,2.9,Active
+951,Nungambakkam,Gym,74,3.7,Active
+952,Anna Nagar,Laundromat,18,4.5,Active
+953,Adyar,Co-working Space,64,4.0,Active
+954,Tambaram,Pet Shop,68,3.0,Active
+955,Mylapore,Gym,7,4.2,Active
+956,Anna Nagar,Restaurant,73,4.3,Closed
+957,Nungambakkam,Cafe,24,3.4,Active
+958,Nungambakkam,Hardware Store,55,4.0,Active
+959,Velachery,Gym,68,4.8,Closed
+960,Mylapore,Laundromat,58,4.0,Active
+961,OMR,Clinic,39,4.6,Active
+962,Tambaram,Pet Shop,65,4.8,Active
+963,Anna Nagar,Co-working Space,117,3.0,Active
+964,Adyar,Clinic,86,3.9,Active
+965,Guindy,Clinic,67,3.2,Active
+966,T Nagar,Restaurant,6,3.5,Active
+967,Nungambakkam,Restaurant,99,3.0,Active
+968,Nungambakkam,Cafe,100,4.6,Active
+969,Mylapore,Clinic,9,3.1,Active
+970,Adyar,Clinic,105,2.6,Closed
+971,Besant Nagar,Laundromat,41,3.1,Closed
+972,Nungambakkam,Pet Shop,32,4.1,Closed
+973,Nungambakkam,Bookstore,93,4.5,Active
+974,T Nagar,Salon,110,4.5,Active
+975,OMR,Hardware Store,70,3.2,Active
+976,Besant Nagar,Cafe,7,4.9,Active
+977,Velachery,Electronics,22,4.0,Closed
+978,Besant Nagar,Bookstore,79,3.9,Active
+979,Velachery,Electronics,48,4.5,Active
+980,T Nagar,Laundromat,96,4.9,Active
+981,T Nagar,Bookstore,69,3.4,Closed
+982,Velachery,Co-working Space,43,3.7,Active
+983,OMR,Co-working Space,59,3.9,Active
+984,T Nagar,Pet Shop,31,4.1,Active
+985,Mylapore,Clinic,80,3.6,Active
+986,Adyar,Gym,52,3.9,Active
+987,Guindy,Clothing Store,87,3.4,Active
+988,Tambaram,Co-working Space,13,3.2,Active
+989,Anna Nagar,Bakery,55,3.6,Active
+990,Guindy,Cafe,70,2.7,Active
+991,Adyar,Laundromat,84,5.0,Active
+992,Guindy,Gym,79,4.0,Active
+993,Besant Nagar,Laundromat,27,4.0,Active
+994,Mylapore,Medical Shop,95,2.8,Closed
+995,Anna Nagar,Gym,26,4.6,Closed
+996,Nungambakkam,Bookstore,67,4.3,Active
+997,Velachery,Co-working Space,54,3.6,Active
+998,Nungambakkam,Supermarket,70,3.0,Active
+999,T Nagar,Clothing Store,7,3.8,Active
+1000,Adyar,Gym,101,4.4,Closed
