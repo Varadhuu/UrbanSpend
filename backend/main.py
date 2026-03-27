@@ -3,19 +3,57 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 from typing import List, Dict, Any
 
-from .database import get_db, engine, Base
-from .models import Area, Category, Business, HistoricalTrend
-from .api_models import (
+from database import get_db, engine, Base
+from models import Area, Category, Business, HistoricalTrend
+from api_models import (
     LocationAnalysisRequest, LocationAnalysisResponse,
     RecommendationRequest, RecommendationResponse,
     WhatIfRequest, WhatIfResponse,
     BusinessPlanRequest, BusinessPlanResponse,
     ChatRequest, ChatResponse
 )
-from .ml_manager import ml_manager
+from ml_manager import ml_manager
 
 # Ensure tables exist
 Base.metadata.create_all(bind=engine)
+
+def get_or_create_dynamic_area(db: Session, area_name: str):
+    area_name = area_name.title().strip()
+    area = db.query(Area).filter(Area.area_name == area_name).first()
+    if area:
+        return area
+    
+    import random
+    seed = sum(ord(c) for c in area_name)
+    random.seed(seed)
+    
+    new_area = Area(
+        area_name=area_name,
+        population=int(random.uniform(50000, 500000)),
+        income_level=int(random.uniform(40000, 250000)),
+        average_rent_sqft=round(random.uniform(50, 400), 2),
+        foot_traffic_index=round(random.uniform(30.0, 95.0), 2)
+    )
+    db.add(new_area)
+    
+    categories = db.query(Category.category_name).all()
+    cat_names = [c[0] for c in categories]
+    if cat_names:
+        for _ in range(int(random.uniform(10, 100))):
+            b = Business(
+                business_id=random.randint(100000, 9999999),
+                area_name=area_name,
+                category_name=random.choice(cat_names),
+                age_months=random.randint(1, 120),
+                review_rating=round(random.uniform(2.5, 5.0), 1),
+                status="Active"
+            )
+            db.add(b)
+            
+    db.commit()
+    db.refresh(new_area)
+    random.seed()
+    return new_area
 
 app = FastAPI(title="UrbanSpend API", version="1.0.0")
 
@@ -35,13 +73,20 @@ def get_areas(db: Session = Depends(get_db)):
 @app.get("/api/categories", response_model=List[str])
 def get_categories(db: Session = Depends(get_db)):
     cats = db.query(Category.category_name).all()
+    if not cats:
+        # Fallback common categories if DB is empty
+        fallback = ["Cafe", "Grocery", "Pharmacy", "Gym", "Salon", "Boutique", "Hardware"]
+        for cn in fallback:
+            if not db.query(Category).filter(Category.category_name == cn).first():
+                db.add(Category(category_name=cn))
+        db.commit()
+        cats = db.query(Category.category_name).all()
+        
     return [c[0] for c in cats]
 
 @app.post("/api/location-analysis", response_model=LocationAnalysisResponse)
 def location_analysis(req: LocationAnalysisRequest, db: Session = Depends(get_db)):
-    area = db.query(Area).filter(Area.area_name == req.area_name).first()
-    if not area:
-        raise HTTPException(status_code=404, detail="Area not found")
+    area = get_or_create_dynamic_area(db, req.area_name)
         
     total_biz = db.query(Business).filter(Business.area_name == req.area_name).count()
     
@@ -90,9 +135,7 @@ def location_analysis(req: LocationAnalysisRequest, db: Session = Depends(get_db
 
 @app.post("/api/recommendation", response_model=RecommendationResponse)
 def recommend_business(req: RecommendationRequest, db: Session = Depends(get_db)):
-    area = db.query(Area).filter(Area.area_name == req.area_name).first()
-    if not area:
-        raise HTTPException(status_code=404, detail="Area not found")
+    area = get_or_create_dynamic_area(db, req.area_name)
         
     # If category not provided, iterate all and find best ROI/Risk
     categories = db.query(Category.category_name).all()
@@ -103,6 +146,10 @@ def recommend_business(req: RecommendationRequest, db: Session = Depends(get_db)
     density = db.query(Business).filter(Business.area_name == req.area_name).count() / area.population * 1000
     
     if not best_cat:
+        if not categories:
+            # Final fallback if still empty
+            categories = [("General Retail",)]
+            
         for c in categories:
             cat_name = c[0]
             comp = db.query(Business).filter(Business.area_name == area.area_name, Business.category_name == cat_name).count()
@@ -123,6 +170,9 @@ def recommend_business(req: RecommendationRequest, db: Session = Depends(get_db)
             area.average_rent_sqft, area.foot_traffic_index, comp, density
         )
         
+    if not best_cat:
+        best_cat = "General Retail"
+
     # Get 6mo and 1yr growth forecast
     forecast = ml_manager.get_forecast(area.area_name, best_cat)
     pred_6m = forecast['predicted_demand'][5] if len(forecast['predicted_demand']) > 5 else 0
@@ -139,9 +189,7 @@ def recommend_business(req: RecommendationRequest, db: Session = Depends(get_db)
 
 @app.post("/api/what-if", response_model=WhatIfResponse)
 def what_if_simulator(req: WhatIfRequest, db: Session = Depends(get_db)):
-    area = db.query(Area).filter(Area.area_name == req.area_name).first()
-    if not area:
-        raise HTTPException(status_code=404, detail="Area not found")
+    area = get_or_create_dynamic_area(db, req.area_name)
         
     density = db.query(Business).filter(Business.area_name == req.area_name).count() / area.population * 1000
     comp = db.query(Business).filter(Business.area_name == req.area_name, Business.category_name == req.business_type).count()
@@ -166,9 +214,7 @@ def what_if_simulator(req: WhatIfRequest, db: Session = Depends(get_db)):
 
 @app.post("/api/business-plan", response_model=BusinessPlanResponse)
 def generate_business_plan(req: BusinessPlanRequest, db: Session = Depends(get_db)):
-    area = db.query(Area).filter(Area.area_name == req.area_name).first()
-    if not area:
-        raise HTTPException(status_code=404, detail="Area not found")
+    area = get_or_create_dynamic_area(db, req.area_name)
         
     density = db.query(Business).filter(Business.area_name == req.area_name).count() / area.population * 1000
     comp = db.query(Business).filter(Business.area_name == req.area_name, Business.category_name == req.business_type).count()

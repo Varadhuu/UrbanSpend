@@ -13,7 +13,7 @@ export default function LocationAnalysis({ globalArea }) {
     const [loading, setLoading] = useState(false);
 
     useEffect(() => {
-        if (globalArea !== undefined) {
+        if (globalArea !== undefined && globalArea !== '') {
             setSelectedArea(globalArea);
         }
     }, [globalArea]);
@@ -50,17 +50,21 @@ export default function LocationAnalysis({ globalArea }) {
                     <p className="text-sm text-slate-500 dark:text-slate-400">Discover metrics for a specific area</p>
                 </div>
 
-                {globalArea === undefined && (
+
+            </div>
+
+            {globalArea === undefined && (
+                <div className="mb-6">
                     <select
                         value={selectedArea}
                         onChange={(e) => setSelectedArea(e.target.value)}
-                        className="mt-4 sm:mt-0 bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 outline-none"
+                        className="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 rounded-xl px-4 py-2 focus:ring-2 focus:ring-blue-500 outline-none"
                     >
                         <option value="">Select an Area</option>
                         {areas.map(a => <option key={a} value={a}>{a}</option>)}
                     </select>
-                )}
-            </div>
+                </div>
+            )}
 
             {loading ? (
                 <div className="h-64 flex items-center justify-center">

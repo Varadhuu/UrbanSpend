@@ -67,20 +67,21 @@ export default function WhatIfSimulator({ globalArea }) {
                             Investment Amount (₹) <span className="text-emerald-600 dark:text-emerald-400 font-bold">₹{form.budget.toLocaleString()}</span>
                         </label>
                         <input
-                            type="range"
+                            type="number"
                             min="10000" max="1000000" step="10000"
                             value={form.budget}
                             onChange={(e) => {
                                 setForm({ ...form, budget: Number(e.target.value) });
                                 if (form.area && form.category) setTimeout(simulate, 300);
                             }}
-                            className="w-full h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer dark:bg-slate-700 accent-emerald-500"
+                            className="w-full bg-slate-50/50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-600 rounded-xl px-4 py-2.5 outline-none focus:border-emerald-500 focus:ring-4 focus:ring-emerald-500/10 transition-all font-medium"
                         />
                     </div>
 
                     <div className="space-y-4 pt-2">
                         {globalArea === undefined && (
                             <div>
+                                <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Target Area</label>
                                 <select
                                     value={form.area}
                                     onChange={(e) => {
@@ -95,6 +96,7 @@ export default function WhatIfSimulator({ globalArea }) {
                             </div>
                         )}
                         <div>
+                            <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Business Type</label>
                             <select
                                 value={form.category}
                                 onChange={(e) => {

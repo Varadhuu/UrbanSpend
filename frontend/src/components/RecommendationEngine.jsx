@@ -5,7 +5,6 @@ import { Sparkles, TrendingUp, AlertTriangle, CheckCircle2 } from 'lucide-react'
 export default function RecommendationEngine({ globalArea }) {
     const [areas, setAreas] = useState([]);
     const [categories, setCategories] = useState([]);
-
     const [form, setForm] = useState({ area: '', budget: 50000, category: 'Any' });
     const [result, setResult] = useState(null);
     const [loading, setLoading] = useState(false);
@@ -40,7 +39,6 @@ export default function RecommendationEngine({ globalArea }) {
             <h2 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2 mb-6">
                 <Sparkles className="text-indigo-500 w-5 h-5" /> Recommendation Engine
             </h2>
-
             <form onSubmit={handleSubmit} className="space-y-4 mb-6">
                 {globalArea === undefined && (
                     <div>
@@ -57,27 +55,26 @@ export default function RecommendationEngine({ globalArea }) {
                     </div>
                 )}
 
-                <div className="grid grid-cols-2 gap-4">
-                    <div>
-                        <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Budget (₹)</label>
-                        <input
-                            type="number"
-                            value={form.budget}
-                            onChange={(e) => setForm({ ...form, budget: Number(e.target.value) })}
-                            className="w-full bg-slate-50/50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-600 rounded-xl px-4 py-2.5 outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all font-medium"
-                        />
-                    </div>
-                    <div>
-                        <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Category (Optional)</label>
-                        <select
-                            value={form.category}
-                            onChange={(e) => setForm({ ...form, category: e.target.value })}
-                            className="w-full bg-slate-50/50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-600 rounded-xl px-4 py-2.5 outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all font-medium"
-                        >
-                            <option value="Any">Any Category</option>
-                            {categories.map(c => <option key={c} value={c}>{c}</option>)}
-                        </select>
-                    </div>
+                <div>
+                    <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Business Type</label>
+                    <select
+                        value={form.category}
+                        onChange={(e) => setForm({ ...form, category: e.target.value })}
+                        className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-2 outline-none focus:border-indigo-500 mb-4"
+                    >
+                        <option value="Any">Any (AI Best Match)</option>
+                        {categories.map(c => <option key={c} value={c}>{c}</option>)}
+                    </select>
+                </div>
+
+                <div>
+                    <label className="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Budget (₹)</label>
+                    <input
+                        type="number"
+                        value={form.budget}
+                        onChange={(e) => setForm({ ...form, budget: Number(e.target.value) })}
+                        className="w-full bg-slate-50/50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-600 rounded-xl px-4 py-2.5 outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all font-medium"
+                    />
                 </div>
 
                 <button

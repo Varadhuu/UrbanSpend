@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy.orm import Session
-from .database import engine, Base, SessionLocal
-from .models import Area, Category, Business, HistoricalTrend
+from database import engine, Base, SessionLocal
+from models import Area, Category, Business, HistoricalTrend
 import os
 
 def seed_database():
@@ -10,11 +10,10 @@ def seed_database():
     
     db = SessionLocal()
     
-    # Check if data already exists
-    if db.query(Area).first():
-        print("Database already seeded.")
-        db.close()
-        return
+    # Check if data already exists, but we want to drop and reseed anyway
+    print("Dropping existing tables to ensure a fresh data load...")
+    Base.metadata.drop_all(bind=engine)
+    Base.metadata.create_all(bind=engine)
 
     print("Loading data from CSVs...")
     data_dir = os.path.join(os.path.dirname(__file__), "..", "data")

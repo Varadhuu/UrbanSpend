@@ -4,7 +4,6 @@ import LocationAnalysis from '../components/LocationAnalysis';
 import RecommendationEngine from '../components/RecommendationEngine';
 import WhatIfSimulator from '../components/WhatIfSimulator';
 import Chatbot from '../components/Chatbot';
-import { MapPin } from 'lucide-react';
 
 function Dashboard() {
     const [areas, setAreas] = useState([]);
@@ -33,16 +32,14 @@ function Dashboard() {
                 </p>
 
                 {/* Global Area Selector */}
-                <div className="max-w-xl mx-auto bg-white/70 dark:bg-slate-800/70 backdrop-blur-md p-4 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-xl shadow-blue-500/5 dark:shadow-indigo-500/5 transition-all">
-                    <label className="flex items-center justify-center text-sm font-bold text-slate-700 dark:text-slate-300 mb-3 gap-2">
-                        <MapPin className="text-blue-500 w-5 h-5" /> Target Area Selection
-                    </label>
+                <div className="max-w-md mx-auto space-y-4">
+                    <p className="text-sm font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider">Select Analysis Location</p>
                     <select
-                        value={globalArea}
+                        value={globalArea || ''}
                         onChange={(e) => setGlobalArea(e.target.value)}
-                        className="w-full bg-slate-50 dark:bg-slate-900 border-2 border-slate-200 dark:border-slate-600 rounded-xl px-5 py-3 outline-none focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 transition-all font-semibold text-slate-800 dark:text-white text-lg appearance-none cursor-pointer text-center"
+                        className="w-full bg-white dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 rounded-xl px-4 py-3 focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 outline-none transition-all shadow-sm font-medium"
                     >
-                        <option value="">-- Select a Location Globally --</option>
+                        <option value="">Select an Area to Analyze (All Locations)</option>
                         {areas.map(a => <option key={a} value={a}>{a}</option>)}
                     </select>
                 </div>
