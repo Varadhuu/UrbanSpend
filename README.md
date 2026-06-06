@@ -264,62 +264,6 @@ UrbanSpend/
 ├── .gitignore
 └── docker-compose.yml
 ```
-
-# 🔄 Application Workflow
-
-### Step 1
-
-User selects:
-
-- Area
-- Budget
-- Business Type
-
----
-
-### Step 2
-
-React frontend sends request to FastAPI backend.
-
----
-
-### Step 3
-
-Backend retrieves location data from SQLite.
-
----
-
-### Step 4
-
-Machine Learning models analyze:
-
-- Population
-- Income
-- Rent
-- Foot Traffic
-- Competition
-
----
-
-### Step 5
-
-Predictions are generated:
-
-- Risk Score
-- ROI Timeline
-- Growth Potential
-
----
-
-### Step 6
-
-Results are displayed through:
-
-- Charts
-- Business Recommendations
-- Area Insights
-- AI-generated Business Plans
-
 ---
 
 # 🚀 Future Enhancements
@@ -327,9 +271,7 @@ Results are displayed through:
 - Google Maps Integration
 - GIS Heatmaps
 - Real-Time Traffic Data
-- Demand Forecasting
 - Competitor Monitoring
-- Social Media Sentiment Analysis
 - AI-Powered Report Generation
 - Multi-City Analysis
 - Investment Portfolio Insights
@@ -339,5 +281,3 @@ Results are displayed through:
 # 👨‍💻 Author
 
 ### Varadha Rajan S
-
-## Transforming Urban Data into Business Intelligence.
